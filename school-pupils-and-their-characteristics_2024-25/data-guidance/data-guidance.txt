@@ -1,0 +1,64 @@
+Schools, pupils and their characteristics
+Academic year 2024/25
+
+Description
+
+This document describes the data included in the ‘Schools, pupils and their characteristics’ National Statistics release’s underlying data files. This data is released under the terms of the  Open Government License (opens in a new tab) (http://www.nationalarchives.gov.uk/doc/open-government-licence/) and is intended to meet at least 3 stars for  Open Data (opens in a new tab) (https://www.gov.uk/government/policies/improving-the-transparency-and-accountability-of-government-and-its-services/supporting-pages/releasing-data-in-open-formats).
+
+The publication methodology, available on the publication report, should be referenced alongside this data. It provides information on the data sources, their coverage and quality as well as explaining methodology used in producing the data.
+
+Coverage
+
+This release provides information on the number of schools and pupils in:
+
+- state-funded primary schools
+- state-funded secondary schools
+- state-funded special schools
+- non-maintained special schools
+- pupil referral units
+- independent schools
+- local authority alternative provision
+
+It includes information on:
+
+- pupil numbers, including headcount and fte, gender, ethnicity, language and free school meals eligibility
+- school numbers, including school type, academy status, denomination, admission policy, urban/rural and gender
+
+The information is based on data collected via the pupil level spring school census, school level annual school census, general hospital schools census and alternative provision census.
+
+File formats and conventions
+
+Rounding
+
+These datasets have not had suppression applied.
+
+Conventions
+
+The following convention is used throughout the underlying data.
+
+‘x’ Not applicable
+
+‘z’ Unknown
+
+Data files
+
+Class sizes - state-funded primary and secondary schools
+
+Filename: spc_class_size.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2015/16 to 2024/25
+Content summary: Number of pupils and classes and average class sizes for state-funded primary and secondary schools, including infant and key stage 2 class sizes.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name       |  Variable description
+------------------  |  --------------------------------------------------------------------------------------
+average_class_size  |  Average class size
+classtype           |  Type of class - Type of class (Infant (Reception plus KS1), KS2, Primary or Secondary)
+number_of_classes   |  Number of classes
+number_of_pupils    |  Number of pupils
+size                |  Size of class - Class size (1 to 30, 31 to 35, 36 plus)
+
+Footnotes:
+
+1. Totals include state-funded nursery, primary, secondary, alternative provision (AP) schools and special schools, and non-maintained special schools. Does not include independent schools nor general hospital schools. This is because independent and hospital schools submit an aggregate school level census that does not include characteristics breakdowns such as ethnicity, age and language.
