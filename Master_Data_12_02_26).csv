@@ -1,0 +1,1320 @@
+Area,Ward,Number of schools,School,School URN,Year,Catchment area km2,Total road length in catchment,% of minor roads,Avg elevation,% of catchment in flood-risk zone,Road flood days per year,% of road length flooded at least once,Max flood duration,School population,Absence rate,Persistent absence,Avg lateness,School closure occured,Attainment score,Year-on-year attainment,YY value
+Calderdale,,,Abbey Park Academy,140172,2015,18.9596,15.61,76.3,,1.689993816,,,,214,4.8,4.3,,,84%,,
+Calderdale,,,Abbey Park Academy,140172,2023,18.9596,15.61,76.3,,1.689993816,,,,218,6.1,18,,,57%,,
+Calderdale,,,"Abbey Park Junior, Infant and Nursery School",107498,2012,18.9596,,76.3,,1.689993816,,,,220,4.3,2.9,,,50%,,
+Calderdale,,,Akroydon Primary Academy,143651,2018,,19.2,81,,0.602108941,,,,372,4.7,10.3,,,62%,,
+Calderdale,,,All Saints' CofE Primary School,107569,2023,13.5122,12.59,57.4,,,,,,212,3.3,2.7,,,63%,,
+Calderdale,,,All Saints' CofE VA Junior and Infant School,107569,2012,13.5122,12.59,57.4,,,,,,,,,,,97%,,
+Calderdale,,,Ash Green Community Primary School,107534,2012,0.833288,19.34,82.7,,25.06545058,,,,451,4,1.8,,,72%,,
+Calderdale,,,Ash Green Community Primary School,107534,2023,0.833288,19.34,82.7,,25.06545058,,,,487,8.2,26,,,62%,,
+Calderdale,,,Bailiffe Bridge Junior and Infant School,107499,2012,5.591459,,,,2.379727684,,,,208,3.5,1.7,,,90%,,
+Calderdale,,,Bailiffe Bridge Junior and Infant School,107499,2023,5.591459,,,,2.379727684,,,,198,3.4,5.2,,,67%,,
+Calderdale,,,Barkisland CofE VA Primary School,107552,2012,0.933458,25.67,62,,13.23643273,,,,168,2.8,0,,,80%,,
+Calderdale,,,Barkisland CofE VA Primary School,107552,2023,0.933458,25.67,62,,13.23643273,,,,193,3.5,3.5,,,58%,,
+Calderdale,,,Beech Hill Junior and Infant School,137337,2012,7.42068,14.29,76.2,,2.706083299,,,,531,6.4,7.1,,,81%,,
+Calderdale,,,Beech Hill School,137337,2023,7.42068,14.29,76.2,,2.706083299,,,,530,5.4,13.6,,,75%,,
+West Lindsey,,,Blyton Cum Laughton Church of England School,120619,2012,33.48251,67.89,67.6,,0.336168051,,,,159,3.6,,,,83.0%,,
+West Lindsey,,,Blyton Cum Laughton Church of England School,120619,2023,33.48251,67.89,67.6,,0.336168051,,,,132,6.4,14,,,63.0%,,
+Calderdale,,,Bolton Brow Junior Infant and Nursery School,137392,2012,7.53872,11.55,67.5,,2.233144414,,,,246,4.2,3.3,,,70%,,
+Calderdale,,,Bolton Brow Primary Academy,137392,2023,7.53872,11.55,67.5,,2.233144414,,,,240,3.8,5.4,,,73%,,
+Calderdale,,,Bowling Green Academy,148202,2023,37.10222,,,,1.964222259,,,,147,4.3,7.9,,,77%,,
+Calderdale,,,Bowling Green Primary School,107503,2012,37.10222,16.7,63.4,,1.964222259,,,,,,,,,87%,,
+Calderdale,,,Bradshaw Primary School,107479,2012,1.8801,,,,9.250517075,,,,,,,,,88%,,
+Calderdale,,,Bradshaw Primary School,137987,2013,1.8801,,,,9.250517075,,,,294,4.7,4,,,82%,,
+Calderdale,,,Bradshaw Primary School,137987,2023,1.8801,,,,9.250517075,,,,341,4.9,11.3,,,67%,,
+West Lindsey,,,Brocklesby Park Primary School,120442,2012,,,,,,,,,40,5.9,7.7,,,60.0%,,
+West Lindsey,,,Brocklesby Park Primary School,120442,2014,,,,,,,,,17,2.7,0,,,,,
+West Lindsey,,,Brocklesby Park Primary School,120442,2015,,,,,,,,,12,3.4,0,,,,,
+Calderdale,,,Burnley Road Academy,137391,2023,1.18329,27.07,69.5,,1.474858997,,,,195,5.6,16.1,,,54%,,
+Calderdale,,,Burnley Road Junior Infant and Nursery School,137391,2012,1.18329,27.07,69.5,,1.474858997,3,16.81,,222,4,3.9,,,80%,,
+West Lindsey,,,Caistor CofE and Methodist Primary School,120590,2012,36.45079,103.5,54.9,,10.47097577,,,,253,3.7,1.2,,,83.0%,,
+West Lindsey,,,Caistor CofE and Methodist Primary School,120590,2023,36.45079,103.5,54.9,,10.47097577,,,,222,5.3,16.7,,,47.0%,,
+Calderdale,,,"Calder High School, The Calder Learning Trust",107562,2018,,,,,,,,,1167,4.4,6.8,,,50%,,
+Calderdale,,,Carr Green Primary School,107500,2012,2.723014,,,,1.476046883,,,,371,3.1,1.8,,,80%,,
+Calderdale,,,Carr Green Primary School,107500,2023,2.723014,,,,1.476046883,,,,338,4.6,8.5,,,55%,,
+Calderdale,,,Castle Hill Primary School,107520,2012,17.01583,45.74,67.3,,3.506128646,3,3.05,,271,4.3,4.9,,,82%,,
+Calderdale,,,Castle Hill Primary School,107520,2023,17.01583,45.74,67.3,,3.506128646,,,,188,3.8,9.6,,,62%,,
+West Lindsey,,,Cherry Willingham Primary School,120505,2012,50.14085,28.37,76,,0.841087816,,,,280,3.7,1.6,,,58.0%,,
+Calderdale,,,"Christ Church CofE VA Junior School, Sowerby Bridge",107554,2012,3.087572,10.85,78.2,,1.52099389,,,,127,4.9,3.8,,,78%,,
+Calderdale,,,"Christ Church CofE VA Junior School, Sowerby Bridge",107554,2023,3.087572,10.85,78.2,,1.52099389,,,,105,8.2,29.8,,,64%,,
+Calderdale,,,Christ Church Pellon CofE VC Primary School,107535,2012,2.456504,12.6,89.5,,0.038496285,,,,187,5,6.5,,,54%,,
+Calderdale,,,Christ Church Pellon CofE VC Primary School,107535,2023,2.456504,12.6,89.5,,0.038496285,,,,171,9.2,31,,,20%,,
+Calderdale,,,Cliffe Hill Community Primary School,107525,2012,2.743502,9.74,77.4,,2.358604976,,,,183,6.4,8.8,,,46%,,
+Calderdale,,,Cliffe Hill Community Primary School,107525,2023,2.743502,9.74,77.4,,2.358604976,,,,192,8.2,27.1,,,50%,,
+Calderdale,,,Colden Junior and Infant School,107512,2012,4.06309,,,,2.62613911,,,,,,,,,87%,,
+Calderdale,,,Colden Junior and Infant School,107512,2023,4.06309,,,,2.62613911,,,,88,5.2,12.3,,,67%,,
+Calderdale,,,Copley Primary School,107480,2012,3.853452,13.21,70.8,,5.934485148,,,,,,,,,100%,,
+Calderdale,,,Copley Primary School,107480,2023,3.853452,13.21,70.8,,5.934485148,,,,288,4.2,7.7,,,63%,,
+Calderdale,,,"Cornholme Junior, Infant and Nursery School",107521,2012,46.56719,,,,2.787850044,,,,222,4.2,1.8,,,77%,,
+Calderdale,,,"Cornholme Junior, Infant and Nursery School",107521,2023,46.56719,,,,2.787850044,,,,170,6,18.1,,,54%,,
+West Lindsey,,,Corringham CofE VC Primary School,120568,2012,58.17132,63.19,62.7,,0.314801497,,,,92,4.1,,,,85.0%,,
+West Lindsey,,,Corringham CofE VC Primary School,120568,2023,58.17132,63.19,62.7,,0.314801497,,,,106,5,11.5,,,65.0%,,
+Calderdale,,,Cragg Vale Junior and Infant School,107508,2012,,,,,,,,,,,,,,86%,,
+Calderdale,,,Cragg Vale Junior and Infant School,107508,2014,,,,,,,,,65,3.1,0,,,75%,,
+Calderdale,,,Cross Lane Primary and Nursery School,107533,2012,1.677987,22.38,64,,9.945390826,,,,317,3.8,2,,,74%,,
+Calderdale,,,Cross Lane Primary and Nursery School,107533,2023,1.677987,22.38,64,,9.945390826,,,,334,5.1,10.5,,,60%,,
+Calderdale,,,Dean Field Community Primary School,107481,2012,1.147096,,,,18.1998684,,,,206,4.8,3.4,,,82%,,
+Calderdale,,,Dean Field Community Primary School,145400,2019,1.147096,9.53,93.1,,18.1998684,,,,219,3.7,8.7,,,40%,,
+Calderdale,,,Dean Field Community Primary School,145400,2023,1.147096,9.53,93.1,,18.1998684,,,,235,6.5,20.7,,,64%,,
+West Lindsey,,,Dunholme St Chad's Church of England Primary School,120569,2012,39.68114,36.36,69.5,,1.575466046,,,,157,3.2,2.8,,,88.0%,,
+West Lindsey,,,Dunholme St Chad's Church of England Primary School,120569,2023,39.68114,36.36,69.5,,1.575466046,,,,210,5.2,12.5,,,72.0%,,
+Calderdale,,,"Elland Church of England (Voluntary Aided) Junior, Infant and Nursery School",107550,2023,1.28494,25.59,64.6,,7.501624876,,,,177,7.2,22.7,,,33%,,
+Calderdale,,,Elland CofE Junior and Infant School,107550,2012,1.28494,25.59,64.6,,7.501624876,,,,188,4.5,2.7,,,67%,,
+West Lindsey,,,Ellison Boulters Church of England Primary School,138753,2012,69.55861,60.95,60.7,,1.230031406,,,,273,3.8,,,,79.0%,,
+West Lindsey,,,Ellison Boulters Church of England Primary School,138753,2023,69.55861,60.95,60.7,,1.230031406,,,,286,4.1,7.7,,,59.0%,,
+West Lindsey,,,Faldingworth Community Primary School,120445,2012,47.62965,89.07,65.9,,6.476988848,,,,53,4.9,,,,100.0%,,
+West Lindsey,,,Faldingworth Community Primary School,120445,2023,47.62965,89.07,65.9,,6.476988848,,,,70,6.8,14.1,,,50.0%,,
+Calderdale,,,Ferney Lee Primary School,107478,2012,1.164313,29.14,63.3,,3.920162677,,,,193,5.8,6.3,,,77%,,
+Calderdale,,,Ferney Lee Primary School,107478,2023,1.164313,29.14,63.3,,3.920162677,,,,211,6.8,24.5,,,45%,,
+Calderdale,,,Field Lane Primary School,107527,2012,3.712434,,,,1.894886883,,,,160,4.2,2.8,,,73%,,
+Calderdale,,,Field Lane Primary School,138398,2013,3.712434,12.48,84.2,,1.894886883,,,,157,4.8,2.4,,,86%,,
+Calderdale,,,Field Lane Primary School,138398,2023,3.712434,12.48,84.2,,1.894886883,,,,111,5.9,22,,,57%,,
+West Lindsey,,,Fiskerton Church of England Primary School,120570,2012,34.65824,36.76,70.6,,0.459646962,,,,65,3.6,,,,83.0%,,
+West Lindsey,,,Fiskerton Church of England Primary School,120570,2023,34.65824,36.76,70.6,,0.459646962,,,,89,4.5,11.1,,,47.0%,,
+West Lindsey,,,Frances Olive Anderson Church of England (Aided) Primary School,120625,2012,46.06844,23.11,63,,20.45537806,,,,161,4.9,5.8,,,76.0%,,
+West Lindsey,,,Frances Olive Anderson Church of England (Aided) Primary School,120625,2023,46.06844,23.11,63,,20.45537806,,,,168,4.6,6,,,44.0%,,
+West Lindsey,,,Gainsborough Benjamin Adlard Community School,138063,2012,47.97429,24.16,58.3,,17.04656777,,,,200,,,,,43.0%,,
+West Lindsey,,,Gainsborough Benjamin Adlard Community School,138063,2023,47.97429,24.16,58.3,,17.04656777,,,,233,6.7,17.9,,,50.0%,,
+Calderdale,,,Halifax Holy Trinity CofE (VA) Primary School,131176,2012,,,,,,,,,448,5.4,6.6,,,82%,,
+Calderdale,,,Hebden Royd CofE VA Primary School,107551,2012,5.988955,20.13,52.2,,3.775991091,3,11.39,,,,,,,44%,,
+Calderdale,,,Hebden Royd CofE VA Primary School,107551,2023,5.988955,20.13,52.2,,3.775991091,,,,111,5.3,11.8,,,86%,,
+West Lindsey,,,Hemswell Cliff Primary School,120491,2012,19.95389,62.19,51.4,,19.09329155,,,,87,5.4,5.8,,,63.0%,,
+West Lindsey,,,Hemswell Cliff Primary School,120491,2023,19.95389,62.19,51.4,,19.09329155,,,,42,7.6,36.1,,,30.0%,,
+Calderdale,,,Heptonstall Junior Infant and Nursery School,107511,2012,16.6126,23.81,60,,0.677648125,,,,90,3.5,0,,,100%,,
+Calderdale,,,Heptonstall Junior Infant and Nursery School,107511,2023,16.6126,23.81,60,,0.677648125,,,,66,5.1,12.3,,,64%,,
+Calderdale,,,Highbury School,107591,2018,,,,,,,,,76,6.2,19,,,0%,,
+Calderdale,,,Highbury School,107591,2013,,,,,,,,,,,,,,0%,,
+Calderdale,,,Highbury School,107591,2015,,,,,,,,,73,7,8.7,,,0%,,
+Calderdale,,,Highbury School,107591,2016,,,,,,,,,73,7.4,24.4,,,0%,,
+Calderdale,,,Highbury School,107591,2017,,,,,,,,,71,7,19.3,,,0%,,
+Calderdale,,,Highbury School,107591,2023,,,,,,,,,104,7.3,26,,,0%,,
+Calderdale,,,Highbury School,107591,2024,,,,,,,,,136,7.4,26.3,,,0%,,
+Calderdale,,,"Holy Trinity Primary School, A Church of England Academy",138302,2013,12.28809,17.12,85,,1.334359829,,,,451,5.9,6.1,,,81%,,
+Calderdale,,,"Holy Trinity Primary School, A Church of England Academy",138302,2023,12.28809,17.12,85,,1.334359829,,,,410,6.4,20.8,,,41%,,
+Calderdale,,,Holywell Green Primary School,107505,2012,1.964863,16.7,63.5,,0.538573824,,,,,,,,,95%,,
+Calderdale,,,Holywell Green Primary School,107505,2023,1.964863,16.7,63.5,,0.538573824,,,,180,4.1,9,,,50%,,
+West Lindsey,,,Ingham Primary School,120454,2012,42.82553,51.87,57.8,,44.17238116,,,,106,3.2,3.3,,,92.0%,,
+West Lindsey,,,Ingham Primary School,120454,2023,42.82553,51.87,57.8,,44.17238116,,,,82,3,1.4,,,63.0%,,
+West Lindsey,,,Keelby Primary School,120456,2012,32.60963,74.18,45.8,,3.404992298,,,,167,5,3.3,,,55.0%,,
+West Lindsey,,,Kelsey Primary School,120469,2012,30.75055,59.88,60.2,,13.25747867,,,,53,2.6,,,,100.0%,,
+West Lindsey,,,Kelsey Primary School,120469,2015,30.75055,59.88,60.2,,13.25747867,,,,89,3.2,0,,,100.0%,,
+West Lindsey,,,Kelsey Primary School,120469,2023,30.75055,59.88,60.2,,13.25747867,,,,110,3,0,,,74.0%,,
+Calderdale,,,Lee Mount Academy,149545,2024,4.25007,,,,0.484773142,,,,297,6.5,19.8,,,39%,,
+Calderdale,,,Lee Mount Primary School,107483,2012,4.250070263,14.91,90.4,,0.484773142,,,,350,3.5,1.8,,,73%,,
+Calderdale,,,Lee Mount Primary School,107483,2023,4.250070263,14.91,90.4,,0.484773142,,,,,,,,,40%,,
+West Lindsey,,,Legsby Primary School,120457,2018,23.91062,58.35,66.1,,4.536375351,,,,42,5.7,12.8,,,25.0%,,
+West Lindsey,,,Legsby Primary School,120457,2012,23.91062,58.35,66.1,,4.536375351,,,,51,6.6,10.2,,,100.0%,,
+West Lindsey,,,Legsby Primary School,120457,2017,23.91062,58.35,66.1,,4.536375351,,,,36,2.8,,,,,,
+West Lindsey,,,Legsby Primary School,120457,2023,23.91062,58.35,66.1,,4.536375351,,,,47,8.3,37.2,,,30.0%,,
+Calderdale,,,Lightcliffe C of E Primary School,144865,2023,1.461107,32.02,65.3,,22.25233144,,,,413,3.6,5.3,,,49%,,
+Calderdale,,,Lightcliffe CofE Primary School,144865,2018,1.461107,32.02,65.3,,22.25233144,,,,419,3.4,4.1,,,75%,,
+Calderdale,,,Lightcliffe CofE VA Primary School,107572,2012,1.461107,,,,22.25233144,,,,,,,,,85%,,
+Calderdale,,,"Ling Bob Junior, Infant and Nursery School",107497,2012,1.698176,13.96,85.5,,7.490633662,,,,371,5.2,7.5,,,71%,,
+Calderdale,,,"Ling Bob Junior, Infant and Nursery School",107497,2023,1.698176,13.96,85.5,,7.490633662,,,,344,5.7,17.4,,,55%,,
+Calderdale,,,Longroyde Junior School,107501,2012,3.622458,14.33,79.9,,5.474430032,,,,255,4.1,2.2,,,75%,,
+Calderdale,,,Longroyde Primary School,107501,2023,3.622458,14.33,79.9,,5.474430032,,,,415,6.9,24,,,59%,,
+Calderdale,,,Luddenden CofE School,107541,2023,1.91732,18.74,80.7,,0.438289295,,,,112,7.1,19.1,,,63%,,
+Calderdale,,,Luddenden Dene CofE (VC) Junior Infant and Nursery School,107541,2012,1.91732,18.74,80.7,,0.438289295,,,,172,4.2,2.3,,,75%,,
+Calderdale,,,Luddendenfoot Academy,137699,2013,4.399328,19.68,71.5,,1.320138079,,,,,,,,,44%,,
+Calderdale,,,Luddendenfoot Academy,137699,2023,4.399328,19.68,71.5,,1.320138079,,,,189,3.5,5.7,,,80%,,
+Calderdale,,,Luddendenfoot Junior and Infant School,107516,2012,1.917320123,,,,1.320138079,,,,,,,,,88%,,
+West Lindsey,,,Marton Primary School,120462,2012,11.37559,32.04,39.4,,14.57295346,,,,79,4.7,5.9,,,75.0%,,
+West Lindsey,,,Mercer's Wood Academy,139332,2014,7.443106,11.52,74.6,,23.29686601,,,,172,5.5,3.7,,,80.0%,,
+West Lindsey,,,Mercer's Wood Academy,139332,2023,7.443106,11.52,74.6,,23.29686601,,,,170,7.7,26.3,,,44.0%,,
+Calderdale,,,Midgley School,107517,2012,0.874359,17.21,65.1,,7.991077953,,,,109,2.9,0,,,100%,,
+Calderdale,,,Midgley School,107517,2023,0.874359,17.21,65.1,,7.991077953,,,,95,5.8,13.8,,,67%,,
+Calderdale,,,Moorside Community Primary School,134659,2012,5.678259,20.65,76.2,,0.018808414,,,,247,5,2.6,,,73%,,
+Calderdale,,,Moorside Community Primary School,134659,2015,5.678259,20.65,76.2,,0.018808414,,,,289,6.4,7.8,,,31%,,
+Calderdale,,,Moorside Community Primary School,134659,2023,5.678259,20.65,76.2,,0.018808414,,,,235,5.9,15.8,,,40%,,
+West Lindsey,,,Morton Trentside Primary School,120464,2012,22.87908,32.64,76.1,,65.99805535,,,,207,5.6,7,,,84.0%,,
+West Lindsey,,,Morton Trentside Primary School,120464,2023,22.87908,32.64,76.1,,65.99805535,,,,194,5.5,12.1,,,76.0%,,
+Calderdale,,,Mount Pellon Junior and Infant School,107532,2012,3.353962,,,,1.674153474,,,,581,5.7,7.3,,,46%,,
+Calderdale,,,Mount Pellon Primary Academy,139270,2014,3.353962,14.68,94.2,,1.674153474,,,,601,4.4,2.6,,,60%,,
+Calderdale,,,Mount Pellon Primary Academy,139270,2023,3.353962,14.68,94.2,,1.674153474,,,,328,8.5,30.5,,,64%,,
+West Lindsey,,,Nettleton Community Primary School,120465,2012,33.75688,74.93,35.1,,26.48346383,,,,56,4.3,0,,,71.0%,,
+West Lindsey,,,Nettleton Community Primary School,120465,2023,33.75688,74.93,35.1,,26.48346383,,,,80,6.2,20.3,,,67.0%,,
+Calderdale,,,New Road Primary School,107518,2012,2.644513,8.83,76.8,,3.377425018,,,,57,8.8,17.3,,,67%,,
+Calderdale,,,New Road Primary School,107518,2014,2.644513,8.83,76.8,,3.377425018,,,,96,3.1,0,,,100%,,
+Calderdale,,,New Road Primary School,107518,2023,2.644513,8.83,76.8,,3.377425018,,,,159,5.3,16,,,63%,,
+West Lindsey,,,Newton-on-Trent CofE Primary School,120578,2018,18.49005,53.46,40.7,,4.967397119,,,,50,4.7,13.6,,,,,
+West Lindsey,,,Newton-on-Trent CofE Primary School,120578,2012,18.49005,53.46,40.7,,4.967397119,,,,30,4.6,0,,,,,
+West Lindsey,,,Newton-on-Trent CofE Primary School,120578,2013,18.49005,53.46,40.7,,4.967397119,,,,33,5.9,,,,,,
+West Lindsey,,,Newton-on-Trent CofE Primary School,120578,2014,18.49005,53.46,40.7,,4.967397119,,,,35,3.6,,,,,,
+West Lindsey,,,Newton-on-Trent CofE Primary School,120578,2015,18.49005,53.46,40.7,,4.967397119,,,,45,3.5,0,,,63.0%,,
+West Lindsey,,,Newton-on-Trent CofE Primary School,120578,2019,18.49005,53.46,40.7,,4.967397119,,,,51,4.6,11.8,,,50.0%,,
+West Lindsey,,,Newton-on-Trent CofE Primary School,120578,2023,18.49005,53.46,40.7,,4.967397119,,,,70,3.9,11.8,,,64.0%,,
+Calderdale,,,Norland CE School,107537,2023,0.798843,14.54,79.8,,0.823959206,,,,75,4,7.9,,,64%,,
+Calderdale,,,Norland CofE Junior and Infant School,107537,2012,0.798843,14.54,79.8,,0.823959206,,,,,,,,,83%,,
+West Lindsey,,,Normanby Primary School,120468,2012,20.54219,68.62,69.4,,5.59616039,,,,69,5.4,5.1,,,100.0%,,
+West Lindsey,,,Normanby Primary School,120468,2023,20.54219,68.62,69.4,,5.59616039,,,,54,5.8,22.4,,,67.0%,,
+Calderdale,,,Northowram Primary School,107486,2012,13.75662,20.66,75.6,,0.431059167,,,,467,3.7,2.2,,,80%,,
+Calderdale,,,Northowram Primary School,107486,2023,13.75662,20.66,75.6,,0.431059167,,,,439,4.4,7.9,,,68%,,
+Calderdale,,,Old Earth Primary School,137398,2012,2.561558,22.97,74,,0.851798034,,,,414,3.2,1.2,,,85%,,
+Calderdale,,,Old Earth Primary School,137398,2023,2.561558,22.97,74,,0.851798034,,,,457,4,6.9,,,68%,,
+Calderdale,,,Old Town Primary School,107524,2012,0.794616,31.92,47.1,,1.31496033,,,,,,,,,79%,,
+Calderdale,,,Old Town Primary School,107524,2023,0.794616,31.92,47.1,,1.31496033,,,,72,5.3,10.4,,,53%,,
+West Lindsey,,,Osgodby Primary School,120471,2012,40.56181,71.96,59.6,,3.555690322,,,,89,3.4,,,,63.0%,,
+West Lindsey,,,Osgodby Primary School,120471,2023,40.56181,71.96,59.6,,3.555690322,,,,91,4,6.8,,,80.0%,,
+Calderdale,,,Parkinson Lane Community Primary School,107487,2012,1.595541,13.29,91.8,,1.463004675,,,,517,2.4,0.8,,,59%,,
+Calderdale,,,Parkinson Lane Community Primary School,107487,2023,1.595541,13.29,91.8,,1.463004675,,,,590,5.5,16.6,,,74%,,
+West Lindsey,,,Pollyplatt Primary School,120472,2012,17.35336,58.58,38.1,,78.96518884,,,,115,3.9,,,,82.0%,,
+West Lindsey,,,Pollyplatt Primary School,120472,2023,17.35336,58.58,38.1,,78.96518884,,,,101,3.9,5.3,,,60.0%,,
+Calderdale,,,Rawson Junior and Infant School,107477,2012,,,,,,,,,339,4.6,5,,,77%,,
+West Lindsey,,,Reepham Church of England Primary School,120581,2012,42.24991,26.98,61,,7.046215829,,,,178,2.6,0,,,91.0%,,
+West Lindsey,,,Reepham Church of England Primary School,120581,2023,42.24991,26.98,61,,7.046215829,,,,197,4.1,4.7,,,82.0%,,
+Calderdale,,,Ripponden Junior and Infant School,107514,2012,2.843685,23.41,58.9,,3.581471854,,,,,,,,,77%,,
+Calderdale,,,Ripponden Junior and Infant School,107514,2023,2.843685,23.41,58.9,,3.581471854,,,,194,5,10.1,,,59%,,
+Calderdale,,,Riverside Junior School,107529,2012,2.878932,7.73,80.7,,0.068470818,3,20.26,,,,,,,87%,,
+Calderdale,,,Riverside Junior School,107529,2023,2.878932,7.73,80.7,,0.068470818,,,,143,4.4,6.9,,,60%,,
+Calderdale,,,"Sacred Heart Catholic Primary School, Sowerby Bridge",107558,2012,2.020752,,,,0.856305621,,,,140,5,5.5,,,85%,,
+Calderdale,,,Sacred Heart Catholic Voluntary Academy,141479,2016,2.020752,10.93,81.2,,0.856305621,5,4.41,,186,3.8,6.4,,,31%,,
+Calderdale,,,Sacred Heart Catholic Voluntary Academy,141479,2023,2.020752,10.93,81.2,,0.856305621,,,,195,5.6,20,,,57%,,
+Calderdale,,,Salterhebble Junior and Infant School,107490,2012,3.312693,28.05,75,,0.30593516,,,,,,,,,55%,,
+Calderdale,,,Salterhebble Junior and Infant School,107490,2023,3.312693,28.05,75,,0.30593516,,,,209,4.2,8.1,,,72%,,
+Calderdale,,,Salterlee Primary School,137347,2012,6.620531,16.01,66.9,,2.561640881,,,,,,,,,88%,,
+Calderdale,,,Salterlee Primary School,137347,2023,6.620531,16.01,66.9,,2.561640881,,,,101,5,11.6,,,50%,,
+Calderdale,,,Savile Park Primary School,107482,2012,1.956037,21.97,75.9,,2.074733232,,,,209,4.6,5.4,,,88%,,
+Calderdale,,,Savile Park Primary School,107482,2023,1.956037,21.97,75.9,,2.074733232,,,,379,7.1,22.8,,,52%,,
+West Lindsey,,,Scampton Church of England Primary School,120585,2012,34.1762,42.97,53.3,,2.898261145,,,,79,3.7,0,,,90.0%,,
+West Lindsey,,,Scampton Church of England Primary School,120585,2023,34.1762,42.97,53.3,,2.898261145,,,,54,5.6,14.6,,,63.0%,,
+West Lindsey,,,Scotter Primary School,120473,2012,31.21753,54.67,67.1,,11.37096559,,,,277,3.9,2.1,,,78.0%,,
+West Lindsey,,,Scotter Primary School,120473,2023,31.21753,54.67,67.1,,11.37096559,,,,277,5.4,10.5,,,40.0%,,
+Calderdale,,,Scout Road Academy,137341,2023,0.659176,37.11,59.8,,17.13449747,,,,98,4.4,9.4,,,85%,,
+Calderdale,,,Scout Road Primary School,137341,2012,0.659176,37.11,59.8,,17.13449747,3,0.86,,,,,,,79%,,
+Calderdale,,,Shade Primary School,107522,2012,2.044098,19.3,54.5,,0,3,13.45,,202,4.2,2.7,,,82%,,
+Calderdale,,,Shade Primary School,107522,2023,2.044098,19.3,54.5,,0,,,,202,5.9,15.8,,,76%,,
+Calderdale,,,Shelf Junior and Infant School,107513,2012,0.584129,20.14,63.9,,2.798565575,,,,281,4.3,1.6,,,75%,,
+Calderdale,,,Shelf Junior and Infant School,107513,2023,0.584129,20.14,63.9,,2.798565575,,,,250,4.4,7.5,,,53%,,
+Calderdale,,,Siddal Primary School,130936,2012,2.227218,,,,1.30189896,,,,232,4.3,4.3,,,78%,,
+Calderdale,,,Siddal Primary School,138657,2013,2.227218,12.38,73.2,,1.30189896,,,,238,3.9,1.8,,,76%,,
+Calderdale,,,Siddal Primary School,138657,2023,2.227218,12.38,73.2,,1.30189896,,,,198,6,19.2,,,55%,,
+Calderdale,,,Sowerby Village CofE VC Primary School,133671,2012,,,,,,,,,156,4.8,0,,,52%,,
+Calderdale,,,St Andrew's CofE (VA) Junior School,107547,2012,0.835758,18.83,64.1,,0.520760081,,,,236,3.7,1.2,,,82%,,
+Calderdale,,,St Andrew's CofE (VA) Junior School,107547,2023,0.835758,18.83,64.1,,0.520760081,,,,208,5.3,12.8,,,80%,,
+Calderdale,,,St Augustine's CofE School,149211,2023,1.453021,,,,1.37966414,,,,158,11.4,47.4,,,36%,,
+Calderdale,,,St Augustine's CofE VA Junior and Infant School,107543,2012,1.453020584,9.49,97.5,,1.37966414,,,,160,4.5,3.4,,,65%,,
+Calderdale,,,St Chad's CofE (VA) Primary School,107549,2012,,13.73,60.5,,,,,,213,3.1,2.2,,,88%,,
+West Lindsey,,,"St George's Church of England Community Primary School, Gainsborough",131490,2012,49.43084,18.73,75.3,,5.571996671,,,,159,7,6.9,,,80.0%,,
+West Lindsey,,,"St George's Church of England Community Primary School, Gainsborough",131490,2023,49.43084,18.73,75.3,,5.571996671,,,,195,7,21.3,,,36.0%,,
+Calderdale,,,"St John's (CofE) Primary Academy, Clifton",137545,2013,1.71587,,,,16.22236834,,,,213,3,0,,,81%,,
+Calderdale,,,"St John's (CofE) Primary Academy, Clifton",137545,2023,1.71587,,,,16.22236834,,,,205,4.1,7.8,,,79%,,
+Calderdale,,,St John's CofE (VA) Primary School,107571,2012,,,,,,,,,,,,,,90%,,
+Calderdale,,,"St John's CofE VA Primary School, Rishworth",107553,2012,1.025977,,,,13.00808301,,,,133,3.6,2.5,,,83%,,
+Calderdale,,,St John's Primary School In Rishworth,139040,2014,1.025977,,,,13.00808301,,,,140,3.2,0,,,90%,,
+Calderdale,,,St John's Primary School In Rishworth,139040,2023,1.025977,,,,13.00808301,,,,145,3.9,6.3,,,86%,,
+Calderdale,,,St Joseph's Catholic Primary Academy,148479,2023,0.980124,,,,0.742066521,,,,163,6.7,23.6,,,41%,,
+Calderdale,,,St Joseph's Catholic Primary Academy,148480,2023,0.980124,,,,0,,,,230,4.2,6,,,62%,,
+Calderdale,,,St Joseph's Catholic Primary School,107544,2012,0.980124,6.79,72.6,,,,,,202,4.8,2.8,,,96%,,
+Calderdale,,,"St Joseph's Catholic Primary School, Brighouse",107559,2012,0.995972,26.71,74.8,,,,,,238,3.4,1.7,,,82%,,
+Calderdale,,,"St Joseph's RC Primary School, Todmorden",107560,2012,1.663358,12.06,87.3,,,3,23.42,,113,5.5,4.4,,,50%,,
+Calderdale,,,"St Joseph's RC Primary School, Todmorden",107560,2015,1.663358,12.06,87.3,,,,,,,,,,,60%,,
+Calderdale,,,St Joseph's Roman Catholic Voluntary Academy,147583,2023,1.663358,,,,0,,,,132,5.3,13.2,,,81%,,
+Calderdale,,,St Malachy's Catholic Primary School,107545,2012,1.392682,,,,19.79533336,,,,183,5.4,6.6,,,55%,,
+Calderdale,,,"St Malachy's Catholic Primary School, A Voluntary Academy",141480,2016,1.392682,8.19,90.6,,19.79533336,,,,209,5.1,13.7,,,31%,,
+Calderdale,,,"St Malachy's Catholic Primary School, A Voluntary Academy",141480,2023,1.392682,8.19,90.6,,19.79533336,,,,157,8.3,25.3,,,20%,,
+Calderdale,,,St Mary's Catholic Primary Academy,148657,2023,3.057891,,,,2.506275819,,,,302,6.9,19.8,,,58%,,
+Calderdale,,,St Mary's Catholic Primary School,107546,2012,3.057891,11.39,83.4,,2.506275819,,,,285,4.1,3.1,,,76%,,
+Calderdale,,,St Mary's CofE (VC) J and I School,107538,2012,5.877059,37.93,64.5,,3.432487407,,,,82,3,0,,,60%,,
+Calderdale,,,St Mary's CofE (VC) J and I School,107538,2014,5.877059,37.93,64.5,,3.432487407,,,,90,2.4,0,,,92%,,
+Calderdale,,,St Mary's CofE (VC) J and I School,107538,2023,5.877059,37.93,64.5,,3.432487407,,,,97,4.2,8.2,,,56%,,
+Calderdale,,,St Michael and All Angels CofE Primary & Pre School,107570,2023,0.706773,,,,17.79129781,,,,188,5.1,10.3,,,30%,,
+Calderdale,,,St Michael and All Angels CofE Primary School,107570,2012,0.706773,,,,17.79129781,,,,,,,,,83%,,
+Calderdale,,,St Patrick's Catholic Primary Academy,148658,2023,3.755222,,,,0.011119779,,,,110,6.2,21.7,,,71%,,
+Calderdale,,,St Patrick's Catholic Primary School,107557,2012,3.755222,8.62,90.4,,0.011119779,,,,98,4.2,4.7,,,75%,,
+West Lindsey,,,Sturton by Stow Primary School,120478,2012,45.12019,85.45,58.2,,3.248854858,,,,127,4.1,4.5,,,70.0%,,
+West Lindsey,,,Sturton by Stow Primary School,120478,2023,45.12019,85.45,58.2,,3.248854858,,,,178,5.4,14.9,,,46.0%,,
+West Lindsey,,,Tealby School,120480,2012,38.97615,128.66,59.8,,16.13286671,,,,56,3.7,,,,89.0%,,
+West Lindsey,,,Tealby School,120480,2014,38.97615,128.66,59.8,,16.13286671,,,,76,3.6,,,,92.0%,,
+West Lindsey,,,Tealby School,120480,2023,38.97615,128.66,59.8,,16.13286671,,,,79,6.8,26.8,,,36.0%,,
+West Lindsey,,,The Bardney Church of England and Methodist Primary School,120589,2012,20.67967,73.28,56.1,,26.95199682,,,,104,3.8,3,,,92.0%,,
+West Lindsey,,,The Bardney Church of England and Methodist Primary School,120589,2023,20.67967,73.28,56.1,,26.95199682,,,,194,6.6,21.3,,,74.0%,,
+Calderdale,,,The Calder Learning Trust,107562,2023,,,,,,,,,1353,9.8,31,,,62%,,
+West Lindsey,,,The Gainsborough Charles Baines Community Primary School,120492,2012,9.203476,21.07,53.3,,6.492418543,,,,196,5.6,4.7,,,80.0%,,
+West Lindsey,,,The Gainsborough Charles Baines Community Primary School,120492,2023,9.203476,21.07,53.3,,6.492418543,,,,205,7.2,24.3,,,41.0%,,
+West Lindsey,,,The Gainsborough Parish Church Primary School,138640,2012,0.976087,20.82,83.9,,0,,,,307,4.7,4.1,,,78.0%,,
+West Lindsey,,,The Gainsborough Parish Church Primary School,138640,2023,0.976087,20.82,83.9,,0,,,,298,7.1,24.5,,,43.0%,,
+West Lindsey,,,The Grasby All Saints Church of England Primary School,120571,2012,1.29802,51.1,56.7,,0.42740846,,,,106,2.9,0,,,73.0%,,
+West Lindsey,,,The Grasby All Saints Church of England Primary School,120571,2023,1.29802,51.1,56.7,,0.42740846,,,,69,4.2,11.9,,,88.0%,,
+Calderdale,,,The Greetland Academy,136375,2012,0.654854,22.09,68.5,,0,,,,398,3.4,2,,,100%,,
+Calderdale,,,The Greetland Academy,136375,2023,0.654854,22.09,68.5,,0,,,,413,4.3,7,,,87%,,
+West Lindsey,,,The Hackthorn Church of England Primary School,120572,2012,1.244574,35.03,70.7,,12.08773773,,,,56,5.7,,,,100.0%,,
+West Lindsey,,,The Hackthorn Church of England Primary School,120572,2023,1.244574,35.03,70.7,,12.08773773,,,,57,3.2,1.9,,,89.0%,,
+Calderdale,,,The Halifax Academy,140326,2023,,,,,,,,,1445,10.3,37.9,,,52%,,
+West Lindsey,,,The Market Rasen Church of England Primary School,120577,2012,6.558138,57.65,52.5,,0.012122482,,,,261,4.7,4.2,,,91.0%,,
+West Lindsey,,,The Market Rasen Church of England Primary School,120577,2023,6.558138,57.65,52.5,,0.012122482,,,,316,4.7,9.7,,,54.0%,,
+West Lindsey,,,The Middle Rasen Primary School,120463,2012,3.105958,31.6,50.1,,33.0601491,,,,98,4.4,,,,75.0%,,
+West Lindsey,,,The Middle Rasen Primary School,120463,2023,3.105958,31.6,50.1,,33.0601491,,,,134,6,16.7,,,58.0%,,
+West Lindsey,,,The Nettleham Church of England Voluntary Aided Junior School,120626,2012,5.58143,56.69,60.1,,0,,,,236,3.9,2.5,,,83.0%,,
+West Lindsey,,,The Nettleham Church of England Voluntary Aided Junior School,120626,2023,5.58143,56.69,60.1,,0,,,,223,4.7,10.8,,,56.0%,,
+West Lindsey,,,"The North-County Primary School, Gainsborough",120448,2012,5.58143,,,,,,,,170,6.9,7.6,,,62.0%,,
+West Lindsey,,,The Saxilby Church of England Primary School,120583,2012,8.841411,83.84,59.8,,1.521392228,,,,274,3.5,2.4,,,91.0%,,
+West Lindsey,,,The Saxilby Church of England Primary School,120583,2023,8.841411,83.84,59.8,,1.521392228,,,,381,5.4,11,,,72.0%,,
+West Lindsey,,,"The White's Wood Lane Community Junior School, Gainsborough",120489,2012,8.841411,,,,,,,,143,4.2,2,,,84.0%,,
+Calderdale,,,"Todmorden CofE J, I & N School",107556,2023,0.485686,8.1,68.4,,0,,,,254,4.3,8,,,72%,,
+Calderdale,,,Todmorden CofE Junior and Infant School,107556,2012,0.485686,8.1,68.4,,0,3,13.9,,187,6.1,7.4,,,74%,,
+Calderdale,,,Triangle CofE VC Primary School,107540,2012,0.444774,11.36,64.9,,0,,,,,,,,,87%,,
+Calderdale,,,Triangle CofE VC Primary School,107540,2023,0.444774,11.36,64.9,,0,,,,190,4.6,8.9,,,60%,,
+Calderdale,,,Trinity Academy Akroydon,143651,2023,0.65633,19.2,81,,1.084400944,,,,285,5.2,12.6,,,51%,,
+Calderdale,,,Trinity Academy St Chad's,146959,2023,0.907871,13.73,60.5,,1.227663626,,,,152,3.6,4.2,,,83%,,
+Calderdale,,,Trinity Academy St Peter's,148143,2023,0.544827,15.39,86.2,,0.182297683,,,,103,4.9,12.1,,,47%,,
+West Lindsey,,,Waddingham Primary School,120485,2012,22.27238,75.01,57.8,,2.823915813,,,,72,3.8,0,,,85.0%,,
+West Lindsey,,,Waddingham Primary School,120485,2015,22.27238,75.01,57.8,,2.823915813,,,,76,4.6,4.3,,,100.0%,,
+West Lindsey,,,Waddingham Primary School,120485,2023,22.27238,75.01,57.8,,2.823915813,,,,77,4.8,7.2,,,43.0%,,
+Calderdale,,,Wainstalls School,107493,2012,1.340436,,,,4.970683047,,,,,,,,,79%,,
+Calderdale,,,Wainstalls School,140107,2014,1.340436,36.9,54.5,,4.970683047,,,,,,,,,86%,,
+Calderdale,,,Wainstalls School,140107,2023,1.340436,36.9,54.5,,4.970683047,,,,203,3.7,5.1,,,82%,,
+Calderdale,,,Walsden St Peter's CE (VC) Primary School,135862,2012,2.385039,,,,0.014669516,,,,147,3.7,0,,,79%,,
+Calderdale,,,Walsden St Peter's CE (VC) Primary School,135862,2023,2.385039,,,,0.014669516,,,,171,3.8,4.2,,,54%,,
+Calderdale,,,Warley Road Primary Academy,146677,2023,1.06476,,,,6.751553666,,,,540,7,25.1,,,67%,,
+Calderdale,,,Warley Road Primary School,107494,2012,1.06476,23.84,80.6,,6.751553666,,,,537,4.6,4.2,,,75%,,
+Calderdale,,,Warley Town School,107495,2012,2.358327,16.48,78.3,,1.871171344,,,,,,,,,87%,,
+Calderdale,,,Warley Town School,107495,2023,2.358327,16.48,78.3,,1.871171344,,,,137,4.1,10.7,,,60%,,
+West Lindsey,,,Welton St Mary's Church of England Primary Academy,139187,2014,18.59008,33.23,70.8,,0.138911192,,,,373,2.4,0,,,91.0%,,
+West Lindsey,,,Welton St Mary's Church of England Primary Academy,139187,2023,18.59008,33.23,70.8,,0.138911192,,,,381,4.5,8.3,,,72.0%,,
+West Lindsey,,,Welton St Mary's Church of England Primary School,139187,2012,18.59008,33.23,70.8,,0.138911192,,,,384,3.1,,,,83.0%,,
+Calderdale,,,West Vale Academy,145571,2023,3.176357,11.25,49.6,,4.799313912,,,,127,6.4,18.4,,,58%,,
+Calderdale,,,West Vale Primary School,107573,2012,3.176357,,,,4.799313912,,,,171,3.8,0,,,56%,,
+Calderdale,,,West Vale Primary School,145571,2019,3.176357,11.25,49.6,,4.799313912,,,,164,4.2,11.7,,,68%,,
+Calderdale,,,Whitehill Community Academy,136547,2012,,18.39,81.6,,,,,,494,3.4,1.3,,,71%,,
+Calderdale,,,Whitehill Community Academy,136547,2023,,18.39,81.6,,,,,,700,5.1,11.2,,,61%,,
+West Lindsey,,,White's Wood Academy,139361,2014,13.85026,11.61,84.4,,12.76794906,,,,181,5,5.2,,,89.0%,,
+West Lindsey,,,White's Wood Academy,139361,2023,13.85026,11.61,84.4,,12.76794906,,,,203,6.5,22.5,,,51.0%,,
+West Lindsey,,,Willoughton Primary School,120487,2012,18.00527,43.96,64.4,,1.324866648,,,,45,3.2,,,,57.0%,,
+West Lindsey,,,Willoughton Primary School,120487,2014,18.00527,43.96,64.4,,1.324866648,,,,39,4.9,,,,,,
+West Lindsey,,,Willoughton Primary School,120487,2015,18.00527,43.96,64.4,,1.324866648,,,,43,4.1,0,,,89.0%,,
+West Lindsey,,,Willoughton Primary School,120487,2023,18.00527,43.96,64.4,,1.324866648,,,,48,5.4,12.8,,,50.0%,,
+Calderdale,,,Withinfields Primary School,107502,2012,13.89866,24.7,77.9,,0.583341055,,,,300,4.4,3.6,,,71%,,
+Calderdale,,,Withinfields Primary School,107502,2023,13.89866,24.7,77.9,,0.583341055,,,,346,5.7,17.3,,,69%,,
+Calderdale,,,Wood Bank School,107590,2018,,,,,,,,,75,9.4,24.1,,,0%,,
+Calderdale,,,Wood Bank School,107590,2012,,,,,,,,,,,,,,0%,,
+Calderdale,,,Wood Bank School,107590,2013,,,,,,,,,,,,,,0%,,
+Calderdale,,,Wood Bank School,107590,2014,,,,,,,,,70,10.7,20,,,0%,,
+Calderdale,,,Wood Bank School,107590,2015,,,,,,,,,74,10.7,20.7,,,0%,,
+Calderdale,,,Wood Bank School,107590,2016,,,,,,,,,72,9.6,32.3,,,0%,,
+Calderdale,,,Wood Bank School,107590,2017,,,,,,,,,69,9.8,31,,,0%,,
+Calderdale,,,Wood Bank School,107590,2019,,,,,,,,,72,8.3,27.9,,,0%,,
+Calderdale,,,Wood Bank School,107590,2023,,,,,,,,,112,13.1,44.8,,,0%,,
+Calderdale,,,Wood Bank School,107590,2024,,,,,,,,,122,13.5,48.5,,,0%,,
+Calderdale,,,Woodhouse Primary School,107528,2012,8.856501,16.58,86,,2.600911836,,,,,,,,,88%,,
+Calderdale,,,Woodhouse Primary School,107528,2023,8.856501,16.58,86,,2.600911836,,,,420,3.9,5.2,,,74%,,
+Calderdale,Brighouse,4,,,2022,,,,,,,,,,,,,,59.92%,,
+Calderdale,Calder,7,,,2022,,,,,,,,,,,,,,61.82%,,
+Calderdale,Elland,4,,,2022,,,,,,,,,,,,,,56.56%,,
+Calderdale,Greetland and Stainland,5,,,2022,,,,,,,,,,,,,,64.32%,,
+Calderdale,Hipperholme and Lightcliffe,3,,,2022,,,,,,,,,,,,,,56.21%,,
+Calderdale,Illingworth and Mixenden,4,,,2022,,,,,,,,,,,,,,57.62%,,
+Calderdale,Luddendenfoot,8,,,2022,,,,,,,,,,,,,,57.23%,,
+Calderdale,Northowram and Shelf,6,,,2022,,,,,,,,,,,,,,52.98%,,
+Calderdale,Ovenden,4,,,2022,,,,,,,,,,,,,,53.96%,,
+Calderdale,Park,4,,,2022,,,,,,,,,,,,,,60.85%,,
+Calderdale,Rastrick,5,,,2022,,,,,,,,,,,,,,56.77%,,
+Calderdale,Ryburn,7,,,2022,,,,,,,,,,,,,,63.47%,,
+Calderdale,Skircoat,6,,,2022,,,,,,,,,,,,,,58.62%,,
+Calderdale,Sowerby Bridge,3,,,2022,,,,,,,,,,,,,,55.91%,,
+Calderdale,Todmorden,6,,,2022,,,,,,,,,,,,,,60.23%,,
+Calderdale,Town,2,,,2022,,,,,,,,,,,,,,58.05%,,
+Calderdale,Warley,4,,,2022,,,,,,,,,,,,,,53.46%,,
+Calderdale,,,Abbey Park Academy,140172,2017,18.9596,15.61,76.3,,1.689993816,,,,213,4,7.3,,,62%,93.75%,93.75%
+Calderdale,,,Abbey Park Academy,140172,2024,18.9596,15.61,76.3,,1.689993816,,,,202,6,19.9,,,77%,35.09%,35.09%
+Calderdale,,,Abbey Park Academy,140172,2018,18.9596,15.61,76.3,,1.689993816,,,,216,4.4,8.9,,,73%,17.74%,17.74%
+Calderdale,,,Abbey Park Academy,140172,2019,18.9596,15.61,76.3,,1.689993816,,,,215,4.1,10.5,,,60%,-17.81%,-17.81%
+Calderdale,,,Abbey Park Academy,140172,2016,18.9596,15.61,76.3,,1.689993816,,,,223,4.4,13.5,,,32%,-61.90%,-61.90%
+Calderdale,,,"Abbey Park Junior, Infant and Nursery School",107498,2014,18.9596,,76.3,,1.689993816,,,,,,,,,46%,0.00%,0.00%
+Calderdale,,,"Abbey Park Junior, Infant and Nursery School",107498,2013,18.9596,,76.3,,1.689993816,,,,226,4.5,2.8,,,46%,-8.00%,-8.00%
+Calderdale,,,Akroydon Primary Academy,143651,2019,,19.2,81,,0.602108941,,,,354,4.8,12.1,,,70%,12.90%,12.90%
+Calderdale,,,All Saints' CofE Primary School,107569,2024,13.5122,12.59,57.4,,,,,,207,3.9,4.8,,,83%,31.75%,31.75%
+Calderdale,,,All Saints' CofE VA Junior and Infant School,107569,2018,13.5122,12.59,57.4,,,,,,211,3.7,5.9,,,83%,13.70%,13.70%
+Calderdale,,,All Saints' CofE VA Junior and Infant School,107569,2015,13.5122,12.59,57.4,,,,,,,,,,,100%,11.11%,11.11%
+Calderdale,,,All Saints' CofE VA Junior and Infant School,107569,2019,13.5122,12.59,57.4,,,,,,212,3,5.9,,,90%,8.43%,8.43%
+Calderdale,,,All Saints' CofE VA Junior and Infant School,107569,2017,13.5122,12.59,57.4,,,,,,211,3.3,3.3,,,73%,7.35%,7.35%
+Calderdale,,,All Saints' CofE VA Junior and Infant School,107569,2013,13.5122,12.59,57.4,,,,,,213,3.9,1.6,,,97%,0.00%,0.00%
+Calderdale,,,All Saints' CofE VA Junior and Infant School,107569,2014,13.5122,12.59,57.4,,,,,,211,2.8,0,,,90%,-7.22%,-7.22%
+Calderdale,,,All Saints' CofE VA Junior and Infant School,107569,2016,13.5122,12.59,57.4,,,5,11.48,,213,3.3,6,,,68%,-32.00%,-32.00%
+Calderdale,,,Ash Green Community Primary School,107534,2017,0.833288,19.34,82.7,,25.06545058,,,,479,4.3,7.9,,,53%,26.19%,26.19%
+Calderdale,,,Ash Green Community Primary School,107534,2018,0.833288,19.34,82.7,,25.06545058,,,,482,4.8,11.5,,,59%,11.32%,11.32%
+Calderdale,,,Ash Green Community Primary School,107534,2013,0.833288,19.34,82.7,,25.06545058,,,,449,4.3,3,,,78%,8.33%,8.33%
+Calderdale,,,Ash Green Community Primary School,107534,2014,0.833288,19.34,82.7,,25.06545058,,,,461,3.2,1.1,,,81%,3.85%,3.85%
+Calderdale,,,Ash Green Community Primary School,107534,2015,0.833288,19.34,82.7,,25.06545058,,,,452,4.1,1.7,,,75%,-7.41%,-7.41%
+Calderdale,,,Ash Green Community Primary School,107534,2019,0.833288,19.34,82.7,,25.06545058,,,,470,3.8,6.6,,,50%,-15.25%,-15.25%
+Calderdale,,,Ash Green Community Primary School,107534,2024,0.833288,19.34,82.7,,25.06545058,,,,477,7.4,23.8,,,52%,-16.13%,-16.13%
+Calderdale,,,Ash Green Community Primary School,107534,2016,0.833288,19.34,82.7,,25.06545058,,,,445,4.1,9.6,,,42%,-44.00%,-44.00%
+Calderdale,,,Bailiffe Bridge Junior and Infant School,107499,2017,5.591459,,,,2.379727684,,,,207,2.3,1.7,,,74%,29.82%,29.82%
+Calderdale,,,Bailiffe Bridge Junior and Infant School,107499,2024,5.591459,,,,2.379727684,,,,191,3.6,5.2,,,81%,20.90%,20.90%
+Calderdale,,,Bailiffe Bridge Junior and Infant School,107499,2018,5.591459,,,,2.379727684,,,,212,2.6,2.2,,,80%,8.11%,8.11%
+Calderdale,,,Bailiffe Bridge Junior and Infant School,107499,2014,5.591459,,,,2.379727684,,,,,,,,,86%,3.61%,3.61%
+Calderdale,,,Bailiffe Bridge Junior and Infant School,107499,2015,5.591459,,,,2.379727684,,,,,,,,,88%,2.33%,2.33%
+Calderdale,,,Bailiffe Bridge Junior and Infant School,107499,2013,5.591459,,,,2.379727684,,,,204,3.8,1.7,,,83%,-7.78%,-7.78%
+Calderdale,,,Bailiffe Bridge Junior and Infant School,107499,2019,5.591459,,,,2.379727684,,,,,,,,,73%,-8.75%,-8.75%
+Calderdale,,,Bailiffe Bridge Junior and Infant School,107499,2016,5.591459,,,,2.379727684,,,,206,2.4,2.2,,,57%,-35.23%,-35.23%
+Calderdale,,,Barkisland CofE VA Primary School,107552,2017,0.933458,25.67,62,,13.23643273,,,,205,2.7,1.7,,,67%,13.56%,13.56%
+Calderdale,,,Barkisland CofE VA Primary School,107552,2014,0.933458,25.67,62,,13.23643273,,,,,,,,,95%,13.10%,13.10%
+Calderdale,,,Barkisland CofE VA Primary School,107552,2019,0.933458,25.67,62,,13.23643273,,,,201,2.6,3.3,,,60%,11.11%,11.11%
+Calderdale,,,Barkisland CofE VA Primary School,107552,2013,0.933458,25.67,62,,13.23643273,,,,,,,,,84%,5.00%,5.00%
+Calderdale,,,Barkisland CofE VA Primary School,107552,2024,0.933458,25.67,62,,13.23643273,,,,190,3.5,3.5,,,60%,3.45%,3.45%
+Calderdale,,,Barkisland CofE VA Primary School,107552,2015,0.933458,25.67,62,,13.23643273,,,,182,2.5,0,,,87%,-8.42%,-8.42%
+Calderdale,,,Barkisland CofE VA Primary School,107552,2018,0.933458,25.67,62,,13.23643273,,,,205,3.1,4.4,,,54%,-19.40%,-19.40%
+Calderdale,,,Barkisland CofE VA Primary School,107552,2016,0.933458,25.67,62,,13.23643273,5,0,,,,,,,59%,-32.18%,-32.18%
+Calderdale,,,Beech Hill Junior and Infant School,137337,2014,7.42068,14.29,76.2,,2.706083299,,,,594,4.6,2.4,,,81%,17.39%,17.39%
+Calderdale,,,Beech Hill Junior and Infant School,137337,2015,7.42068,14.29,76.2,,2.706083299,,,,592,5.5,4.6,,,70%,-13.58%,-13.58%
+Calderdale,,,Beech Hill Junior and Infant School,137337,2013,7.42068,14.29,76.2,,2.706083299,,,,560,5.4,4.6,,,69%,-14.81%,-14.81%
+Calderdale,,,Beech Hill School,137337,2018,7.42068,14.29,76.2,,2.706083299,,,,579,3.8,5.8,,,59%,15.69%,15.69%
+Calderdale,,,Beech Hill School,137337,2019,7.42068,14.29,76.2,,2.706083299,,,,606,3.8,8.2,,,66%,11.86%,11.86%
+Calderdale,,,Beech Hill School,137337,2017,7.42068,14.29,76.2,,2.706083299,,,,589,3.8,7.2,,,51%,8.51%,8.51%
+Calderdale,,,Beech Hill School,137337,2024,7.42068,14.29,76.2,,2.706083299,,,,518,5.7,14,,,75%,0.00%,0.00%
+Calderdale,,,Beech Hill School,137337,2016,7.42068,14.29,76.2,,2.706083299,5,9.12,,580,4.2,9,,,47%,-32.86%,-32.86%
+West Lindsey,,,Blyton Cum Laughton Church of England School,120619,2017,33.48251,67.89,67.6,,0.336168051,,,,143,4.9,10.2,,,71.0%,77.50%,77.50%
+West Lindsey,,,Blyton Cum Laughton Church of England School,120619,2019,33.48251,67.89,67.6,,0.336168051,,,,137,5.3,12.7,,,64.0%,28.00%,28.00%
+West Lindsey,,,Blyton Cum Laughton Church of England School,120619,2013,33.48251,67.89,67.6,,0.336168051,,,,137,4.7,,,,93.0%,12.05%,12.05%
+West Lindsey,,,Blyton Cum Laughton Church of England School,120619,2015,33.48251,67.89,67.6,,0.336168051,,,,153,3.8,,,,86.0%,6.17%,6.17%
+West Lindsey,,,Blyton Cum Laughton Church of England School,120619,2014,33.48251,67.89,67.6,,0.336168051,2,0.09,,152,3.4,0,,,81.0%,-12.90%,-12.90%
+West Lindsey,,,Blyton Cum Laughton Church of England School,120619,2018,33.48251,67.89,67.6,,0.336168051,,,,149,5,13.2,,,50.0%,-29.58%,-29.58%
+West Lindsey,,,Blyton Cum Laughton Church of England School,120619,2024,33.48251,67.89,67.6,,0.336168051,,,,136,7.6,23.8,,,39.0%,-38.10%,-38.10%
+West Lindsey,,,Blyton Cum Laughton Church of England School,120619,2016,33.48251,67.89,67.6,,0.336168051,,,,147,4.5,9.1,,,40.0%,-53.49%,-53.49%
+Calderdale,,,Bolton Brow Primary Academy,137392,2018,7.53872,11.55,67.5,,2.233144414,,,,232,3.7,7.6,,,69%,21.05%,21.05%
+Calderdale,,,Bolton Brow Primary Academy,137392,2015,7.53872,11.55,67.5,,2.233144414,,,,,,,,,93%,16.25%,16.25%
+Calderdale,,,Bolton Brow Primary Academy,137392,2013,7.53872,11.55,67.5,,2.233144414,,,,256,4.6,4.4,,,80%,14.29%,14.29%
+Calderdale,,,Bolton Brow Primary Academy,137392,2017,7.53872,11.55,67.5,,2.233144414,,,,236,3.1,1.6,,,57%,14.00%,14.00%
+Calderdale,,,Bolton Brow Primary Academy,137392,2019,7.53872,11.55,67.5,,2.233144414,,,,237,3.6,6,,,73%,5.80%,5.80%
+Calderdale,,,Bolton Brow Primary Academy,137392,2014,7.53872,11.55,67.5,,2.233144414,,,,,,,,,80%,0.00%,0.00%
+Calderdale,,,Bolton Brow Primary Academy,137392,2024,7.53872,11.55,67.5,,2.233144414,,,,228,3.9,7.7,,,63%,-13.70%,-13.70%
+Calderdale,,,Bolton Brow Primary Academy,137392,2016,7.53872,11.55,67.5,,2.233144414,5,24.41,,242,2.9,1.6,,,50%,-46.24%,-46.24%
+Calderdale,,,Bowling Green Academy,148202,2024,37.10222,,,,1.964222259,,,,152,4.5,9.9,,,82%,6.49%,6.49%
+Calderdale,,,Bowling Green Primary School,107503,2017,37.10222,16.7,63.4,,1.964222259,,,,159,3.6,6.5,,,71%,54.35%,54.35%
+Calderdale,,,Bowling Green Primary School,107503,2014,37.10222,16.7,63.4,,1.964222259,,,,155,3.1,2.2,,,95%,10.47%,10.47%
+Calderdale,,,Bowling Green Primary School,107503,2013,37.10222,16.7,63.4,,1.964222259,,,,158,4.1,3,,,86%,-1.15%,-1.15%
+Calderdale,,,Bowling Green Primary School,107503,2019,37.10222,16.7,63.4,,1.964222259,,,,156,3.8,8.7,,,55%,-3.51%,-3.51%
+Calderdale,,,Bowling Green Primary School,107503,2015,37.10222,16.7,63.4,,1.964222259,,,,,,,,,79%,-16.84%,-16.84%
+Calderdale,,,Bowling Green Primary School,107503,2018,37.10222,16.7,63.4,,1.964222259,,,,158,3.6,5.8,,,57%,-19.72%,-19.72%
+Calderdale,,,Bowling Green Primary School,107503,2016,37.10222,16.7,63.4,,1.964222259,,,,160,3.8,5.7,,,46%,-41.77%,-41.77%
+Calderdale,,,Bradshaw Primary School,137987,2018,1.8801,,,,9.250517075,,,,332,3.6,6.5,,,94%,84.31%,84.31%
+Calderdale,,,Bradshaw Primary School,137987,2014,1.8801,,,,9.250517075,,,,310,3.7,1.1,,,91%,10.98%,10.98%
+Calderdale,,,Bradshaw Primary School,137987,2024,1.8801,,,,9.250517075,,,,329,4.5,10.4,,,69%,2.99%,2.99%
+Calderdale,,,Bradshaw Primary School,137987,2015,1.8801,,,,9.250517075,,,,318,3.7,1.4,,,90%,-1.10%,-1.10%
+Calderdale,,,Bradshaw Primary School,137987,2019,1.8801,,,,9.250517075,,,,329,3.6,4.8,,,87%,-7.45%,-7.45%
+Calderdale,,,Bradshaw Primary School,137987,2017,1.8801,,,,9.250517075,,,,329,3.6,7.5,,,51%,-22.73%,-22.73%
+Calderdale,,,Bradshaw Primary School,137987,2016,1.8801,,,,9.250517075,,,,305,3.3,6.3,,,66%,-26.67%,-26.67%
+West Lindsey,,,Brocklesby Park Primary School,120442,2013,,,,,,,,,30,4.6,0,,,,-100.00%,-100.00%
+Calderdale,,,Burnley Road Academy,137391,2017,1.18329,27.07,69.5,,1.474858997,,,,251,3.5,5.1,,,74%,29.82%,29.82%
+Calderdale,,,Burnley Road Academy,137391,2013,1.18329,27.07,69.5,,1.474858997,,,,224,4.1,1.9,,,91%,13.75%,13.75%
+Calderdale,,,Burnley Road Academy,137391,2018,1.18329,27.07,69.5,,1.474858997,,,,250,3.7,5.6,,,70%,-5.41%,-5.41%
+Calderdale,,,Burnley Road Academy,137391,2015,1.18329,27.07,69.5,,1.474858997,,,,245,4.2,1.5,,,77%,-7.23%,-7.23%
+Calderdale,,,Burnley Road Academy,137391,2014,1.18329,27.07,69.5,,1.474858997,,,,,,,,,83%,-8.79%,-8.79%
+Calderdale,,,Burnley Road Academy,137391,2024,1.18329,27.07,69.5,,1.474858997,,,,190,6.7,21,,,48%,-11.11%,-11.11%
+Calderdale,,,Burnley Road Academy,137391,2016,1.18329,27.07,69.5,,1.474858997,5,30.69,,254,3.8,6.5,,,57%,-25.97%,-25.97%
+Calderdale,,,Burnley Road Academy,137391,2019,1.18329,27.07,69.5,,1.474858997,,,,244,3.5,6.9,,,45%,-35.71%,-35.71%
+West Lindsey,,,Caistor CofE and Methodist Primary School,120590,2015,36.45079,103.5,54.9,,10.47097577,,,,284,2.6,0,,,92.0%,19.48%,19.48%
+West Lindsey,,,Caistor CofE and Methodist Primary School,120590,2013,36.45079,103.5,54.9,,10.47097577,,,,263,4.4,1.3,,,88.0%,6.02%,6.02%
+West Lindsey,,,Caistor CofE and Methodist Primary School,120590,2018,36.45079,103.5,54.9,,10.47097577,,,,325,3.3,3.3,,,57.0%,1.79%,1.79%
+West Lindsey,,,Caistor CofE and Methodist Primary School,120590,2019,36.45079,103.5,54.9,,10.47097577,,,,289,3.4,5.3,,,58.0%,1.75%,1.75%
+West Lindsey,,,Caistor CofE and Methodist Primary School,120590,2024,36.45079,103.5,54.9,,10.47097577,,,,216,4.9,13.7,,,44.0%,-6.38%,-6.38%
+West Lindsey,,,Caistor CofE and Methodist Primary School,120590,2014,36.45079,103.5,54.9,,10.47097577,,,,275,2.9,,,,77.0%,-12.50%,-12.50%
+West Lindsey,,,Caistor CofE and Methodist Primary School,120590,2017,36.45079,103.5,54.9,,10.47097577,,,,322,3,2.8,,,56.0%,-17.65%,-17.65%
+West Lindsey,,,Caistor CofE and Methodist Primary School,120590,2016,36.45079,103.5,54.9,,10.47097577,,,,316,3.5,4.6,,,68.0%,-26.09%,-26.09%
+Calderdale,,,"Calder High School, The Calder Learning Trust",107562,2019,,,,,,,,,1184,4.6,8.7,,,88%,76.00%,76.00%
+Calderdale,,,Carr Green Primary School,107500,2017,2.723014,,,,1.476046883,,,,348,3.4,6.9,,,73%,55.32%,55.32%
+Calderdale,,,Carr Green Primary School,107500,2018,2.723014,,,,1.476046883,,,,344,4,7.7,,,84%,15.07%,15.07%
+Calderdale,,,Carr Green Primary School,107500,2014,2.723014,,,,1.476046883,,,,,,,,,84%,10.53%,10.53%
+Calderdale,,,Carr Green Primary School,107500,2015,2.723014,,,,1.476046883,,,,368,3.7,1.4,,,89%,5.95%,5.95%
+Calderdale,,,Carr Green Primary School,107500,2013,2.723014,,,,1.476046883,,,,369,3.8,1.8,,,76%,-5.00%,-5.00%
+Calderdale,,,Carr Green Primary School,107500,2024,2.723014,,,,1.476046883,,,,335,4.9,14,,,47%,-14.55%,-14.55%
+Calderdale,,,Carr Green Primary School,107500,2019,2.723014,,,,1.476046883,,,,346,3.9,7.1,,,68%,-19.05%,-19.05%
+Calderdale,,,Carr Green Primary School,107500,2016,2.723014,,,,1.476046883,,,,364,3.6,6.5,,,47%,-47.19%,-47.19%
+Calderdale,,,Castle Hill Primary School,107520,2017,17.01583,45.74,67.3,,3.506128646,,,,283,3,3.2,,,62%,44.19%,44.19%
+Calderdale,,,Castle Hill Primary School,107520,2019,17.01583,45.74,67.3,,3.506128646,,,,282,3.7,6.3,,,68%,21.43%,21.43%
+Calderdale,,,Castle Hill Primary School,107520,2015,17.01583,45.74,67.3,,3.506128646,,,,286,4.2,1.8,,,71%,14.52%,14.52%
+Calderdale,,,Castle Hill Primary School,107520,2024,17.01583,45.74,67.3,,3.506128646,,,,178,4.5,8.3,,,63%,1.61%,1.61%
+Calderdale,,,Castle Hill Primary School,107520,2018,17.01583,45.74,67.3,,3.506128646,,,,282,3.1,3.6,,,56%,-9.68%,-9.68%
+Calderdale,,,Castle Hill Primary School,107520,2013,17.01583,45.74,67.3,,3.506128646,,,,294,5,5,,,74%,-9.76%,-9.76%
+Calderdale,,,Castle Hill Primary School,107520,2014,17.01583,45.74,67.3,,3.506128646,,,,289,4.2,2.7,,,62%,-16.22%,-16.22%
+Calderdale,,,Castle Hill Primary School,107520,2016,17.01583,45.74,67.3,,3.506128646,5,11.35,,285,3.5,5.5,,,43%,-39.44%,-39.44%
+West Lindsey,,,Cherry Willingham Primary School,120505,2013,50.14085,28.37,76,,0.841087816,,,,291,4.4,3.5,,,79.0%,36.21%,36.21%
+West Lindsey,,,Cherry Willingham Primary School,120505,2018,50.14085,28.37,76,,0.841087816,,,,243,3.6,2.7,,,64.0%,28.00%,28.00%
+West Lindsey,,,Cherry Willingham Primary School,120505,2014,50.14085,28.37,76,,0.841087816,,,,300,3.5,1.8,,,86.0%,8.86%,8.86%
+West Lindsey,,,Cherry Willingham Primary School,120505,2015,50.14085,28.37,76,,0.841087816,,,,309,4,2.2,,,89.0%,3.49%,3.49%
+West Lindsey,,,Cherry Willingham Primary School,120505,2017,50.14085,28.37,76,,0.841087816,,,,271,3.8,6,,,50.0%,-16.67%,-16.67%
+West Lindsey,,,Cherry Willingham Primary School,120505,2019,50.14085,28.37,76,,0.841087816,,,,233,3.3,4.2,,,51.0%,-20.31%,-20.31%
+West Lindsey,,,Cherry Willingham Primary School,120505,2016,50.14085,28.37,76,,0.841087816,,,,294,3.8,8.7,,,60.0%,-32.58%,-32.58%
+Calderdale,,,"Christ Church CofE VA Junior School, Sowerby Bridge",107554,2019,3.087572,10.85,78.2,,1.52099389,,,,140,3.8,9.6,,,68%,88.89%,88.89%
+Calderdale,,,"Christ Church CofE VA Junior School, Sowerby Bridge",107554,2014,3.087572,10.85,78.2,,1.52099389,,,,123,4.8,4.6,,,75%,29.31%,29.31%
+Calderdale,,,"Christ Church CofE VA Junior School, Sowerby Bridge",107554,2017,3.087572,10.85,78.2,,1.52099389,,,,133,4.1,9.9,,,50%,19.05%,19.05%
+Calderdale,,,"Christ Church CofE VA Junior School, Sowerby Bridge",107554,2024,3.087572,10.85,78.2,,1.52099389,,,,93,6.1,16.5,,,69%,7.81%,7.81%
+Calderdale,,,"Christ Church CofE VA Junior School, Sowerby Bridge",107554,2015,3.087572,10.85,78.2,,1.52099389,,,,106,4.6,0,,,76%,1.33%,1.33%
+Calderdale,,,"Christ Church CofE VA Junior School, Sowerby Bridge",107554,2013,3.087572,10.85,78.2,,1.52099389,,,,120,5.1,4.8,,,58%,-25.64%,-25.64%
+Calderdale,,,"Christ Church CofE VA Junior School, Sowerby Bridge",107554,2018,3.087572,10.85,78.2,,1.52099389,,,,130,4.3,10.1,,,36%,-28.00%,-28.00%
+Calderdale,,,"Christ Church CofE VA Junior School, Sowerby Bridge",107554,2016,3.087572,10.85,78.2,,1.52099389,5,3.38,,115,4.7,12.9,,,42%,-44.74%,-44.74%
+Calderdale,,,Christ Church Pellon CofE VC Primary School,107535,2024,2.456504,12.6,89.5,,0.038496285,,,,175,9.6,33.9,,,34%,70.00%,70.00%
+Calderdale,,,Christ Church Pellon CofE VC Primary School,107535,2014,2.456504,12.6,89.5,,0.038496285,,,,189,5,4.7,,,65%,51.16%,51.16%
+Calderdale,,,Christ Church Pellon CofE VC Primary School,107535,2019,2.456504,12.6,89.5,,0.038496285,,,,192,3.6,7.5,,,42%,35.48%,35.48%
+Calderdale,,,Christ Church Pellon CofE VC Primary School,107535,2015,2.456504,12.6,89.5,,0.038496285,,,,192,5,4.2,,,86%,32.31%,32.31%
+Calderdale,,,Christ Church Pellon CofE VC Primary School,107535,2018,2.456504,12.6,89.5,,0.038496285,,,,184,5.1,14.5,,,31%,-6.06%,-6.06%
+Calderdale,,,Christ Church Pellon CofE VC Primary School,107535,2013,2.456504,12.6,89.5,,0.038496285,,,,191,5.8,5.1,,,43%,-20.37%,-20.37%
+Calderdale,,,Christ Church Pellon CofE VC Primary School,107535,2017,2.456504,12.6,89.5,,0.038496285,,,,191,3.5,7.3,,,33%,-36.54%,-36.54%
+Calderdale,,,Christ Church Pellon CofE VC Primary School,107535,2016,2.456504,12.6,89.5,,0.038496285,,,,181,3.8,11,,,52%,-39.53%,-39.53%
+Calderdale,,,Cliffe Hill Community Primary School,107525,2013,2.743502,9.74,77.4,,2.358604976,,,,177,7,12,,,77%,67.39%,67.39%
+Calderdale,,,Cliffe Hill Community Primary School,107525,2018,2.743502,9.74,77.4,,2.358604976,,,,201,5.6,20,,,63%,65.79%,65.79%
+Calderdale,,,Cliffe Hill Community Primary School,107525,2024,2.743502,9.74,77.4,,2.358604976,,,,176,9.5,29.8,,,54%,8.00%,8.00%
+Calderdale,,,Cliffe Hill Community Primary School,107525,2014,2.743502,9.74,77.4,,2.358604976,,,,193,4.9,2.4,,,81%,5.19%,5.19%
+Calderdale,,,Cliffe Hill Community Primary School,107525,2015,2.743502,9.74,77.4,,2.358604976,,,,205,4.4,1.7,,,81%,0.00%,0.00%
+Calderdale,,,Cliffe Hill Community Primary School,107525,2017,2.743502,9.74,77.4,,2.358604976,,,,198,5.4,15.1,,,38%,-13.64%,-13.64%
+Calderdale,,,Cliffe Hill Community Primary School,107525,2019,2.743502,9.74,77.4,,2.358604976,,,,195,4.8,14,,,50%,-20.63%,-20.63%
+Calderdale,,,Cliffe Hill Community Primary School,107525,2016,2.743502,9.74,77.4,,2.358604976,5,0,,214,4.6,12.8,,,44%,-45.68%,-45.68%
+Calderdale,,,Colden Junior and Infant School,107512,2017,4.06309,,,,2.62613911,,,,82,2.9,0,,,86%,32.31%,32.31%
+Calderdale,,,Colden Junior and Infant School,107512,2019,4.06309,,,,2.62613911,,,,94,3.6,3.6,,,78%,21.88%,21.88%
+Calderdale,,,Colden Junior and Infant School,107512,2013,4.06309,,,,2.62613911,,,,,,,,,100%,14.94%,14.94%
+Calderdale,,,Colden Junior and Infant School,107512,2014,4.06309,,,,2.62613911,,,,118,3,0,,,94%,-6.00%,-6.00%
+Calderdale,,,Colden Junior and Infant School,107512,2015,4.06309,,,,2.62613911,,,,119,3.3,0,,,88%,-6.38%,-6.38%
+Calderdale,,,Colden Junior and Infant School,107512,2024,4.06309,,,,2.62613911,,,,82,5.8,12.3,,,50%,-25.37%,-25.37%
+Calderdale,,,Colden Junior and Infant School,107512,2018,4.06309,,,,2.62613911,,,,76,3.5,6.4,,,64%,-25.58%,-25.58%
+Calderdale,,,Colden Junior and Infant School,107512,2016,4.06309,,,,2.62613911,,,,110,3.8,5.8,,,65%,-26.14%,-26.14%
+Calderdale,,,Copley Primary School,107480,2018,3.853452,13.21,70.8,,5.934485148,,,,234,3.1,2.4,,,78%,14.71%,14.71%
+Calderdale,,,Copley Primary School,107480,2017,3.853452,13.21,70.8,,5.934485148,,,,235,2.9,2,,,68%,11.48%,11.48%
+Calderdale,,,Copley Primary School,107480,2014,3.853452,13.21,70.8,,5.934485148,,,,231,2.6,0,,,100%,9.89%,9.89%
+Calderdale,,,Copley Primary School,107480,2024,3.853452,13.21,70.8,,5.934485148,,,,304,4.8,8.1,,,66%,4.76%,4.76%
+Calderdale,,,Copley Primary School,107480,2015,3.853452,13.21,70.8,,5.934485148,,,,232,2.9,0,,,94%,-6.00%,-6.00%
+Calderdale,,,Copley Primary School,107480,2013,3.853452,13.21,70.8,,5.934485148,,,,,,,,,91%,-9.00%,-9.00%
+Calderdale,,,Copley Primary School,107480,2019,3.853452,13.21,70.8,,5.934485148,,,,241,2.8,3,,,69%,-11.54%,-11.54%
+Calderdale,,,Copley Primary School,107480,2016,3.853452,13.21,70.8,,5.934485148,5,34.38,,232,3,2.5,,,61%,-35.11%,-35.11%
+Calderdale,,,"Cornholme Junior, Infant and Nursery School",107521,2017,46.56719,,,,2.787850044,,,,227,4.3,5.4,,,70%,40.00%,40.00%
+Calderdale,,,"Cornholme Junior, Infant and Nursery School",107521,2015,46.56719,,,,2.787850044,,,,,,,,,95%,28.38%,28.38%
+Calderdale,,,"Cornholme Junior, Infant and Nursery School",107521,2018,46.56719,,,,2.787850044,,,,221,4.5,8.5,,,83%,18.57%,18.57%
+Calderdale,,,"Cornholme Junior, Infant and Nursery School",107521,2013,46.56719,,,,2.787850044,,,,215,4.8,3,,,90%,16.88%,16.88%
+Calderdale,,,"Cornholme Junior, Infant and Nursery School",107521,2019,46.56719,,,,2.787850044,,,,204,4,7,,,75%,-9.64%,-9.64%
+Calderdale,,,"Cornholme Junior, Infant and Nursery School",107521,2014,46.56719,,,,2.787850044,,,,227,4.1,0,,,74%,-17.78%,-17.78%
+Calderdale,,,"Cornholme Junior, Infant and Nursery School",107521,2016,46.56719,,,,2.787850044,,,,215,4.4,9.9,,,50%,-47.37%,-47.37%
+Calderdale,,,"Cornholme Junior, Infant and Nursery School",107521,2024,46.56719,,,,2.787850044,,,,152,9.1,32.8,,,19%,-64.81%,-64.81%
+West Lindsey,,,Corringham CofE VC Primary School,120568,2017,58.17132,63.19,62.7,,0.314801497,,,,107,4,8.3,,,67.0%,42.55%,42.55%
+West Lindsey,,,Corringham CofE VC Primary School,120568,2015,58.17132,63.19,62.7,,0.314801497,,,,103,3.6,0,,,93.0%,27.40%,27.40%
+West Lindsey,,,Corringham CofE VC Primary School,120568,2018,58.17132,63.19,62.7,,0.314801497,,,,108,3.3,,,,78.0%,16.42%,16.42%
+West Lindsey,,,Corringham CofE VC Primary School,120568,2013,58.17132,63.19,62.7,,0.314801497,,,,93,3.8,,,,80.0%,-5.88%,-5.88%
+West Lindsey,,,Corringham CofE VC Primary School,120568,2024,58.17132,63.19,62.7,,0.314801497,,,,104,5.5,12,,,60.0%,-7.69%,-7.69%
+West Lindsey,,,Corringham CofE VC Primary School,120568,2014,58.17132,63.19,62.7,,0.314801497,,,,98,3.3,0,,,73.0%,-8.75%,-8.75%
+West Lindsey,,,Corringham CofE VC Primary School,120568,2019,58.17132,63.19,62.7,,0.314801497,,,,110,3.4,5.9,,,63.0%,-19.23%,-19.23%
+West Lindsey,,,Corringham CofE VC Primary School,120568,2016,58.17132,63.19,62.7,,0.314801497,,,,106,3.3,,,,47.0%,-49.46%,-49.46%
+Calderdale,,,Cragg Vale Junior and Infant School,107508,2015,,,,,,,,,64,3.9,0,,,83%,10.67%,10.67%
+Calderdale,,,Cragg Vale Junior and Infant School,107508,2016,,,,,,,,,,,,,,86%,3.61%,3.61%
+Calderdale,,,Cragg Vale Junior and Infant School,107508,2017,,,,,,,,,,,,,,77%,-10.47%,-10.47%
+Calderdale,,,Cross Lane Primary and Nursery School,107533,2017,1.677987,22.38,64,,9.945390826,,,,317,4,9.8,,,47%,113.64%,113.64%
+Calderdale,,,Cross Lane Primary and Nursery School,107533,2024,1.677987,22.38,64,,9.945390826,,,,325,5.1,11.5,,,63%,5.00%,5.00%
+Calderdale,,,Cross Lane Primary and Nursery School,107533,2013,1.677987,22.38,64,,9.945390826,,,,304,4.4,2,,,76%,2.70%,2.70%
+Calderdale,,,Cross Lane Primary and Nursery School,107533,2015,1.677987,22.38,64,,9.945390826,,,,315,4.6,4.7,,,66%,-1.49%,-1.49%
+Calderdale,,,Cross Lane Primary and Nursery School,107533,2018,1.677987,22.38,64,,9.945390826,,,,314,4.4,10.6,,,44%,-6.38%,-6.38%
+Calderdale,,,Cross Lane Primary and Nursery School,107533,2019,1.677987,22.38,64,,9.945390826,,,,317,4.3,10.6,,,40%,-9.09%,-9.09%
+Calderdale,,,Cross Lane Primary and Nursery School,107533,2014,1.677987,22.38,64,,9.945390826,,,,318,3.6,1.2,,,67%,-11.84%,-11.84%
+Calderdale,,,Cross Lane Primary and Nursery School,107533,2016,1.677987,22.38,64,,9.945390826,,,,318,4.4,10.4,,,22%,-66.67%,-66.67%
+Calderdale,,,Dean Field Community Primary School,107481,2017,1.147096,,,,18.1998684,,,,215,4.1,9.9,,,44%,340.00%,340.00%
+Calderdale,,,Dean Field Community Primary School,145400,2024,1.147096,9.53,93.1,,18.1998684,,,,226,6.6,20.7,,,71%,10.94%,10.94%
+Calderdale,,,Dean Field Community Primary School,107481,2014,1.147096,,,,18.1998684,,,,222,3.9,1.7,,,85%,3.66%,3.66%
+Calderdale,,,Dean Field Community Primary School,107481,2013,1.147096,,,,18.1998684,,,,214,4.7,6.6,,,82%,0.00%,0.00%
+Calderdale,,,Dean Field Community Primary School,107481,2015,1.147096,,,,18.1998684,,,,224,4.6,3.4,,,63%,-25.88%,-25.88%
+Calderdale,,,Dean Field Community Primary School,107481,2018,1.147096,,,,18.1998684,,,,,,,,,17%,-61.36%,-61.36%
+Calderdale,,,Dean Field Community Primary School,107481,2016,1.147096,,,,18.1998684,,,,222,3.6,9.2,,,10%,-84.13%,-84.13%
+West Lindsey,,,Dunholme St Chad's Church of England Primary School,120569,2018,39.68114,36.36,69.5,,1.575466046,,,,218,4,5.8,,,63.0%,26.00%,26.00%
+West Lindsey,,,Dunholme St Chad's Church of England Primary School,120569,2013,39.68114,36.36,69.5,,1.575466046,,,,160,4.2,2.2,,,100.0%,13.64%,13.64%
+West Lindsey,,,Dunholme St Chad's Church of England Primary School,120569,2015,39.68114,36.36,69.5,,1.575466046,,,,188,3.3,0,,,88.0%,8.64%,8.64%
+West Lindsey,,,Dunholme St Chad's Church of England Primary School,120569,2024,39.68114,36.36,69.5,,1.575466046,4,0,,212,4.7,9.6,,,77.0%,6.94%,6.94%
+West Lindsey,,,Dunholme St Chad's Church of England Primary School,120569,2017,39.68114,36.36,69.5,,1.575466046,,,,212,3.5,4.3,,,50.0%,0.00%,0.00%
+West Lindsey,,,Dunholme St Chad's Church of England Primary School,120569,2014,39.68114,36.36,69.5,,1.575466046,,,,175,3.5,,,,81.0%,-19.00%,-19.00%
+West Lindsey,,,Dunholme St Chad's Church of England Primary School,120569,2019,39.68114,36.36,69.5,,1.575466046,,,,210,3.2,2.6,,,50.0%,-20.63%,-20.63%
+West Lindsey,,,Dunholme St Chad's Church of England Primary School,120569,2016,39.68114,36.36,69.5,,1.575466046,,,,199,3.5,6.8,,,50.0%,-43.18%,-43.18%
+Calderdale,,,"Elland Church of England (Voluntary Aided) Junior, Infant and Nursery School",107550,2024,1.28494,25.59,64.6,,7.501624876,,,,161,6.4,21.5,,,27%,-18.18%,-18.18%
+Calderdale,,,Elland CofE Junior and Infant School,107550,2017,1.28494,25.59,64.6,,7.501624876,,,,217,4.3,10.9,,,24%,140.00%,140.00%
+Calderdale,,,Elland CofE Junior and Infant School,107550,2019,1.28494,25.59,64.6,,7.501624876,,,,199,4.9,11.6,,,43%,65.38%,65.38%
+Calderdale,,,Elland CofE Junior and Infant School,107550,2014,1.28494,25.59,64.6,,7.501624876,,,,,,,,,79%,25.40%,25.40%
+Calderdale,,,Elland CofE Junior and Infant School,107550,2018,1.28494,25.59,64.6,,7.501624876,,,,205,5.3,13.1,,,26%,8.33%,8.33%
+Calderdale,,,Elland CofE Junior and Infant School,107550,2013,1.28494,25.59,64.6,,7.501624876,,,,194,5.3,3.8,,,63%,-5.97%,-5.97%
+Calderdale,,,Elland CofE Junior and Infant School,107550,2015,1.28494,25.59,64.6,,7.501624876,,,,229,4.5,2.1,,,61%,-22.78%,-22.78%
+Calderdale,,,Elland CofE Junior and Infant School,107550,2016,1.28494,25.59,64.6,,7.501624876,5,19.35,,236,4.3,9.8,,,10%,-83.61%,-83.61%
+West Lindsey,,,Ellison Boulters Church of England Primary School,138753,2024,69.55861,60.95,60.7,,1.230031406,8,0,,288,3.9,4.4,,,76.0%,28.81%,28.81%
+West Lindsey,,,Ellison Boulters Church of England Primary School,138753,2013,69.55861,60.95,60.7,,1.230031406,,,,277,3.6,,,,100.0%,26.58%,26.58%
+West Lindsey,,,Ellison Boulters Church of England Primary School,138753,2018,69.55861,60.95,60.7,,1.230031406,,,,285,2.8,1.2,,,67.0%,6.35%,6.35%
+West Lindsey,,,Ellison Boulters Church of England Primary School,138753,2016,69.55861,60.95,60.7,,1.230031406,,,,283,3.1,2,,,73.0%,2.82%,2.82%
+West Lindsey,,,Ellison Boulters Church of England Primary School,138753,2019,69.55861,60.95,60.7,,1.230031406,,,,275,3.1,4.1,,,67.0%,0.00%,0.00%
+West Lindsey,,,Ellison Boulters Church of England Primary School,138753,2014,69.55861,60.95,60.7,,1.230031406,,,,284,3,0,,,88.0%,-12.00%,-12.00%
+West Lindsey,,,Ellison Boulters Church of England Primary School,138753,2017,69.55861,60.95,60.7,,1.230031406,,,,290,2.9,2.8,,,63.0%,-13.70%,-13.70%
+West Lindsey,,,Ellison Boulters Church of England Primary School,138753,2015,69.55861,60.95,60.7,,1.230031406,,,,273,3,0,,,71.0%,-19.32%,-19.32%
+West Lindsey,,,Faldingworth Community Primary School,120445,2019,47.62965,89.07,65.9,,6.476988848,,,,70,3.7,4.8,,,63.0%,43.18%,43.18%
+West Lindsey,,,Faldingworth Community Primary School,120445,2017,47.62965,89.07,65.9,,6.476988848,,,,56,2.9,,,,70.0%,27.27%,27.27%
+West Lindsey,,,Faldingworth Community Primary School,120445,2013,47.62965,89.07,65.9,,6.476988848,,,,47,4.5,,,,100.0%,0.00%,0.00%
+West Lindsey,,,Faldingworth Community Primary School,120445,2015,47.62965,89.07,65.9,,6.476988848,,,,54,3.5,0,,,83.0%,0.00%,0.00%
+West Lindsey,,,Faldingworth Community Primary School,120445,2014,47.62965,89.07,65.9,,6.476988848,,,,49,2.7,0,,,83.0%,-17.00%,-17.00%
+West Lindsey,,,Faldingworth Community Primary School,120445,2016,47.62965,89.07,65.9,,6.476988848,,,,59,3.3,,,,55.0%,-33.73%,-33.73%
+West Lindsey,,,Faldingworth Community Primary School,120445,2018,47.62965,89.07,65.9,,6.476988848,,,,64,3.6,,,,44.0%,-37.14%,-37.14%
+West Lindsey,,,Faldingworth Community Primary School,120445,2024,47.62965,89.07,65.9,,6.476988848,,,,71,4.9,9.4,,,25.0%,-50.00%,-50.00%
+Calderdale,,,Ferney Lee Primary School,107478,2017,1.164313,29.14,63.3,,3.920162677,,,,209,4.4,9.8,,,50%,100.00%,100.00%
+Calderdale,,,Ferney Lee Primary School,107478,2015,1.164313,29.14,63.3,,3.920162677,,,,215,4.5,1.7,,,77%,10.00%,10.00%
+Calderdale,,,Ferney Lee Primary School,107478,2024,1.164313,29.14,63.3,,3.920162677,,,,218,6.4,16.7,,,48%,6.67%,6.67%
+Calderdale,,,Ferney Lee Primary School,107478,2013,1.164313,29.14,63.3,,3.920162677,,,,209,6,5.6,,,79%,2.60%,2.60%
+Calderdale,,,Ferney Lee Primary School,107478,2019,1.164313,29.14,63.3,,3.920162677,,,,197,4.2,10.6,,,41%,-8.89%,-8.89%
+Calderdale,,,Ferney Lee Primary School,107478,2018,1.164313,29.14,63.3,,3.920162677,,,,202,5.2,13.4,,,45%,-10.00%,-10.00%
+Calderdale,,,Ferney Lee Primary School,107478,2014,1.164313,29.14,63.3,,3.920162677,,,,216,5,4,,,70%,-11.39%,-11.39%
+Calderdale,,,Ferney Lee Primary School,107478,2016,1.164313,29.14,63.3,,3.920162677,5,9.23,,205,5.3,12.4,,,25%,-67.53%,-67.53%
+Calderdale,,,Field Lane Primary School,138398,2018,3.712434,12.48,84.2,,1.894886883,,,,131,5.5,13.5,,,47%,88.00%,88.00%
+Calderdale,,,Field Lane Primary School,138398,2019,3.712434,12.48,84.2,,1.894886883,,,,130,4.5,11.3,,,65%,38.30%,38.30%
+Calderdale,,,Field Lane Primary School,138398,2017,3.712434,12.48,84.2,,1.894886883,,,,149,6,23.4,,,25%,25.00%,25.00%
+Calderdale,,,Field Lane Primary School,138398,2024,3.712434,12.48,84.2,,1.894886883,,,,94,5.7,18.2,,,55%,-3.51%,-3.51%
+Calderdale,,,Field Lane Primary School,138398,2014,3.712434,12.48,84.2,,1.894886883,,,,,,,,,76%,-11.63%,-11.63%
+Calderdale,,,Field Lane Primary School,138398,2015,3.712434,12.48,84.2,,1.894886883,,,,129,4.6,3.4,,,67%,-11.84%,-11.84%
+Calderdale,,,Field Lane Primary School,138398,2016,3.712434,12.48,84.2,,1.894886883,5,0,,135,6,20.3,,,20%,-70.15%,-70.15%
+West Lindsey,,,Fiskerton Church of England Primary School,120570,2017,34.65824,36.76,70.6,,0.459646962,,,,114,3.3,3.4,,,57.0%,235.29%,235.29%
+West Lindsey,,,Fiskerton Church of England Primary School,120570,2013,34.65824,36.76,70.6,,0.459646962,,,,76,4.6,,,,100.0%,20.48%,20.48%
+West Lindsey,,,Fiskerton Church of England Primary School,120570,2015,34.65824,36.76,70.6,,0.459646962,,,,93,3.2,0,,,85.0%,7.59%,7.59%
+West Lindsey,,,Fiskerton Church of England Primary School,120570,2018,34.65824,36.76,70.6,,0.459646962,,,,101,3.9,4.9,,,50.0%,-12.28%,-12.28%
+West Lindsey,,,Fiskerton Church of England Primary School,120570,2024,34.65824,36.76,70.6,,0.459646962,8,0.64,,89,4.4,10.1,,,40.0%,-14.89%,-14.89%
+West Lindsey,,,Fiskerton Church of England Primary School,120570,2014,34.65824,36.76,70.6,,0.459646962,,,,89,2.9,0,,,79.0%,-21.00%,-21.00%
+West Lindsey,,,Fiskerton Church of England Primary School,120570,2019,34.65824,36.76,70.6,,0.459646962,9,0,,83,3.4,4.1,,,25.0%,-50.00%,-50.00%
+West Lindsey,,,Fiskerton Church of England Primary School,120570,2016,34.65824,36.76,70.6,,0.459646962,,,,109,3.5,4.7,,,17.0%,-80.00%,-80.00%
+West Lindsey,,,Frances Olive Anderson Church of England (Aided) Primary School,120625,2017,46.06844,23.11,63,,20.45537806,,,,183,3.8,9.6,,,60.0%,57.89%,57.89%
+West Lindsey,,,Frances Olive Anderson Church of England (Aided) Primary School,120625,2024,46.06844,23.11,63,,20.45537806,9,0.37,,167,4.5,10.1,,,58.0%,31.82%,31.82%
+West Lindsey,,,Frances Olive Anderson Church of England (Aided) Primary School,120625,2019,46.06844,23.11,63,,20.45537806,,,,192,4.5,8.6,,,79.0%,27.42%,27.42%
+West Lindsey,,,Frances Olive Anderson Church of England (Aided) Primary School,120625,2013,46.06844,23.11,63,,20.45537806,,,,171,4.7,2.1,,,83.0%,9.21%,9.21%
+West Lindsey,,,Frances Olive Anderson Church of England (Aided) Primary School,120625,2018,46.06844,23.11,63,,20.45537806,,,,201,3.9,5.7,,,62.0%,3.33%,3.33%
+West Lindsey,,,Frances Olive Anderson Church of England (Aided) Primary School,120625,2015,46.06844,23.11,63,,20.45537806,,,,187,3.2,0,,,74.0%,-5.13%,-5.13%
+West Lindsey,,,Frances Olive Anderson Church of England (Aided) Primary School,120625,2014,46.06844,23.11,63,,20.45537806,,,,180,3.4,1.8,,,78.0%,-6.02%,-6.02%
+West Lindsey,,,Frances Olive Anderson Church of England (Aided) Primary School,120625,2016,46.06844,23.11,63,,20.45537806,,,,189,3.3,4.2,,,38.0%,-48.65%,-48.65%
+West Lindsey,,,Gainsborough Benjamin Adlard Community School,138063,2015,47.97429,24.16,58.3,,17.04656777,,,,207,5.7,3.9,,,67.0%,103.03%,103.03%
+West Lindsey,,,Gainsborough Benjamin Adlard Community School,138063,2024,47.97429,24.16,58.3,,17.04656777,9,0.58,,236,5.7,16.1,,,76.0%,52.00%,52.00%
+West Lindsey,,,Gainsborough Benjamin Adlard Community School,138063,2017,47.97429,24.16,58.3,,17.04656777,,,,214,4.2,13.4,,,64.0%,28.00%,28.00%
+West Lindsey,,,Gainsborough Benjamin Adlard Community School,138063,2013,47.97429,24.16,58.3,,17.04656777,,,,185,7.2,10.1,,,54.0%,25.58%,25.58%
+West Lindsey,,,Gainsborough Benjamin Adlard Community School,138063,2019,47.97429,24.16,58.3,,17.04656777,,,,231,4.3,8.7,,,52.0%,-8.77%,-8.77%
+West Lindsey,,,Gainsborough Benjamin Adlard Community School,138063,2018,47.97429,24.16,58.3,,17.04656777,,,,227,4.8,10.2,,,57.0%,-10.94%,-10.94%
+West Lindsey,,,Gainsborough Benjamin Adlard Community School,138063,2016,47.97429,24.16,58.3,,17.04656777,,,,208,4,10.1,,,50.0%,-25.37%,-25.37%
+West Lindsey,,,Gainsborough Benjamin Adlard Community School,138063,2014,47.97429,24.16,58.3,,17.04656777,,,,184,5.1,5.6,,,33.0%,-38.89%,-38.89%
+Calderdale,,,Hebden Royd CofE VA Primary School,107551,2013,5.988955,20.13,52.2,,3.775991091,,,,,,,,,82%,86.36%,86.36%
+Calderdale,,,Hebden Royd CofE VA Primary School,107551,2018,5.988955,20.13,52.2,,3.775991091,,,,135,3.6,5.7,,,58%,16.00%,16.00%
+Calderdale,,,Hebden Royd CofE VA Primary School,107551,2019,5.988955,20.13,52.2,,3.775991091,,,,128,4.2,9.3,,,67%,15.52%,15.52%
+Calderdale,,,Hebden Royd CofE VA Primary School,107551,2014,5.988955,20.13,52.2,,3.775991091,,,,147,3,0,,,89%,8.54%,8.54%
+Calderdale,,,Hebden Royd CofE VA Primary School,107551,2017,5.988955,20.13,52.2,,3.775991091,,,,150,3.5,6.7,,,50%,-10.71%,-10.71%
+Calderdale,,,Hebden Royd CofE VA Primary School,107551,2015,5.988955,20.13,52.2,,3.775991091,,,,139,3.1,0,,,76%,-14.61%,-14.61%
+Calderdale,,,Hebden Royd CofE VA Primary School,107551,2016,5.988955,20.13,52.2,,3.775991091,5,32.58,,139,3.5,8.5,,,56%,-26.32%,-26.32%
+Calderdale,,,Hebden Royd CofE VA Primary School,107551,2024,5.988955,20.13,52.2,,3.775991091,,,,103,5.4,15.7,,,47%,-45.35%,-45.35%
+West Lindsey,,,Hemswell Cliff Primary School,120491,2017,19.95389,62.19,51.4,,19.09329155,,,,86,5,16.9,,,31.0%,342.86%,342.86%
+West Lindsey,,,Hemswell Cliff Primary School,120491,2018,19.95389,62.19,51.4,,19.09329155,,,,73,4.5,14.3,,,60.0%,93.55%,93.55%
+West Lindsey,,,Hemswell Cliff Primary School,120491,2015,19.95389,62.19,51.4,,19.09329155,,,,91,3.4,,,,79.0%,11.27%,11.27%
+West Lindsey,,,Hemswell Cliff Primary School,120491,2013,19.95389,62.19,51.4,,19.09329155,,,,79,5.2,6.7,,,70.0%,11.11%,11.11%
+West Lindsey,,,Hemswell Cliff Primary School,120491,2014,19.95389,62.19,51.4,,19.09329155,,,,85,4.2,,,,71.0%,1.43%,1.43%
+West Lindsey,,,Hemswell Cliff Primary School,120491,2019,19.95389,62.19,51.4,,19.09329155,,,,56,5.2,15.8,,,20.0%,-66.67%,-66.67%
+West Lindsey,,,Hemswell Cliff Primary School,120491,2016,19.95389,62.19,51.4,,19.09329155,,,,85,4,7.4,,,7.0%,-91.14%,-91.14%
+West Lindsey,,,Hemswell Cliff Primary School,120491,2024,19.95389,62.19,51.4,,19.09329155,,,,39,6.5,10.5,,,,-100.00%,-100.00%
+Calderdale,,,Heptonstall Junior Infant and Nursery School,107511,2019,16.6126,23.81,60,,0.677648125,,,,,,,,,80%,40.35%,40.35%
+Calderdale,,,Heptonstall Junior Infant and Nursery School,107511,2024,16.6126,23.81,60,,0.677648125,,,,,,,,,71%,10.94%,10.94%
+Calderdale,,,Heptonstall Junior Infant and Nursery School,107511,2015,16.6126,23.81,60,,0.677648125,,,,,,,,,100%,7.53%,7.53%
+Calderdale,,,Heptonstall Junior Infant and Nursery School,107511,2014,16.6126,23.81,60,,0.677648125,,,,,,,,,93%,3.33%,3.33%
+Calderdale,,,Heptonstall Junior Infant and Nursery School,107511,2017,16.6126,23.81,60,,0.677648125,,,,110,2.5,6.7,,,64%,-4.48%,-4.48%
+Calderdale,,,Heptonstall Junior Infant and Nursery School,107511,2013,16.6126,23.81,60,,0.677648125,,,,,,,,,90%,-10.00%,-10.00%
+Calderdale,,,Heptonstall Junior Infant and Nursery School,107511,2018,16.6126,23.81,60,,0.677648125,,,,98,3.2,8.5,,,57%,-10.94%,-10.94%
+Calderdale,,,Heptonstall Junior Infant and Nursery School,107511,2016,16.6126,23.81,60,,0.677648125,,,,,,,,,67%,-33.00%,-33.00%
+Calderdale,,,"Holy Trinity Primary School, A Church of England Academy",138302,2017,12.28809,17.12,85,,1.334359829,,,,410,3.9,6.1,,,48%,33.33%,33.33%
+Calderdale,,,"Holy Trinity Primary School, A Church of England Academy",138302,2018,12.28809,17.12,85,,1.334359829,,,,447,3.8,9,,,63%,31.25%,31.25%
+Calderdale,,,"Holy Trinity Primary School, A Church of England Academy",138302,2024,12.28809,17.12,85,,1.334359829,,,,422,5.9,16.7,,,46%,12.20%,12.20%
+Calderdale,,,"Holy Trinity Primary School, A Church of England Academy",138302,2019,12.28809,17.12,85,,1.334359829,,,,454,4.1,8.1,,,68%,7.94%,7.94%
+Calderdale,,,"Holy Trinity Primary School, A Church of England Academy",138302,2014,12.28809,17.12,85,,1.334359829,,,,456,3.3,0.8,,,82%,1.23%,1.23%
+Calderdale,,,"Holy Trinity Primary School, A Church of England Academy",138302,2015,12.28809,17.12,85,,1.334359829,,,,,,,,,80%,-2.44%,-2.44%
+Calderdale,,,"Holy Trinity Primary School, A Church of England Academy",138302,2016,12.28809,17.12,85,,1.334359829,,,,414,3.9,8.6,,,36%,-55.00%,-55.00%
+Calderdale,,,Holywell Green Primary School,107505,2018,1.964863,16.7,63.5,,0.538573824,,,,219,3.8,5.5,,,81%,24.62%,24.62%
+Calderdale,,,Holywell Green Primary School,107505,2024,1.964863,16.7,63.5,,0.538573824,,,,155,4.6,11,,,57%,14.00%,14.00%
+Calderdale,,,Holywell Green Primary School,107505,2017,1.964863,16.7,63.5,,0.538573824,,,,238,3.3,7.2,,,65%,6.56%,6.56%
+Calderdale,,,Holywell Green Primary School,107505,2014,1.964863,16.7,63.5,,0.538573824,,,,228,3.1,0,,,88%,2.33%,2.33%
+Calderdale,,,Holywell Green Primary School,107505,2015,1.964863,16.7,63.5,,0.538573824,,,,,,,,,82%,-6.82%,-6.82%
+Calderdale,,,Holywell Green Primary School,107505,2013,1.964863,16.7,63.5,,0.538573824,,,,236,3.3,1.8,,,86%,-9.47%,-9.47%
+Calderdale,,,Holywell Green Primary School,107505,2019,1.964863,16.7,63.5,,0.538573824,,,,205,3.5,4.9,,,68%,-16.05%,-16.05%
+Calderdale,,,Holywell Green Primary School,107505,2016,1.964863,16.7,63.5,,0.538573824,,,,240,3.5,4.9,,,61%,-25.61%,-25.61%
+West Lindsey,,,Ingham Primary School,120454,2018,42.82553,51.87,57.8,,44.17238116,,,,111,4.3,5.3,,,56.0%,19.15%,19.15%
+West Lindsey,,,Ingham Primary School,120454,2024,42.82553,51.87,57.8,,44.17238116,,,,81,3.8,10,,,73.0%,15.87%,15.87%
+West Lindsey,,,Ingham Primary School,120454,2016,42.82553,51.87,57.8,,44.17238116,,,,118,2.7,,,,89.0%,4.71%,4.71%
+West Lindsey,,,Ingham Primary School,120454,2014,42.82553,51.87,57.8,,44.17238116,,,,113,3.6,0,,,88.0%,-1.12%,-1.12%
+West Lindsey,,,Ingham Primary School,120454,2019,42.82553,51.87,57.8,,44.17238116,,,,104,3.6,3.1,,,55.0%,-1.79%,-1.79%
+West Lindsey,,,Ingham Primary School,120454,2013,42.82553,51.87,57.8,,44.17238116,,,,109,3.7,0,,,89.0%,-3.26%,-3.26%
+West Lindsey,,,Ingham Primary School,120454,2015,42.82553,51.87,57.8,,44.17238116,,,,110,3.2,,,,85.0%,-3.41%,-3.41%
+West Lindsey,,,Ingham Primary School,120454,2017,42.82553,51.87,57.8,,44.17238116,,,,109,3.6,4.2,,,47.0%,-47.19%,-47.19%
+West Lindsey,,,Keelby Primary School,120456,2013,32.60963,74.18,45.8,,3.404992298,,,,182,3,,,,95.0%,72.73%,72.73%
+West Lindsey,,,Keelby Primary School,120456,2014,32.60963,74.18,45.8,,3.404992298,,,,184,3,,,,96.0%,1.05%,1.05%
+West Lindsey,,,Keelby Primary School,120456,2015,32.60963,74.18,45.8,,3.404992298,,,,182,3.2,0,,,97.0%,1.04%,1.04%
+West Lindsey,,,Kelsey Primary School,120469,2019,30.75055,59.88,60.2,,13.25747867,,,,101,3.5,6.5,,,92.0%,130.00%,130.00%
+West Lindsey,,,Kelsey Primary School,120469,2017,30.75055,59.88,60.2,,13.25747867,,,,118,4,8.7,,,50.0%,100.00%,100.00%
+West Lindsey,,,Kelsey Primary School,120469,2013,30.75055,59.88,60.2,,13.25747867,,,,54,4.3,,,,100.0%,0.00%,0.00%
+West Lindsey,,,Kelsey Primary School,120469,2024,30.75055,59.88,60.2,,13.25747867,8,0,,101,3.9,5.3,,,71.0%,-4.05%,-4.05%
+West Lindsey,,,Kelsey Primary School,120469,2018,30.75055,59.88,60.2,,13.25747867,,,,102,4.5,8.6,,,40.0%,-20.00%,-20.00%
+West Lindsey,,,Kelsey Primary School,120469,2016,30.75055,59.88,60.2,,13.25747867,,,,125,3.1,5.6,,,25.0%,-75.00%,-75.00%
+West Lindsey,,,Kelsey Primary School,120469,2014,30.75055,59.88,60.2,,13.25747867,,,,63,3.5,0,,,,-100.00%,-100.00%
+Calderdale,,,Lee Mount Primary School,107483,2015,4.250070263,14.91,90.4,,0.484773142,,,,387,4.2,2.3,,,86%,16.22%,16.22%
+Calderdale,,,Lee Mount Primary School,107483,2018,4.250070263,14.91,90.4,,0.484773142,,,,364,5.6,14.9,,,38%,8.57%,8.57%
+Calderdale,,,Lee Mount Primary School,107483,2017,4.250070263,14.91,90.4,,0.484773142,,,,377,4.7,13,,,35%,6.06%,6.06%
+Calderdale,,,Lee Mount Primary School,107483,2013,4.250070263,14.91,90.4,,0.484773142,,,,362,4.3,1.8,,,76%,4.11%,4.11%
+Calderdale,,,Lee Mount Primary School,107483,2014,4.250070263,14.91,90.4,,0.484773142,,,,,,,,,74%,-2.63%,-2.63%
+Calderdale,,,Lee Mount Primary School,107483,2019,4.250070263,14.91,90.4,,0.484773142,,,,346,5.1,13.9,,,33%,-13.16%,-13.16%
+Calderdale,,,Lee Mount Primary School,107483,2016,4.250070263,14.91,90.4,,0.484773142,,,,387,4.4,9.4,,,33%,-61.63%,-61.63%
+West Lindsey,,,Legsby Primary School,120457,2024,23.91062,58.35,66.1,,4.536375351,,,,37,7.6,27.5,,,40.0%,33.33%,33.33%
+West Lindsey,,,Legsby Primary School,120457,2019,23.91062,58.35,66.1,,4.536375351,,,,49,5.9,16.3,,,33.0%,32.00%,32.00%
+West Lindsey,,,Legsby Primary School,120457,2014,23.91062,58.35,66.1,,4.536375351,,,,35,4.6,,,,78.0%,9.86%,9.86%
+West Lindsey,,,Legsby Primary School,120457,2013,23.91062,58.35,66.1,,4.536375351,,,,41,4.2,,,,71.0%,-29.00%,-29.00%
+West Lindsey,,,Legsby Primary School,120457,2015,23.91062,58.35,66.1,,4.536375351,,,,30,3.1,0,,,50.0%,-35.90%,-35.90%
+West Lindsey,,,Legsby Primary School,120457,2016,23.91062,58.35,66.1,,4.536375351,,,,27,3.2,,,,,-100.00%,-100.00%
+Calderdale,,,Lightcliffe C of E Primary School,144865,2024,1.461107,32.02,65.3,,22.25233144,,,,411,3.8,6.5,,,57%,16.33%,16.33%
+Calderdale,,,Lightcliffe CofE Primary School,144865,2019,1.461107,32.02,65.3,,22.25233144,,,,417,3.5,4.1,,,82%,9.33%,9.33%
+Calderdale,,,Lightcliffe CofE VA Primary School,107572,2014,1.461107,,,,22.25233144,,,,416,3.1,1.6,,,85%,8.97%,8.97%
+Calderdale,,,Lightcliffe CofE VA Primary School,107572,2015,1.461107,,,,22.25233144,,,,,,,,,82%,-3.53%,-3.53%
+Calderdale,,,Lightcliffe CofE VA Primary School,107572,2017,1.461107,,,,22.25233144,,,,417,3.2,6,,,62%,-7.46%,-7.46%
+Calderdale,,,Lightcliffe CofE VA Primary School,107572,2013,1.461107,,,,22.25233144,,,,420,4.2,2.5,,,78%,-8.24%,-8.24%
+Calderdale,,,Lightcliffe CofE VA Primary School,107572,2016,1.461107,,,,22.25233144,,,,422,3.3,3.6,,,67%,-18.29%,-18.29%
+Calderdale,,,"Ling Bob Junior, Infant and Nursery School",107497,2017,1.698176,13.96,85.5,,7.490633662,,,,367,4,6,,,47%,104.35%,104.35%
+Calderdale,,,"Ling Bob Junior, Infant and Nursery School",107497,2014,1.698176,13.96,85.5,,7.490633662,,,,,,,,,76%,20.63%,20.63%
+Calderdale,,,"Ling Bob Junior, Infant and Nursery School",107497,2019,1.698176,13.96,85.5,,7.490633662,,,,367,3.7,6.8,,,65%,20.37%,20.37%
+Calderdale,,,"Ling Bob Junior, Infant and Nursery School",107497,2018,1.698176,13.96,85.5,,7.490633662,,,,369,3.8,6.7,,,54%,14.89%,14.89%
+Calderdale,,,"Ling Bob Junior, Infant and Nursery School",107497,2024,1.698176,13.96,85.5,,7.490633662,,,,352,5.8,16.7,,,61%,10.91%,10.91%
+Calderdale,,,"Ling Bob Junior, Infant and Nursery School",107497,2015,1.698176,13.96,85.5,,7.490633662,,,,393,4.4,1.5,,,68%,-10.53%,-10.53%
+Calderdale,,,"Ling Bob Junior, Infant and Nursery School",107497,2013,1.698176,13.96,85.5,,7.490633662,,,,371,4.7,2.7,,,63%,-11.27%,-11.27%
+Calderdale,,,"Ling Bob Junior, Infant and Nursery School",107497,2016,1.698176,13.96,85.5,,7.490633662,,,,375,4,8.3,,,23%,-66.18%,-66.18%
+Calderdale,,,Longroyde Junior School,107501,2014,3.622458,14.33,79.9,,5.474430032,,,,,,,,,91%,26.39%,26.39%
+Calderdale,,,Longroyde Junior School,107501,2015,3.622458,14.33,79.9,,5.474430032,,,,257,4,1.5,,,92%,1.10%,1.10%
+Calderdale,,,Longroyde Junior School,107501,2013,3.622458,14.33,79.9,,5.474430032,,,,247,5,3.5,,,72%,-4.00%,-4.00%
+Calderdale,,,Longroyde Primary School,107501,2017,3.622458,14.33,79.9,,5.474430032,,,,409,4.1,11.1,,,62%,19.23%,19.23%
+Calderdale,,,Longroyde Primary School,107501,2019,3.622458,14.33,79.9,,5.474430032,,,,423,4.2,12.7,,,66%,11.86%,11.86%
+Calderdale,,,Longroyde Primary School,107501,2024,3.622458,14.33,79.9,,5.474430032,,,,390,6.5,24.1,,,58%,-1.69%,-1.69%
+Calderdale,,,Longroyde Primary School,107501,2018,3.622458,14.33,79.9,,5.474430032,,,,416,4,10.2,,,59%,-4.84%,-4.84%
+Calderdale,,,Longroyde Primary School,107501,2016,3.622458,14.33,79.9,,5.474430032,5,5.21,,243,4,8.7,,,52%,-43.48%,-43.48%
+Calderdale,,,Luddenden CofE School,107541,2019,1.91732,18.74,80.7,,0.438289295,,,,168,3.5,8.9,,,59%,34.09%,34.09%
+Calderdale,,,Luddenden CofE School,107541,2018,1.91732,18.74,80.7,,0.438289295,,,,198,4.5,9.7,,,44%,7.32%,7.32%
+Calderdale,,,Luddenden CofE School,107541,2015,1.91732,18.74,80.7,,0.438289295,,,,,,,,,70%,1.45%,1.45%
+Calderdale,,,Luddenden CofE School,107541,2024,1.91732,18.74,80.7,,0.438289295,,,,,,,,,58%,-7.94%,-7.94%
+Calderdale,,,Luddenden CofE School,107541,2017,1.91732,18.74,80.7,,0.438289295,,,,205,3.8,4.5,,,41%,-8.89%,-8.89%
+Calderdale,,,Luddenden CofE School,107541,2014,1.91732,18.74,80.7,,0.438289295,,,,182,4,3.8,,,69%,-21.59%,-21.59%
+Calderdale,,,Luddenden CofE School,107541,2016,1.91732,18.74,80.7,,0.438289295,5,3.23,,209,3.8,7.5,,,45%,-35.71%,-35.71%
+Calderdale,,,Luddenden Dene CofE (VC) Junior Infant and Nursery School,107541,2013,1.91732,18.74,80.7,,0.438289295,,,,176,4.8,2.8,,,88%,17.33%,17.33%
+Calderdale,,,Luddendenfoot Academy,137699,2017,4.399328,19.68,71.5,,1.320138079,,,,147,2.7,3.8,,,100%,61.29%,61.29%
+Calderdale,,,Luddendenfoot Academy,137699,2014,4.399328,19.68,71.5,,1.320138079,,,,147,3.4,2.5,,,63%,43.18%,43.18%
+Calderdale,,,Luddendenfoot Academy,137699,2015,4.399328,19.68,71.5,,1.320138079,,,,146,3.4,0,,,89%,41.27%,41.27%
+Calderdale,,,Luddendenfoot Academy,137699,2018,4.399328,19.68,71.5,,1.320138079,,,,163,2.8,4.3,,,95%,-5.00%,-5.00%
+Calderdale,,,Luddendenfoot Academy,137699,2024,4.399328,19.68,71.5,,1.320138079,,,,194,4.2,10.3,,,76%,-5.00%,-5.00%
+Calderdale,,,Luddendenfoot Academy,137699,2019,4.399328,19.68,71.5,,1.320138079,,,,181,3,3.1,,,78%,-17.89%,-17.89%
+Calderdale,,,Luddendenfoot Academy,137699,2016,4.399328,19.68,71.5,,1.320138079,5,9.31,,134,3.1,6.4,,,62%,-30.34%,-30.34%
+West Lindsey,,,Marton Primary School,120462,2014,11.37559,32.04,39.4,,14.57295346,,,,87,3.4,,,,91.0%,15.19%,15.19%
+West Lindsey,,,Marton Primary School,120462,2017,11.37559,32.04,39.4,,14.57295346,,,,101,3.4,,,,64.0%,6.67%,6.67%
+West Lindsey,,,Marton Primary School,120462,2013,11.37559,32.04,39.4,,14.57295346,,,,83,4.2,,,,79.0%,5.33%,5.33%
+West Lindsey,,,Marton Primary School,120462,2015,11.37559,32.04,39.4,,14.57295346,,,,90,3.1,0,,,89.0%,-2.20%,-2.20%
+West Lindsey,,,Marton Primary School,120462,2016,11.37559,32.04,39.4,,14.57295346,,,,106,3.7,6.7,,,60.0%,-32.58%,-32.58%
+West Lindsey,,,Mercer's Wood Academy,139332,2017,7.443106,11.52,74.6,,23.29686601,,,,201,6.4,21.2,,,45.0%,136.84%,136.84%
+West Lindsey,,,Mercer's Wood Academy,139332,2018,7.443106,11.52,74.6,,23.29686601,,,,199,5.5,17.1,,,54.0%,20.00%,20.00%
+West Lindsey,,,Mercer's Wood Academy,139332,2019,7.443106,11.52,74.6,,23.29686601,,,,198,6.1,18.6,,,50.0%,-7.41%,-7.41%
+West Lindsey,,,Mercer's Wood Academy,139332,2015,7.443106,11.52,74.6,,23.29686601,,,,185,5.7,5.9,,,65.0%,-18.75%,-18.75%
+West Lindsey,,,Mercer's Wood Academy,139332,2024,7.443106,11.52,74.6,,23.29686601,9,0,,180,9.2,29.2,,,27.0%,-38.64%,-38.64%
+West Lindsey,,,Mercer's Wood Academy,139332,2016,7.443106,11.52,74.6,,23.29686601,,,,192,5.9,21,,,19.0%,-70.77%,-70.77%
+Calderdale,,,Midgley School,107517,2017,0.874359,17.21,65.1,,7.991077953,,,,,,,,,85%,44.07%,44.07%
+Calderdale,,,Midgley School,107517,2014,0.874359,17.21,65.1,,7.991077953,,,,103,3,0,,,93%,30.99%,30.99%
+Calderdale,,,Midgley School,107517,2024,0.874359,17.21,65.1,,7.991077953,,,,70,5.7,18.1,,,69%,2.99%,2.99%
+Calderdale,,,Midgley School,107517,2015,0.874359,17.21,65.1,,7.991077953,,,,105,3.5,0,,,88%,-5.38%,-5.38%
+Calderdale,,,Midgley School,107517,2018,0.874359,17.21,65.1,,7.991077953,,,,102,4.2,4.5,,,77%,-9.41%,-9.41%
+Calderdale,,,Midgley School,107517,2019,0.874359,17.21,65.1,,7.991077953,,,,102,3.2,4.4,,,67%,-12.99%,-12.99%
+Calderdale,,,Midgley School,107517,2013,0.874359,17.21,65.1,,7.991077953,,,,,,,,,71%,-29.00%,-29.00%
+Calderdale,,,Midgley School,107517,2016,0.874359,17.21,65.1,,7.991077953,5,1.18,,102,3.4,5.4,,,59%,-32.95%,-32.95%
+Calderdale,,,Moorside Community Primary School,134659,2017,5.678259,20.65,76.2,,0.018808414,,,,261,5.3,13.8,,,39%,105.26%,105.26%
+Calderdale,,,Moorside Community Primary School,134659,2018,5.678259,20.65,76.2,,0.018808414,,,,244,4.5,8,,,42%,7.69%,7.69%
+Calderdale,,,Moorside Community Primary School,134659,2019,5.678259,20.65,76.2,,0.018808414,,,,240,5.4,17.3,,,41%,-2.38%,-2.38%
+Calderdale,,,Moorside Community Primary School,134659,2024,5.678259,20.65,76.2,,0.018808414,,,,222,6,16.5,,,37%,-7.50%,-7.50%
+Calderdale,,,Moorside Community Primary School,134659,2013,5.678259,20.65,76.2,,0.018808414,,,,263,5.7,5.1,,,62%,-15.07%,-15.07%
+Calderdale,,,Moorside Community Primary School,134659,2016,5.678259,20.65,76.2,,0.018808414,5,0.72,,274,5.5,16.5,,,19%,-38.71%,-38.71%
+Calderdale,,,Moorside Community Primary School,134659,2014,5.678259,20.65,76.2,,0.018808414,,,,296,5.2,3.9,,,0%,-100.00%,-100.00%
+West Lindsey,,,Morton Trentside Primary School,120464,2018,22.87908,32.64,76.1,,65.99805535,,,,224,4.7,11.2,,,86.0%,86.96%,86.96%
+West Lindsey,,,Morton Trentside Primary School,120464,2015,22.87908,32.64,76.1,,65.99805535,,,,203,3.2,0,,,87.0%,24.29%,24.29%
+West Lindsey,,,Morton Trentside Primary School,120464,2013,22.87908,32.64,76.1,,65.99805535,,,,208,5.1,3.3,,,87.0%,3.57%,3.57%
+West Lindsey,,,Morton Trentside Primary School,120464,2019,22.87908,32.64,76.1,,65.99805535,,,,209,4.8,7.5,,,83.0%,-3.49%,-3.49%
+West Lindsey,,,Morton Trentside Primary School,120464,2014,22.87908,32.64,76.1,,65.99805535,,,,208,3.8,,,,70.0%,-19.54%,-19.54%
+West Lindsey,,,Morton Trentside Primary School,120464,2024,22.87908,32.64,76.1,,65.99805535,9,0,,176,4.6,12.6,,,59.0%,-22.37%,-22.37%
+West Lindsey,,,Morton Trentside Primary School,120464,2016,22.87908,32.64,76.1,,65.99805535,,,,227,3.8,7.6,,,65.0%,-25.29%,-25.29%
+West Lindsey,,,Morton Trentside Primary School,120464,2017,22.87908,32.64,76.1,,65.99805535,,,,218,4.9,8.4,,,46.0%,-29.23%,-29.23%
+Calderdale,,,Mount Pellon Junior and Infant School,107532,2013,3.353962,,,,1.674153474,,,,574,5.8,3,,,50%,8.70%,8.70%
+Calderdale,,,Mount Pellon Primary Academy,139270,2017,3.353962,14.68,94.2,,1.674153474,,,,539,4.3,11.6,,,39%,77.27%,77.27%
+Calderdale,,,Mount Pellon Primary Academy,139270,2018,3.353962,14.68,94.2,,1.674153474,,,,479,3.9,9,,,54%,38.46%,38.46%
+Calderdale,,,Mount Pellon Primary Academy,139270,2015,3.353962,14.68,94.2,,1.674153474,,,,573,4.4,2.4,,,64%,6.67%,6.67%
+Calderdale,,,Mount Pellon Primary Academy,139270,2019,3.353962,14.68,94.2,,1.674153474,,,,445,4.6,14.9,,,57%,5.56%,5.56%
+Calderdale,,,Mount Pellon Primary Academy,139270,2024,3.353962,14.68,94.2,,1.674153474,,,,316,7.9,27.8,,,56%,-12.50%,-12.50%
+Calderdale,,,Mount Pellon Primary Academy,139270,2016,3.353962,14.68,94.2,,1.674153474,,,,556,3.9,9.1,,,22%,-65.63%,-65.63%
+West Lindsey,,,Nettleton Community Primary School,120465,2013,33.75688,74.93,35.1,,26.48346383,,,,44,4.3,,,,100.0%,40.85%,40.85%
+West Lindsey,,,Nettleton Community Primary School,120465,2019,33.75688,74.93,35.1,,26.48346383,,,,83,3.7,8.3,,,67.0%,34.00%,34.00%
+West Lindsey,,,Nettleton Community Primary School,120465,2018,33.75688,74.93,35.1,,26.48346383,,,,77,3.6,5.6,,,50.0%,19.05%,19.05%
+West Lindsey,,,Nettleton Community Primary School,120465,2016,33.75688,74.93,35.1,,26.48346383,,,,66,4.4,11.7,,,67.0%,4.69%,4.69%
+West Lindsey,,,Nettleton Community Primary School,120465,2014,33.75688,74.93,35.1,,26.48346383,,,,49,3.7,0,,,89.0%,-11.00%,-11.00%
+West Lindsey,,,Nettleton Community Primary School,120465,2015,33.75688,74.93,35.1,,26.48346383,,,,66,2.9,0,,,64.0%,-28.09%,-28.09%
+West Lindsey,,,Nettleton Community Primary School,120465,2024,33.75688,74.93,35.1,,26.48346383,,,,69,4.9,11.9,,,43.0%,-35.82%,-35.82%
+West Lindsey,,,Nettleton Community Primary School,120465,2017,33.75688,74.93,35.1,,26.48346383,,,,67,3.3,,,,42.0%,-37.31%,-37.31%
+Calderdale,,,New Road Primary School,107518,2017,2.644513,8.83,76.8,,3.377425018,,,,137,3.5,3.9,,,55%,52.78%,52.78%
+Calderdale,,,New Road Primary School,107518,2019,2.644513,8.83,76.8,,3.377425018,4,1.74,,153,4.3,10.8,,,68%,19.30%,19.30%
+Calderdale,,,New Road Primary School,107518,2018,2.644513,8.83,76.8,,3.377425018,,,,154,4.1,12.5,,,57%,3.64%,3.64%
+Calderdale,,,New Road Primary School,107518,2024,2.644513,8.83,76.8,,3.377425018,,,,172,5.7,16.4,,,52%,-17.46%,-17.46%
+Calderdale,,,New Road Primary School,107518,2015,2.644513,8.83,76.8,,3.377425018,,,,,,,,,70%,-30.00%,-30.00%
+Calderdale,,,New Road Primary School,107518,2016,2.644513,8.83,76.8,,3.377425018,5,35.79,,137,3.2,6,,,36%,-48.57%,-48.57%
+West Lindsey,,,Newton-on-Trent CofE Primary School,120578,2024,18.49005,53.46,40.7,,4.967397119,9,1.82,,56,2.9,4.7,,,71.0%,10.94%,10.94%
+West Lindsey,,,Newton-on-Trent CofE Primary School,120578,2016,18.49005,53.46,40.7,,4.967397119,,,,49,4.6,,,,14.0%,-77.78%,-77.78%
+West Lindsey,,,Newton-on-Trent CofE Primary School,120578,2017,18.49005,53.46,40.7,,4.967397119,,,,43,4.2,10.3,,,,-100.00%,-100.00%
+Calderdale,,,Norland CE School,107537,2017,0.798843,14.54,79.8,,0.823959206,,,,,,,,,80%,37.93%,37.93%
+Calderdale,,,Norland CE School,107537,2019,0.798843,14.54,79.8,,0.823959206,,,,108,3.7,5.4,,,69%,9.52%,9.52%
+Calderdale,,,Norland CE School,107537,2024,0.798843,14.54,79.8,,0.823959206,,,,75,3.9,7.1,,,63%,-1.56%,-1.56%
+Calderdale,,,Norland CE School,107537,2018,0.798843,14.54,79.8,,0.823959206,,,,102,5.5,9.8,,,63%,-21.25%,-21.25%
+Calderdale,,,Norland CofE Junior and Infant School,107537,2014,0.798843,14.54,79.8,,0.823959206,,,,,,,,,100%,40.85%,40.85%
+Calderdale,,,Norland CofE Junior and Infant School,107537,2013,0.798843,14.54,79.8,,0.823959206,,,,82,7.4,4.4,,,71%,-14.46%,-14.46%
+Calderdale,,,Norland CofE Junior and Infant School,107537,2015,0.798843,14.54,79.8,,0.823959206,,,,,,,,,83%,-17.00%,-17.00%
+Calderdale,,,Norland CofE Junior and Infant School,107537,2016,0.798843,14.54,79.8,,0.823959206,5,5.37,,,,,,,58%,-30.12%,-30.12%
+West Lindsey,,,Normanby Primary School,120468,2018,20.54219,68.62,69.4,,5.59616039,,,,75,4,5.5,,,57.0%,42.50%,42.50%
+West Lindsey,,,Normanby Primary School,120468,2015,20.54219,68.62,69.4,,5.59616039,,,,63,5,6.2,,,89.0%,39.06%,39.06%
+West Lindsey,,,Normanby Primary School,120468,2019,20.54219,68.62,69.4,,5.59616039,9,0.23,,58,3.7,,,,56.0%,-1.75%,-1.75%
+West Lindsey,,,Normanby Primary School,120468,2024,20.54219,68.62,69.4,,5.59616039,4,0.09,,51,5.9,12.2,,,56.0%,-16.42%,-16.42%
+West Lindsey,,,Normanby Primary School,120468,2013,20.54219,68.62,69.4,,5.59616039,,,,66,4.2,,,,82.0%,-18.00%,-18.00%
+West Lindsey,,,Normanby Primary School,120468,2017,20.54219,68.62,69.4,,5.59616039,,,,72,4,8.1,,,40.0%,-20.00%,-20.00%
+West Lindsey,,,Normanby Primary School,120468,2014,20.54219,68.62,69.4,,5.59616039,,,,78,4.5,0,,,64.0%,-21.95%,-21.95%
+West Lindsey,,,Normanby Primary School,120468,2016,20.54219,68.62,69.4,,5.59616039,,,,72,4,7.3,,,50.0%,-43.82%,-43.82%
+Calderdale,,,Northowram Primary School,107486,2018,13.75662,20.66,75.6,,0.431059167,,,,474,4.2,7.2,,,74%,19.35%,19.35%
+Calderdale,,,Northowram Primary School,107486,2013,13.75662,20.66,75.6,,0.431059167,,,,469,3.9,2.8,,,88%,10.00%,10.00%
+Calderdale,,,Northowram Primary School,107486,2015,13.75662,20.66,75.6,,0.431059167,,,,473,3.4,1.4,,,98%,8.89%,8.89%
+Calderdale,,,Northowram Primary School,107486,2017,13.75662,20.66,75.6,,0.431059167,,,,473,3.8,6.6,,,62%,8.77%,8.77%
+Calderdale,,,Northowram Primary School,107486,2024,13.75662,20.66,75.6,,0.431059167,,,,452,4.3,8,,,72%,5.88%,5.88%
+Calderdale,,,Northowram Primary School,107486,2014,13.75662,20.66,75.6,,0.431059167,,,,480,3.7,0.8,,,90%,2.27%,2.27%
+Calderdale,,,Northowram Primary School,107486,2019,13.75662,20.66,75.6,,0.431059167,,,,462,3.8,6.3,,,64%,-13.51%,-13.51%
+Calderdale,,,Northowram Primary School,107486,2016,13.75662,20.66,75.6,,0.431059167,5,0,,465,3.2,4.4,,,57%,-41.84%,-41.84%
+Calderdale,,,Old Earth Primary School,137398,2017,2.561558,22.97,74,,0.851798034,,,,464,3,5.5,,,75%,41.51%,41.51%
+Calderdale,,,Old Earth Primary School,137398,2014,2.561558,22.97,74,,0.851798034,,,,444,3,0.9,,,94%,17.50%,17.50%
+Calderdale,,,Old Earth Primary School,137398,2019,2.561558,22.97,74,,0.851798034,,,,469,3.2,4.4,,,75%,2.74%,2.74%
+Calderdale,,,Old Earth Primary School,137398,2024,2.561558,22.97,74,,0.851798034,,,,461,4.3,6.6,,,67%,-1.47%,-1.47%
+Calderdale,,,Old Earth Primary School,137398,2018,2.561558,22.97,74,,0.851798034,,,,461,3.8,7.6,,,73%,-2.67%,-2.67%
+Calderdale,,,Old Earth Primary School,137398,2015,2.561558,22.97,74,,0.851798034,,,,452,3.3,1.7,,,91%,-3.19%,-3.19%
+Calderdale,,,Old Earth Primary School,137398,2013,2.561558,22.97,74,,0.851798034,,,,433,3.2,1.8,,,80%,-5.88%,-5.88%
+Calderdale,,,Old Earth Primary School,137398,2016,2.561558,22.97,74,,0.851798034,5,6.46,,456,3.3,4.3,,,53%,-41.76%,-41.76%
+Calderdale,,,Old Town Primary School,107524,2024,0.794616,31.92,47.1,,1.31496033,,,,78,5.9,14.3,,,77%,45.28%,45.28%
+Calderdale,,,Old Town Primary School,107524,2017,0.794616,31.92,47.1,,1.31496033,,,,104,4,5.6,,,73%,37.74%,37.74%
+Calderdale,,,Old Town Primary School,107524,2014,0.794616,31.92,47.1,,1.31496033,,,,106,2.9,0,,,80%,19.40%,19.40%
+Calderdale,,,Old Town Primary School,107524,2019,0.794616,31.92,47.1,,1.31496033,,,,105,3.2,4.3,,,74%,4.23%,4.23%
+Calderdale,,,Old Town Primary School,107524,2015,0.794616,31.92,47.1,,1.31496033,,,,102,4,0,,,80%,0.00%,0.00%
+Calderdale,,,Old Town Primary School,107524,2018,0.794616,31.92,47.1,,1.31496033,,,,99,3.2,7.8,,,71%,-2.74%,-2.74%
+Calderdale,,,Old Town Primary School,107524,2013,0.794616,31.92,47.1,,1.31496033,,,,99,5.9,3.4,,,67%,-15.19%,-15.19%
+Calderdale,,,Old Town Primary School,107524,2016,0.794616,31.92,47.1,,1.31496033,,,,102,3.3,5.4,,,53%,-33.75%,-33.75%
+West Lindsey,,,Osgodby Primary School,120471,2018,40.56181,71.96,59.6,,3.555690322,,,,95,4,4.8,,,75.0%,59.57%,59.57%
+West Lindsey,,,Osgodby Primary School,120471,2014,40.56181,71.96,59.6,,3.555690322,,,,95,2.8,0,,,89.0%,27.14%,27.14%
+West Lindsey,,,Osgodby Primary School,120471,2015,40.56181,71.96,59.6,,3.555690322,,,,98,3.5,,,,100.0%,12.36%,12.36%
+West Lindsey,,,Osgodby Primary School,120471,2013,40.56181,71.96,59.6,,3.555690322,,,,91,4.7,,,,70.0%,11.11%,11.11%
+West Lindsey,,,Osgodby Primary School,120471,2017,40.56181,71.96,59.6,,3.555690322,,,,95,3.6,4.5,,,47.0%,-12.96%,-12.96%
+West Lindsey,,,Osgodby Primary School,120471,2019,40.56181,71.96,59.6,,3.555690322,,,,96,4.6,9.6,,,64.0%,-14.67%,-14.67%
+West Lindsey,,,Osgodby Primary School,120471,2024,40.56181,71.96,59.6,,3.555690322,4,0.35,,94,4.9,12.6,,,46.0%,-42.50%,-42.50%
+West Lindsey,,,Osgodby Primary School,120471,2016,40.56181,71.96,59.6,,3.555690322,,,,100,3.6,6.9,,,54.0%,-46.00%,-46.00%
+Calderdale,,,Parkinson Lane Community Primary School,107487,2017,1.595541,13.29,91.8,,1.463004675,,,,563,2.9,3.9,,,62%,63.16%,63.16%
+Calderdale,,,Parkinson Lane Community Primary School,107487,2014,1.595541,13.29,91.8,,1.463004675,,,,,,,,,82%,30.16%,30.16%
+Calderdale,,,Parkinson Lane Community Primary School,107487,2019,1.595541,13.29,91.8,,1.463004675,,,,608,3,4.5,,,71%,14.52%,14.52%
+Calderdale,,,Parkinson Lane Community Primary School,107487,2013,1.595541,13.29,91.8,,1.463004675,,,,529,2.6,1.6,,,63%,6.78%,6.78%
+Calderdale,,,Parkinson Lane Community Primary School,107487,2024,1.595541,13.29,91.8,,1.463004675,,,,563,5,10.9,,,75%,1.35%,1.35%
+Calderdale,,,Parkinson Lane Community Primary School,107487,2018,1.595541,13.29,91.8,,1.463004675,,,,599,3.2,3.3,,,62%,0.00%,0.00%
+Calderdale,,,Parkinson Lane Community Primary School,107487,2015,1.595541,13.29,91.8,,1.463004675,,,,520,2.1,0.8,,,81%,-1.22%,-1.22%
+Calderdale,,,Parkinson Lane Community Primary School,107487,2016,1.595541,13.29,91.8,,1.463004675,,,,522,2.4,2.3,,,38%,-53.09%,-53.09%
+West Lindsey,,,Pollyplatt Primary School,120472,2018,17.35336,58.58,38.1,,78.96518884,,,,134,3.1,4.3,,,82.0%,148.48%,148.48%
+West Lindsey,,,Pollyplatt Primary School,120472,2024,17.35336,58.58,38.1,,78.96518884,,,,81,3.9,12.7,,,83.0%,38.33%,38.33%
+West Lindsey,,,Pollyplatt Primary School,120472,2015,17.35336,58.58,38.1,,78.96518884,,,,159,3.8,2.8,,,93.0%,27.40%,27.40%
+West Lindsey,,,Pollyplatt Primary School,120472,2014,17.35336,58.58,38.1,,78.96518884,,,,151,3.7,0,,,73.0%,7.35%,7.35%
+West Lindsey,,,Pollyplatt Primary School,120472,2013,17.35336,58.58,38.1,,78.96518884,,,,140,4.3,2.6,,,68.0%,-17.07%,-17.07%
+West Lindsey,,,Pollyplatt Primary School,120472,2017,17.35336,58.58,38.1,,78.96518884,,,,147,3.2,7.2,,,33.0%,-21.43%,-21.43%
+West Lindsey,,,Pollyplatt Primary School,120472,2019,17.35336,58.58,38.1,,78.96518884,,,,133,3.5,7.2,,,40.0%,-51.22%,-51.22%
+West Lindsey,,,Pollyplatt Primary School,120472,2016,17.35336,58.58,38.1,,78.96518884,,,,147,3,4.4,,,42.0%,-54.84%,-54.84%
+Calderdale,,,Rawson Junior and Infant School,107477,2013,,,,,,,,,338,5.4,5.3,,,91%,18.18%,18.18%
+Calderdale,,,Rawson Junior and Infant School,107477,2015,,,,,,,,,384,4.7,3.1,,,67%,-8.22%,-8.22%
+Calderdale,,,Rawson Junior and Infant School,107477,2017,,,,,,,,,391,4.7,12.1,,,25%,-10.71%,-10.71%
+Calderdale,,,Rawson Junior and Infant School,107477,2014,,,,,,,,,374,4.2,1.4,,,73%,-19.78%,-19.78%
+Calderdale,,,Rawson Junior and Infant School,107477,2016,,,,,,,,,388,5.4,18.3,,,28%,-58.21%,-58.21%
+West Lindsey,,,Reepham Church of England Primary School,120581,2018,42.24991,26.98,61,,7.046215829,,,,196,3.5,3.6,,,81.0%,6.58%,6.58%
+West Lindsey,,,Reepham Church of England Primary School,120581,2013,42.24991,26.98,61,,7.046215829,,,,182,3.4,,,,96.0%,5.49%,5.49%
+West Lindsey,,,Reepham Church of England Primary School,120581,2015,42.24991,26.98,61,,7.046215829,,,,177,3,,,,96.0%,4.35%,4.35%
+West Lindsey,,,Reepham Church of England Primary School,120581,2019,42.24991,26.98,61,,7.046215829,,,,199,4,7.1,,,80.0%,-1.23%,-1.23%
+West Lindsey,,,Reepham Church of England Primary School,120581,2014,42.24991,26.98,61,,7.046215829,,,,179,2.6,,,,92.0%,-4.17%,-4.17%
+West Lindsey,,,Reepham Church of England Primary School,120581,2024,42.24991,26.98,61,,7.046215829,8,0,,204,4.1,6.2,,,77.0%,-6.10%,-6.10%
+West Lindsey,,,Reepham Church of England Primary School,120581,2016,42.24991,26.98,61,,7.046215829,,,,178,3.5,3.8,,,88.0%,-8.33%,-8.33%
+West Lindsey,,,Reepham Church of England Primary School,120581,2017,42.24991,26.98,61,,7.046215829,,,,191,3.9,5.5,,,76.0%,-13.64%,-13.64%
+Calderdale,,,Ripponden Junior and Infant School,107514,2017,2.843685,23.41,58.9,,3.581471854,,,,220,3,4.5,,,70%,27.27%,27.27%
+Calderdale,,,Ripponden Junior and Infant School,107514,2013,2.843685,23.41,58.9,,3.581471854,,,,,,,,,96%,24.68%,24.68%
+Calderdale,,,Ripponden Junior and Infant School,107514,2015,2.843685,23.41,58.9,,3.581471854,,,,236,2.8,0,,,90%,15.38%,15.38%
+Calderdale,,,Ripponden Junior and Infant School,107514,2024,2.843685,23.41,58.9,,3.581471854,,,,187,4,7.1,,,67%,13.56%,13.56%
+Calderdale,,,Ripponden Junior and Infant School,107514,2018,2.843685,23.41,58.9,,3.581471854,,,,222,3.8,6.7,,,73%,4.29%,4.29%
+Calderdale,,,Ripponden Junior and Infant School,107514,2019,2.843685,23.41,58.9,,3.581471854,,,,218,3.1,3.6,,,73%,0.00%,0.00%
+Calderdale,,,Ripponden Junior and Infant School,107514,2014,2.843685,23.41,58.9,,3.581471854,,,,,,,,,78%,-18.75%,-18.75%
+Calderdale,,,Ripponden Junior and Infant School,107514,2016,2.843685,23.41,58.9,,3.581471854,5,0,,231,3,3.8,,,55%,-38.89%,-38.89%
+Calderdale,,,Riverside Junior School,107529,2018,2.878932,7.73,80.7,,0.068470818,,,,179,4.9,11.2,,,77%,10.00%,10.00%
+Calderdale,,,Riverside Junior School,107529,2015,2.878932,7.73,80.7,,0.068470818,,,,,,,,,91%,5.81%,5.81%
+Calderdale,,,Riverside Junior School,107529,2014,2.878932,7.73,80.7,,0.068470818,,,,141,4.3,3.2,,,86%,0.00%,0.00%
+Calderdale,,,Riverside Junior School,107529,2017,2.878932,7.73,80.7,,0.068470818,,,,155,4.3,8.2,,,70%,0.00%,0.00%
+Calderdale,,,Riverside Junior School,107529,2013,2.878932,7.73,80.7,,0.068470818,,,,175,4.3,2.2,,,86%,-1.15%,-1.15%
+Calderdale,,,Riverside Junior School,107529,2019,2.878932,7.73,80.7,,0.068470818,,,,183,4.3,8.9,,,71%,-7.79%,-7.79%
+Calderdale,,,Riverside Junior School,107529,2024,2.878932,7.73,80.7,,0.068470818,,,,126,5.1,10.2,,,55%,-8.33%,-8.33%
+Calderdale,,,Riverside Junior School,107529,2016,2.878932,7.73,80.7,,0.068470818,5,16.21,,160,4,7.4,,,70%,-23.08%,-23.08%
+Calderdale,,,"Sacred Heart Catholic Primary School, Sowerby Bridge",107558,2013,2.020752,,,,0.856305621,,,,138,4.7,2.5,,,94%,10.59%,10.59%
+Calderdale,,,"Sacred Heart Catholic Primary School, Sowerby Bridge",107558,2014,2.020752,,,,0.856305621,,,,154,5,6.7,,,100%,6.38%,6.38%
+Calderdale,,,"Sacred Heart Catholic Primary School, Sowerby Bridge",107558,2015,2.020752,,,,0.856305621,,,,,,,,,74%,-26.00%,-26.00%
+Calderdale,,,Sacred Heart Catholic Voluntary Academy,141479,2017,2.020752,10.93,81.2,,0.856305621,,,,190,4.9,14.8,,,66%,112.90%,112.90%
+Calderdale,,,Sacred Heart Catholic Voluntary Academy,141479,2019,2.020752,10.93,81.2,,0.856305621,,,,176,4.5,12.3,,,70%,16.67%,16.67%
+Calderdale,,,Sacred Heart Catholic Voluntary Academy,141479,2024,2.020752,10.93,81.2,,0.856305621,,,,177,5.3,14,,,55%,-3.51%,-3.51%
+Calderdale,,,Sacred Heart Catholic Voluntary Academy,141479,2018,2.020752,10.93,81.2,,0.856305621,,,,176,3.3,3.5,,,60%,-9.09%,-9.09%
+Calderdale,,,Salterhebble Junior and Infant School,107490,2013,3.312693,28.05,75,,0.30593516,,,,195,4.2,3.6,,,95%,72.73%,72.73%
+Calderdale,,,Salterhebble Junior and Infant School,107490,2017,3.312693,28.05,75,,0.30593516,,,,204,3.7,6,,,83%,40.68%,40.68%
+Calderdale,,,Salterhebble Junior and Infant School,107490,2014,3.312693,28.05,75,,0.30593516,,,,,,,,,96%,1.05%,1.05%
+Calderdale,,,Salterhebble Junior and Infant School,107490,2018,3.312693,28.05,75,,0.30593516,,,,202,4,10.3,,,80%,-3.61%,-3.61%
+Calderdale,,,Salterhebble Junior and Infant School,107490,2019,3.312693,28.05,75,,0.30593516,,,,206,3.7,6.7,,,77%,-3.75%,-3.75%
+Calderdale,,,Salterhebble Junior and Infant School,107490,2015,3.312693,28.05,75,,0.30593516,,,,209,4.1,1.6,,,83%,-13.54%,-13.54%
+Calderdale,,,Salterhebble Junior and Infant School,107490,2016,3.312693,28.05,75,,0.30593516,,,,205,3.4,4.3,,,59%,-28.92%,-28.92%
+Calderdale,,,Salterhebble Junior and Infant School,107490,2024,3.312693,28.05,75,,0.30593516,,,,205,4.8,12.4,,,44%,-38.89%,-38.89%
+Calderdale,,,Salterlee Primary School,137347,2024,6.620531,16.01,66.9,,2.561640881,,,,92,6,21.3,,,75%,50.00%,50.00%
+Calderdale,,,Salterlee Primary School,137347,2018,6.620531,16.01,66.9,,2.561640881,,,,101,4.6,10.2,,,87%,26.09%,26.09%
+Calderdale,,,Salterlee Primary School,137347,2014,6.620531,16.01,66.9,,2.561640881,,,,106,3.1,0,,,93%,8.14%,8.14%
+Calderdale,,,Salterlee Primary School,137347,2017,6.620531,16.01,66.9,,2.561640881,,,,100,4.2,5.8,,,69%,2.99%,2.99%
+Calderdale,,,Salterlee Primary School,137347,2013,6.620531,16.01,66.9,,2.561640881,,,,,,,,,86%,-2.27%,-2.27%
+Calderdale,,,Salterlee Primary School,137347,2015,6.620531,16.01,66.9,,2.561640881,,,,106,4.8,3.3,,,80%,-13.98%,-13.98%
+Calderdale,,,Salterlee Primary School,137347,2016,6.620531,16.01,66.9,,2.561640881,,,,106,4.1,8.8,,,67%,-16.25%,-16.25%
+Calderdale,,,Salterlee Primary School,137347,2019,6.620531,16.01,66.9,,2.561640881,,,,99,3.8,8.2,,,55%,-36.78%,-36.78%
+Calderdale,,,Savile Park Primary School,107482,2017,1.956037,21.97,75.9,,2.074733232,,,,282,4.5,11.6,,,52%,36.84%,36.84%
+Calderdale,,,Savile Park Primary School,107482,2018,1.956037,21.97,75.9,,2.074733232,,,,306,4.2,8.7,,,64%,23.08%,23.08%
+Calderdale,,,Savile Park Primary School,107482,2015,1.956037,21.97,75.9,,2.074733232,,,,244,3.4,0,,,83%,12.16%,12.16%
+Calderdale,,,Savile Park Primary School,107482,2014,1.956037,21.97,75.9,,2.074733232,,,,209,3,0,,,74%,0.00%,0.00%
+Calderdale,,,Savile Park Primary School,107482,2019,1.956037,21.97,75.9,,2.074733232,,,,336,4.8,8.2,,,61%,-4.69%,-4.69%
+Calderdale,,,Savile Park Primary School,107482,2024,1.956037,21.97,75.9,,2.074733232,,,,369,6.6,18.3,,,49%,-5.77%,-5.77%
+Calderdale,,,Savile Park Primary School,107482,2013,1.956037,21.97,75.9,,2.074733232,,,,214,3.7,2.1,,,74%,-15.91%,-15.91%
+Calderdale,,,Savile Park Primary School,107482,2016,1.956037,21.97,75.9,,2.074733232,5,2.21,,254,4.2,6.3,,,38%,-54.22%,-54.22%
+West Lindsey,,,Scampton Church of England Primary School,120585,2019,34.1762,42.97,53.3,,2.898261145,,,,70,3.3,6.2,,,60.0%,93.55%,93.55%
+West Lindsey,,,Scampton Church of England Primary School,120585,2015,34.1762,42.97,53.3,,2.898261145,,,,88,3.1,0,,,91.0%,16.67%,16.67%
+West Lindsey,,,Scampton Church of England Primary School,120585,2013,34.1762,42.97,53.3,,2.898261145,,,,85,4.8,,,,90.0%,0.00%,0.00%
+West Lindsey,,,Scampton Church of England Primary School,120585,2017,34.1762,42.97,53.3,,2.898261145,,,,81,3.8,6.7,,,40.0%,-4.76%,-4.76%
+West Lindsey,,,Scampton Church of England Primary School,120585,2014,34.1762,42.97,53.3,,2.898261145,,,,84,3.4,0,,,78.0%,-13.33%,-13.33%
+West Lindsey,,,Scampton Church of England Primary School,120585,2024,34.1762,42.97,53.3,,2.898261145,8,0,,57,4.7,9.8,,,50.0%,-20.63%,-20.63%
+West Lindsey,,,Scampton Church of England Primary School,120585,2018,34.1762,42.97,53.3,,2.898261145,,,,76,4.2,11,,,31.0%,-22.50%,-22.50%
+West Lindsey,,,Scampton Church of England Primary School,120585,2016,34.1762,42.97,53.3,,2.898261145,,,,86,3,3.8,,,42.0%,-53.85%,-53.85%
+West Lindsey,,,Scotter Primary School,120473,2017,31.21753,54.67,67.1,,11.37096559,,,,237,2.5,2.3,,,65.0%,51.16%,51.16%
+West Lindsey,,,Scotter Primary School,120473,2024,31.21753,54.67,67.1,,11.37096559,9,0.42,,264,4.9,9,,,55.0%,37.50%,37.50%
+West Lindsey,,,Scotter Primary School,120473,2018,31.21753,54.67,67.1,,11.37096559,,,,257,3.3,3.6,,,76.0%,16.92%,16.92%
+West Lindsey,,,Scotter Primary School,120473,2014,31.21753,54.67,67.1,,11.37096559,2,0,,272,3.3,1.6,,,89.0%,9.88%,9.88%
+West Lindsey,,,Scotter Primary School,120473,2013,31.21753,54.67,67.1,,11.37096559,,,,268,4.4,2.9,,,81.0%,3.85%,3.85%
+West Lindsey,,,Scotter Primary School,120473,2019,31.21753,54.67,67.1,,11.37096559,,,,261,3.7,6,,,75.0%,-1.32%,-1.32%
+West Lindsey,,,Scotter Primary School,120473,2015,31.21753,54.67,67.1,,11.37096559,,,,252,3.5,,,,80.0%,-10.11%,-10.11%
+West Lindsey,,,Scotter Primary School,120473,2016,31.21753,54.67,67.1,,11.37096559,,,,239,3.5,6.6,,,43.0%,-46.25%,-46.25%
+Calderdale,,,Scout Road Academy,137341,2018,0.659176,37.11,59.8,,17.13449747,,,,101,3.8,3.2,,,76%,33.33%,33.33%
+Calderdale,,,Scout Road Academy,137341,2014,0.659176,37.11,59.8,,17.13449747,,,,108,2.9,0,,,100%,14.94%,14.94%
+Calderdale,,,Scout Road Academy,137341,2017,0.659176,37.11,59.8,,17.13449747,,,,102,3.4,3.3,,,57%,14.00%,14.00%
+Calderdale,,,Scout Road Academy,137341,2019,0.659176,37.11,59.8,,17.13449747,,,,94,3.5,5.7,,,78%,2.63%,2.63%
+Calderdale,,,Scout Road Academy,137341,2024,0.659176,37.11,59.8,,17.13449747,,,,99,4.3,9.2,,,77%,-9.41%,-9.41%
+Calderdale,,,Scout Road Academy,137341,2015,0.659176,37.11,59.8,,17.13449747,,,,109,3.6,0,,,80%,-20.00%,-20.00%
+Calderdale,,,Scout Road Academy,137341,2016,0.659176,37.11,59.8,,17.13449747,5,1.88,,108,4.1,9.6,,,50%,-37.50%,-37.50%
+Calderdale,,,Scout Road Primary School,137341,2013,0.659176,37.11,59.8,,17.13449747,,,,107,3.6,0,,,87%,10.13%,10.13%
+Calderdale,,,Shade Primary School,107522,2017,2.044098,19.3,54.5,,0,,,,227,4,9.5,,,70%,40.00%,40.00%
+Calderdale,,,Shade Primary School,107522,2019,2.044098,19.3,54.5,,0,,,,210,3.9,9.4,,,63%,26.00%,26.00%
+Calderdale,,,Shade Primary School,107522,2013,2.044098,19.3,54.5,,0,,,,203,4,1.9,,,93%,13.41%,13.41%
+Calderdale,,,Shade Primary School,107522,2015,2.044098,19.3,54.5,,0,,,,,,,,,87%,-2.25%,-2.25%
+Calderdale,,,Shade Primary School,107522,2014,2.044098,19.3,54.5,,0,,,,,,,,,89%,-4.30%,-4.30%
+Calderdale,,,Shade Primary School,107522,2024,2.044098,19.3,54.5,,0,,,,182,5.9,17.9,,,72%,-5.26%,-5.26%
+Calderdale,,,Shade Primary School,107522,2018,2.044098,19.3,54.5,,0,,,,219,3.9,9,,,50%,-28.57%,-28.57%
+Calderdale,,,Shade Primary School,107522,2016,2.044098,19.3,54.5,,0,5,13.78,,224,3.6,7.1,,,50%,-42.53%,-42.53%
+Calderdale,,,Shelf Junior and Infant School,107513,2015,0.584129,20.14,63.9,,2.798565575,,,,308,3.7,1.5,,,73%,19.67%,19.67%
+Calderdale,,,Shelf Junior and Infant School,107513,2019,0.584129,20.14,63.9,,2.798565575,,,,284,3.7,6,,,56%,19.15%,19.15%
+Calderdale,,,Shelf Junior and Infant School,107513,2013,0.584129,20.14,63.9,,2.798565575,,,,291,5.4,2.4,,,78%,4.00%,4.00%
+Calderdale,,,Shelf Junior and Infant School,107513,2018,0.584129,20.14,63.9,,2.798565575,,,,298,3.6,5.1,,,47%,0.00%,0.00%
+Calderdale,,,Shelf Junior and Infant School,107513,2017,0.584129,20.14,63.9,,2.798565575,,,,313,3.4,5.2,,,47%,-12.96%,-12.96%
+Calderdale,,,Shelf Junior and Infant School,107513,2024,0.584129,20.14,63.9,,2.798565575,,,,235,5.6,16.6,,,45%,-15.09%,-15.09%
+Calderdale,,,Shelf Junior and Infant School,107513,2014,0.584129,20.14,63.9,,2.798565575,,,,,,,,,61%,-21.79%,-21.79%
+Calderdale,,,Shelf Junior and Infant School,107513,2016,0.584129,20.14,63.9,,2.798565575,,,,311,3.3,4.1,,,54%,-26.03%,-26.03%
+Calderdale,,,Siddal Primary School,138657,2018,2.227218,12.38,73.2,,1.30189896,,,,235,4,9.3,,,50%,38.89%,38.89%
+Calderdale,,,Siddal Primary School,138657,2017,2.227218,12.38,73.2,,1.30189896,,,,254,4.6,12.2,,,36%,24.14%,24.14%
+Calderdale,,,Siddal Primary School,138657,2019,2.227218,12.38,73.2,,1.30189896,,,,210,2.9,3.9,,,62%,24.00%,24.00%
+Calderdale,,,Siddal Primary School,138657,2014,2.227218,12.38,73.2,,1.30189896,,,,,,,,,87%,14.47%,14.47%
+Calderdale,,,Siddal Primary School,138657,2015,2.227218,12.38,73.2,,1.30189896,,,,256,4,3.3,,,79%,-9.20%,-9.20%
+Calderdale,,,Siddal Primary School,138657,2024,2.227218,12.38,73.2,,1.30189896,,,,195,6.3,18.8,,,36%,-34.55%,-34.55%
+Calderdale,,,Siddal Primary School,138657,2016,2.227218,12.38,73.2,,1.30189896,5,0,,265,3.8,9,,,29%,-63.29%,-63.29%
+Calderdale,,,Sowerby Village CofE VC Primary School,133671,2017,,,,,,,,,171,5.3,13.7,,,76%,117.14%,117.14%
+Calderdale,,,Sowerby Village CofE VC Primary School,133671,2013,,,,,,,,,166,5.7,4.4,,,67%,28.85%,28.85%
+Calderdale,,,Sowerby Village CofE VC Primary School,133671,2014,,,,,,,,,171,4.3,0,,,77%,14.93%,14.93%
+Calderdale,,,Sowerby Village CofE VC Primary School,133671,2015,,,,,,,,,160,5.7,5.9,,,81%,5.19%,5.19%
+Calderdale,,,Sowerby Village CofE VC Primary School,133671,2019,,,,,,,,,171,4.2,9.5,,,48%,-15.79%,-15.79%
+Calderdale,,,Sowerby Village CofE VC Primary School,133671,2018,,,,,,,,,179,4,7.3,,,57%,-25.00%,-25.00%
+Calderdale,,,Sowerby Village CofE VC Primary School,133671,2016,,,,,,,,,165,4.5,14.6,,,35%,-56.79%,-56.79%
+Calderdale,,,St Andrew's CofE (VA) Junior School,107547,2017,0.835758,18.83,64.1,,0.520760081,,,,240,3.8,6.5,,,52%,52.94%,52.94%
+Calderdale,,,St Andrew's CofE (VA) Junior School,107547,2018,0.835758,18.83,64.1,,0.520760081,,,,237,3.5,7,,,75%,44.23%,44.23%
+Calderdale,,,St Andrew's CofE (VA) Junior School,107547,2015,0.835758,18.83,64.1,,0.520760081,,,,223,3.5,1.8,,,90%,23.29%,23.29%
+Calderdale,,,St Andrew's CofE (VA) Junior School,107547,2014,0.835758,18.83,64.1,,0.520760081,,,,230,3.3,1.7,,,73%,4.29%,4.29%
+Calderdale,,,St Andrew's CofE (VA) Junior School,107547,2024,0.835758,18.83,64.1,,0.520760081,,,,226,4.7,9.2,,,76%,-5.00%,-5.00%
+Calderdale,,,St Andrew's CofE (VA) Junior School,107547,2019,0.835758,18.83,64.1,,0.520760081,,,,234,3.4,6.7,,,67%,-10.67%,-10.67%
+Calderdale,,,St Andrew's CofE (VA) Junior School,107547,2013,0.835758,18.83,64.1,,0.520760081,,,,233,4.1,3.4,,,70%,-14.63%,-14.63%
+Calderdale,,,St Andrew's CofE (VA) Junior School,107547,2016,0.835758,18.83,64.1,,0.520760081,5,14.24,,235,3.4,5.9,,,34%,-62.22%,-62.22%
+Calderdale,,,St Augustine's CofE School,149211,2024,1.453021,,,,1.37966414,,,,163,10.3,39.9,,,26%,-27.78%,-27.78%
+Calderdale,,,St Augustine's CofE VA Junior and Infant School,107543,2019,1.453020584,9.49,97.5,,1.37966414,,,,166,5.4,12.1,,,31%,19.23%,19.23%
+Calderdale,,,St Augustine's CofE VA Junior and Infant School,107543,2015,1.453020584,9.49,97.5,,1.37966414,,,,194,4.3,2.3,,,68%,15.25%,15.25%
+Calderdale,,,St Augustine's CofE VA Junior and Infant School,107543,2018,1.453020584,9.49,97.5,,1.37966414,,,,167,4.5,7.6,,,26%,4.00%,4.00%
+Calderdale,,,St Augustine's CofE VA Junior and Infant School,107543,2014,1.453020584,9.49,97.5,,1.37966414,,,,,,,,,59%,3.51%,3.51%
+Calderdale,,,St Augustine's CofE VA Junior and Infant School,107543,2013,1.453020584,9.49,97.5,,1.37966414,,,,171,5.5,4.5,,,57%,-12.31%,-12.31%
+Calderdale,,,St Augustine's CofE VA Junior and Infant School,107543,2017,1.453020584,9.49,97.5,,1.37966414,,,,179,4.9,16.8,,,25%,-13.79%,-13.79%
+Calderdale,,,St Augustine's CofE VA Junior and Infant School,107543,2016,1.453020584,9.49,97.5,,1.37966414,,,,182,3.9,6.7,,,29%,-57.35%,-57.35%
+Calderdale,,,St Chad's CofE (VA) Primary School,107549,2018,,13.73,60.5,,,,,,210,3,2.8,,,73%,97.30%,97.30%
+Calderdale,,,St Chad's CofE (VA) Primary School,107549,2019,,13.73,60.5,,,,,,210,3,8.2,,,77%,5.48%,5.48%
+Calderdale,,,St Chad's CofE (VA) Primary School,107549,2013,,13.73,60.5,,,,,,212,2.7,0,,,90%,2.27%,2.27%
+Calderdale,,,St Chad's CofE (VA) Primary School,107549,2015,,13.73,60.5,,,,,,,,,,,87%,0.00%,0.00%
+Calderdale,,,St Chad's CofE (VA) Primary School,107549,2014,,13.73,60.5,,,,,,217,2.3,0,,,87%,-3.33%,-3.33%
+Calderdale,,,St Chad's CofE (VA) Primary School,107549,2017,,13.73,60.5,,,,,,210,2.9,2.2,,,37%,-17.78%,-17.78%
+Calderdale,,,St Chad's CofE (VA) Primary School,107549,2016,,13.73,60.5,,,,,,212,2.5,4.3,,,45%,-48.28%,-48.28%
+West Lindsey,,,"St George's Church of England Community Primary School, Gainsborough",131490,2018,49.43084,18.73,75.3,,5.571996671,,,,233,5.7,12.2,,,72.0%,118.18%,118.18%
+West Lindsey,,,"St George's Church of England Community Primary School, Gainsborough",131490,2015,49.43084,18.73,75.3,,5.571996671,,,,169,5.4,3.5,,,79.0%,75.56%,75.56%
+West Lindsey,,,"St George's Church of England Community Primary School, Gainsborough",131490,2024,49.43084,18.73,75.3,,5.571996671,,,,185,7.3,21.5,,,61.0%,69.44%,69.44%
+West Lindsey,,,"St George's Church of England Community Primary School, Gainsborough",131490,2016,49.43084,18.73,75.3,,5.571996671,,,,186,4.9,18.5,,,61.0%,-22.78%,-22.78%
+West Lindsey,,,"St George's Church of England Community Primary School, Gainsborough",131490,2013,49.43084,18.73,75.3,,5.571996671,,,,168,5.1,3.8,,,61.0%,-23.75%,-23.75%
+West Lindsey,,,"St George's Church of England Community Primary School, Gainsborough",131490,2014,49.43084,18.73,75.3,,5.571996671,,,,169,6.3,8.5,,,45.0%,-26.23%,-26.23%
+West Lindsey,,,"St George's Church of England Community Primary School, Gainsborough",131490,2019,49.43084,18.73,75.3,,5.571996671,,,,207,5,16.8,,,52.0%,-27.78%,-27.78%
+West Lindsey,,,"St George's Church of England Community Primary School, Gainsborough",131490,2017,49.43084,18.73,75.3,,5.571996671,,,,214,5.5,14.2,,,33.0%,-45.90%,-45.90%
+Calderdale,,,"St John's (CofE) Primary Academy, Clifton",137545,2014,1.71587,,,,16.22236834,,,,211,2,0,,,97%,19.75%,19.75%
+Calderdale,,,"St John's (CofE) Primary Academy, Clifton",137545,2017,1.71587,,,,16.22236834,,,,208,2.8,3.3,,,72%,14.29%,14.29%
+Calderdale,,,"St John's (CofE) Primary Academy, Clifton",137545,2019,1.71587,,,,16.22236834,,,,210,2.6,2.2,,,79%,8.22%,8.22%
+Calderdale,,,"St John's (CofE) Primary Academy, Clifton",137545,2018,1.71587,,,,16.22236834,,,,,,,,,73%,1.39%,1.39%
+Calderdale,,,"St John's (CofE) Primary Academy, Clifton",137545,2016,1.71587,,,,16.22236834,,,,,,,,,63%,-18.18%,-18.18%
+Calderdale,,,"St John's (CofE) Primary Academy, Clifton",137545,2015,1.71587,,,,16.22236834,,,,,,,,,77%,-20.62%,-20.62%
+Calderdale,,,"St John's (CofE) Primary Academy, Clifton",137545,2024,1.71587,,,,16.22236834,,,,206,3.9,6.2,,,55%,-30.38%,-30.38%
+Calderdale,,,"St John's CofE VA Primary School, Rishworth",107553,2013,1.025977,,,,13.00808301,,,,,,,,,93%,12.05%,12.05%
+Calderdale,,,St John's Primary School In Rishworth,139040,2017,1.025977,,,,13.00808301,,,,138,3.1,4.2,,,95%,35.71%,35.71%
+Calderdale,,,St John's Primary School In Rishworth,139040,2015,1.025977,,,,13.00808301,,,,,,,,,100%,11.11%,11.11%
+Calderdale,,,St John's Primary School In Rishworth,139040,2019,1.025977,,,,13.00808301,,,,139,2.8,3.3,,,89%,5.95%,5.95%
+Calderdale,,,St John's Primary School In Rishworth,139040,2018,1.025977,,,,13.00808301,,,,139,3.1,4.2,,,84%,-11.58%,-11.58%
+Calderdale,,,St John's Primary School In Rishworth,139040,2024,1.025977,,,,13.00808301,,,,147,3.1,3,,,76%,-11.63%,-11.63%
+Calderdale,,,St John's Primary School In Rishworth,139040,2016,1.025977,,,,13.00808301,,,,,,,,,70%,-30.00%,-30.00%
+Calderdale,,,St Joseph's Catholic Primary Academy,148479,2024,0.980124,,,,,,,,152,6.6,17.9,,,68%,65.85%,65.85%
+Calderdale,,,St Joseph's Catholic Primary Academy,148480,2024,0.980124,,,,0,,,,217,4.7,12.5,,,58%,-6.45%,-6.45%
+Calderdale,,,St Joseph's Catholic Primary School,107544,2015,0.980124,6.79,72.6,,,,,,,,,,,88%,252.00%,252.00%
+Calderdale,,,St Joseph's Catholic Primary School,107544,2019,0.980124,6.79,72.6,,,,,,197,3.1,3.4,,,57%,9.62%,9.62%
+Calderdale,,,St Joseph's Catholic Primary School,107544,2017,0.980124,6.79,72.6,,,,,,187,3.6,7.7,,,59%,0.00%,0.00%
+Calderdale,,,St Joseph's Catholic Primary School,107544,2013,0.980124,6.79,72.6,,,,,,210,7,11,,,87%,-9.38%,-9.38%
+Calderdale,,,St Joseph's Catholic Primary School,107544,2018,0.980124,6.79,72.6,,,,,,189,3.5,7.3,,,52%,-11.86%,-11.86%
+Calderdale,,,St Joseph's Catholic Primary School,107544,2016,0.980124,6.79,72.6,,,,,,189,3.6,8.3,,,59%,-32.95%,-32.95%
+Calderdale,,,St Joseph's Catholic Primary School,107544,2014,0.980124,6.79,72.6,,,,,,,,,,,25%,-71.26%,-71.26%
+Calderdale,,,"St Joseph's Catholic Primary School, Brighouse",107559,2019,0.995972,26.71,74.8,,,,,,240,3.1,4.5,,,76%,33.33%,33.33%
+Calderdale,,,"St Joseph's Catholic Primary School, Brighouse",107559,2017,0.995972,26.71,74.8,,,,,,227,3.1,2.8,,,80%,26.98%,26.98%
+Calderdale,,,"St Joseph's Catholic Primary School, Brighouse",107559,2015,0.995972,26.71,74.8,,,,,,,,,,,90%,15.38%,15.38%
+Calderdale,,,"St Joseph's Catholic Primary School, Brighouse",107559,2013,0.995972,26.71,74.8,,,,,,236,4.1,3.4,,,90%,9.76%,9.76%
+Calderdale,,,"St Joseph's Catholic Primary School, Brighouse",107559,2014,0.995972,26.71,74.8,,,,,,243,3.1,0,,,78%,-13.33%,-13.33%
+Calderdale,,,"St Joseph's Catholic Primary School, Brighouse",107559,2018,0.995972,26.71,74.8,,,,,,235,3.2,4,,,57%,-28.75%,-28.75%
+Calderdale,,,"St Joseph's Catholic Primary School, Brighouse",107559,2016,0.995972,26.71,74.8,,,5,0.98,,243,3,5,,,63%,-30.00%,-30.00%
+Calderdale,,,"St Joseph's RC Primary School, Todmorden",107560,2019,1.663358,12.06,87.3,,,,,,120,3.8,5.5,,,93%,66.07%,66.07%
+Calderdale,,,"St Joseph's RC Primary School, Todmorden",107560,2017,1.663358,12.06,87.3,,,,,,138,5,9.8,,,50%,38.89%,38.89%
+Calderdale,,,"St Joseph's RC Primary School, Todmorden",107560,2013,1.663358,12.06,87.3,,,,,,114,6.7,11.2,,,60%,20.00%,20.00%
+Calderdale,,,"St Joseph's RC Primary School, Todmorden",107560,2018,1.663358,12.06,87.3,,,,,,147,4.5,10.6,,,56%,12.00%,12.00%
+Calderdale,,,"St Joseph's RC Primary School, Todmorden",107560,2016,1.663358,12.06,87.3,,,5,37.9,,125,6.3,18.1,,,36%,-40.00%,-40.00%
+Calderdale,,,St Joseph's Roman Catholic Voluntary Academy,147583,2024,1.663358,,,,0,,,,111,5,10.6,,,73%,-9.88%,-9.88%
+Calderdale,,,St Malachy's Catholic Primary School,107545,2013,1.392682,,,,19.79533336,,,,185,6.1,4.8,,,70%,27.27%,27.27%
+Calderdale,,,St Malachy's Catholic Primary School,107545,2014,1.392682,,,,19.79533336,,,,208,5.2,2.5,,,80%,14.29%,14.29%
+Calderdale,,,St Malachy's Catholic Primary School,107545,2015,1.392682,,,,19.79533336,,,,,,,,,65%,-18.75%,-18.75%
+Calderdale,,,"St Malachy's Catholic Primary School, A Voluntary Academy",141480,2017,1.392682,8.19,90.6,,19.79533336,,,,200,5,12.2,,,76%,145.16%,145.16%
+Calderdale,,,"St Malachy's Catholic Primary School, A Voluntary Academy",141480,2019,1.392682,8.19,90.6,,19.79533336,,,,198,6.3,21.2,,,45%,21.62%,21.62%
+Calderdale,,,"St Malachy's Catholic Primary School, A Voluntary Academy",141480,2024,1.392682,8.19,90.6,,19.79533336,,,,171,8.9,27.5,,,14%,-30.00%,-30.00%
+Calderdale,,,"St Malachy's Catholic Primary School, A Voluntary Academy",141480,2018,1.392682,8.19,90.6,,19.79533336,,,,202,5.8,19.2,,,37%,-51.32%,-51.32%
+Calderdale,,,St Mary's Catholic Primary Academy,148657,2024,3.057891,,,,2.506275819,,,,302,6,17.4,,,60%,3.45%,3.45%
+Calderdale,,,St Mary's Catholic Primary School,107546,2017,3.057891,11.39,83.4,,2.506275819,,,,292,3.8,6.5,,,77%,16.67%,16.67%
+Calderdale,,,St Mary's Catholic Primary School,107546,2019,3.057891,11.39,83.4,,2.506275819,,,,291,3.4,5.5,,,72%,10.77%,10.77%
+Calderdale,,,St Mary's Catholic Primary School,107546,2014,3.057891,11.39,83.4,,2.506275819,,,,285,3.1,1.2,,,85%,10.39%,10.39%
+Calderdale,,,St Mary's Catholic Primary School,107546,2013,3.057891,11.39,83.4,,2.506275819,,,,283,4.5,3.2,,,77%,1.32%,1.32%
+Calderdale,,,St Mary's Catholic Primary School,107546,2015,3.057891,11.39,83.4,,2.506275819,,,,280,4.3,2.8,,,77%,-9.41%,-9.41%
+Calderdale,,,St Mary's Catholic Primary School,107546,2016,3.057891,11.39,83.4,,2.506275819,,,,280,3.6,5.3,,,66%,-14.29%,-14.29%
+Calderdale,,,St Mary's Catholic Primary School,107546,2018,3.057891,11.39,83.4,,2.506275819,,,,283,4.4,7,,,65%,-15.58%,-15.58%
+Calderdale,,,St Mary's CofE (VC) J and I School,107538,2024,5.877059,37.93,64.5,,3.432487407,,,,81,3.3,6.2,,,92%,64.29%,64.29%
+Calderdale,,,St Mary's CofE (VC) J and I School,107538,2019,5.877059,37.93,64.5,,3.432487407,,,,,,,,,82%,22.39%,22.39%
+Calderdale,,,St Mary's CofE (VC) J and I School,107538,2015,5.877059,37.93,64.5,,3.432487407,,,,94,2.2,0,,,100%,8.70%,8.70%
+Calderdale,,,St Mary's CofE (VC) J and I School,107538,2018,5.877059,37.93,64.5,,3.432487407,,,,103,2.8,3.3,,,67%,0.00%,0.00%
+Calderdale,,,St Mary's CofE (VC) J and I School,107538,2017,5.877059,37.93,64.5,,3.432487407,,,,,,,,,67%,-11.84%,-11.84%
+Calderdale,,,St Mary's CofE (VC) J and I School,107538,2016,5.877059,37.93,64.5,,3.432487407,5,0,,102,2,0,,,76%,-24.00%,-24.00%
+Calderdale,,,St Michael and All Angels CofE Primary & Pre School,107570,2019,0.706773,,,,17.79129781,,,,206,2.9,1.7,,,69%,43.75%,43.75%
+Calderdale,,,St Michael and All Angels CofE Primary & Pre School,107570,2017,0.706773,,,,17.79129781,,,,201,3.2,2.8,,,65%,20.37%,20.37%
+Calderdale,,,St Michael and All Angels CofE Primary & Pre School,107570,2024,0.706773,,,,17.79129781,,,,180,5.8,17.3,,,35%,16.67%,16.67%
+Calderdale,,,St Michael and All Angels CofE Primary & Pre School,107570,2018,0.706773,,,,17.79129781,,,,207,3.5,2.8,,,48%,-26.15%,-26.15%
+Calderdale,,,St Michael and All Angels CofE Primary & Pre School,107570,2016,0.706773,,,,17.79129781,,,,200,2.5,2.3,,,54%,-40.00%,-40.00%
+Calderdale,,,St Michael and All Angels CofE Primary School,107570,2015,0.706773,,,,17.79129781,,,,208,2.6,0,,,90%,47.54%,47.54%
+Calderdale,,,St Michael and All Angels CofE Primary School,107570,2014,0.706773,,,,17.79129781,,,,,,,,,61%,-14.08%,-14.08%
+Calderdale,,,St Michael and All Angels CofE Primary School,107570,2013,0.706773,,,,17.79129781,,,,205,5,3.3,,,71%,-14.46%,-14.46%
+Calderdale,,,St Patrick's Catholic Primary Academy,148658,2024,3.755222,,,,0.011119779,,,,103,4.9,8.5,,,0%,-100.00%,-100.00%
+Calderdale,,,St Patrick's Catholic Primary School,107557,2019,3.755222,8.62,90.4,,0.011119779,,,,132,3.7,5,,,59%,55.26%,55.26%
+Calderdale,,,St Patrick's Catholic Primary School,107557,2015,3.755222,8.62,90.4,,0.011119779,,,,,,,,,89%,28.99%,28.99%
+Calderdale,,,St Patrick's Catholic Primary School,107557,2014,3.755222,8.62,90.4,,0.011119779,,,,113,4.7,4,,,69%,2.99%,2.99%
+Calderdale,,,St Patrick's Catholic Primary School,107557,2018,3.755222,8.62,90.4,,0.011119779,,,,137,4.7,7.8,,,38%,-2.56%,-2.56%
+Calderdale,,,St Patrick's Catholic Primary School,107557,2013,3.755222,8.62,90.4,,0.011119779,,,,101,4.2,3.4,,,67%,-10.67%,-10.67%
+Calderdale,,,St Patrick's Catholic Primary School,107557,2017,3.755222,8.62,90.4,,0.011119779,,,,133,4.3,7.5,,,39%,-17.02%,-17.02%
+Calderdale,,,St Patrick's Catholic Primary School,107557,2016,3.755222,8.62,90.4,,0.011119779,,,,122,3.7,5.8,,,47%,-47.19%,-47.19%
+West Lindsey,,,Sturton by Stow Primary School,120478,2017,45.12019,85.45,58.2,,3.248854858,,,,165,4,4.3,,,57.0%,35.71%,35.71%
+West Lindsey,,,Sturton by Stow Primary School,120478,2014,45.12019,85.45,58.2,,3.248854858,,,,131,2.9,,,,84.0%,12.00%,12.00%
+West Lindsey,,,Sturton by Stow Primary School,120478,2013,45.12019,85.45,58.2,,3.248854858,,,,116,4,,,,75.0%,7.14%,7.14%
+West Lindsey,,,Sturton by Stow Primary School,120478,2019,45.12019,85.45,58.2,,3.248854858,,,,160,4.5,10.6,,,50.0%,4.17%,4.17%
+West Lindsey,,,Sturton by Stow Primary School,120478,2015,45.12019,85.45,58.2,,3.248854858,,,,143,3.1,,,,81.0%,-3.57%,-3.57%
+West Lindsey,,,Sturton by Stow Primary School,120478,2024,45.12019,85.45,58.2,,3.248854858,8,0.42,,171,4.5,6.5,,,39.0%,-15.22%,-15.22%
+West Lindsey,,,Sturton by Stow Primary School,120478,2018,45.12019,85.45,58.2,,3.248854858,,,,153,4,5.8,,,48.0%,-15.79%,-15.79%
+West Lindsey,,,Sturton by Stow Primary School,120478,2016,45.12019,85.45,58.2,,3.248854858,,,,150,3.1,3,,,42.0%,-48.15%,-48.15%
+West Lindsey,,,Tealby School,120480,2017,38.97615,128.66,59.8,,16.13286671,,,,93,3.8,6.7,,,82.0%,64.00%,64.00%
+West Lindsey,,,Tealby School,120480,2024,38.97615,128.66,59.8,,16.13286671,,,,84,8.8,29.5,,,50.0%,38.89%,38.89%
+West Lindsey,,,Tealby School,120480,2018,38.97615,128.66,59.8,,16.13286671,,,,91,4.7,10.7,,,92.0%,12.20%,12.20%
+West Lindsey,,,Tealby School,120480,2015,38.97615,128.66,59.8,,16.13286671,,,,83,4,,,,83.0%,-9.78%,-9.78%
+West Lindsey,,,Tealby School,120480,2019,38.97615,128.66,59.8,,16.13286671,,,,86,2.9,,,,83.0%,-9.78%,-9.78%
+West Lindsey,,,Tealby School,120480,2016,38.97615,128.66,59.8,,16.13286671,,,,90,3.7,6.1,,,50.0%,-39.76%,-39.76%
+West Lindsey,,,Tealby School,120480,2013,38.97615,128.66,59.8,,16.13286671,,,,70,4.4,,,,,-100.00%,-100.00%
+West Lindsey,,,The Bardney Church of England and Methodist Primary School,120589,2017,20.67967,73.28,56.1,,26.95199682,,,,185,3.6,6.4,,,71.0%,86.84%,86.84%
+West Lindsey,,,The Bardney Church of England and Methodist Primary School,120589,2019,20.67967,73.28,56.1,,26.95199682,,,,189,3.9,7,,,74.0%,7.25%,7.25%
+West Lindsey,,,The Bardney Church of England and Methodist Primary School,120589,2014,20.67967,73.28,56.1,,26.95199682,,,,123,3.6,0,,,88.0%,6.02%,6.02%
+West Lindsey,,,The Bardney Church of England and Methodist Primary School,120589,2018,20.67967,73.28,56.1,,26.95199682,,,,186,4.2,8.8,,,69.0%,-2.82%,-2.82%
+West Lindsey,,,The Bardney Church of England and Methodist Primary School,120589,2024,20.67967,73.28,56.1,,26.95199682,8,2.46,,188,7.7,18.3,,,68.0%,-8.11%,-8.11%
+West Lindsey,,,The Bardney Church of England and Methodist Primary School,120589,2013,20.67967,73.28,56.1,,26.95199682,,,,114,4.2,,,,83.0%,-9.78%,-9.78%
+West Lindsey,,,The Bardney Church of England and Methodist Primary School,120589,2015,20.67967,73.28,56.1,,26.95199682,,,,141,3.8,2.5,,,78.0%,-11.36%,-11.36%
+West Lindsey,,,The Bardney Church of England and Methodist Primary School,120589,2016,20.67967,73.28,56.1,,26.95199682,,,,154,3.9,8,,,38.0%,-51.28%,-51.28%
+Calderdale,,,The Calder Learning Trust,107562,2024,,,,,,,,,1326,9.4,29.3,,,57%,-8.06%,-8.06%
+West Lindsey,,,The Gainsborough Charles Baines Community Primary School,120492,2017,9.203476,21.07,53.3,,6.492418543,,,,209,4.5,11.4,,,41.0%,51.85%,51.85%
+West Lindsey,,,The Gainsborough Charles Baines Community Primary School,120492,2018,9.203476,21.07,53.3,,6.492418543,,,,202,5.4,17.2,,,60.0%,46.34%,46.34%
+West Lindsey,,,The Gainsborough Charles Baines Community Primary School,120492,2024,9.203476,21.07,53.3,,6.492418543,,,,205,5.8,15.7,,,41.0%,0.00%,0.00%
+West Lindsey,,,The Gainsborough Charles Baines Community Primary School,120492,2013,9.203476,21.07,53.3,,6.492418543,,,,193,5,2.9,,,78.0%,-2.50%,-2.50%
+West Lindsey,,,The Gainsborough Charles Baines Community Primary School,120492,2015,9.203476,21.07,53.3,,6.492418543,,,,208,4.2,1.6,,,72.0%,-2.70%,-2.70%
+West Lindsey,,,The Gainsborough Charles Baines Community Primary School,120492,2014,9.203476,21.07,53.3,,6.492418543,,,,200,4.5,0,,,74.0%,-5.13%,-5.13%
+West Lindsey,,,The Gainsborough Charles Baines Community Primary School,120492,2019,9.203476,21.07,53.3,,6.492418543,,,,204,4.2,10.2,,,36.0%,-40.00%,-40.00%
+West Lindsey,,,The Gainsborough Charles Baines Community Primary School,120492,2016,9.203476,21.07,53.3,,6.492418543,,,,211,3.9,6.5,,,27.0%,-62.50%,-62.50%
+West Lindsey,,,The Gainsborough Parish Church Primary School,138640,2017,0.976087,20.82,83.9,,0,,,,310,3.9,9.9,,,70.0%,22.81%,22.81%
+West Lindsey,,,The Gainsborough Parish Church Primary School,138640,2014,0.976087,20.82,83.9,,0,,,,303,4,,,,85.0%,21.43%,21.43%
+West Lindsey,,,The Gainsborough Parish Church Primary School,138640,2024,0.976087,20.82,83.9,,0,9,0,,294,7.3,20.8,,,45.0%,4.65%,4.65%
+West Lindsey,,,The Gainsborough Parish Church Primary School,138640,2013,0.976087,20.82,83.9,,0,,,,314,6.3,7.7,,,70.0%,-10.26%,-10.26%
+West Lindsey,,,The Gainsborough Parish Church Primary School,138640,2015,0.976087,20.82,83.9,,0,,,,305,4.2,1.5,,,74.0%,-12.94%,-12.94%
+West Lindsey,,,The Gainsborough Parish Church Primary School,138640,2019,0.976087,20.82,83.9,,0,,,,308,4.7,8.5,,,44.0%,-20.00%,-20.00%
+West Lindsey,,,The Gainsborough Parish Church Primary School,138640,2018,0.976087,20.82,83.9,,0,,,,307,3.4,6.4,,,55.0%,-21.43%,-21.43%
+West Lindsey,,,The Gainsborough Parish Church Primary School,138640,2016,0.976087,20.82,83.9,,0,,,,312,3.3,4.7,,,57.0%,-22.97%,-22.97%
+West Lindsey,,,The Grasby All Saints Church of England Primary School,120571,2013,1.29802,51.1,56.7,,0.42740846,,,,90,4.3,,,,100.0%,36.99%,36.99%
+West Lindsey,,,The Grasby All Saints Church of England Primary School,120571,2017,1.29802,51.1,56.7,,0.42740846,,,,79,5.2,9,,,100.0%,8.70%,8.70%
+West Lindsey,,,The Grasby All Saints Church of England Primary School,120571,2019,1.29802,51.1,56.7,,0.42740846,,,,84,2.7,,,,57.0%,7.55%,7.55%
+West Lindsey,,,The Grasby All Saints Church of England Primary School,120571,2014,1.29802,51.1,56.7,,0.42740846,,,,78,2.4,0,,,100.0%,0.00%,0.00%
+West Lindsey,,,The Grasby All Saints Church of England Primary School,120571,2016,1.29802,51.1,56.7,,0.42740846,,,,79,3.9,6.8,,,92.0%,0.00%,0.00%
+West Lindsey,,,The Grasby All Saints Church of England Primary School,120571,2015,1.29802,51.1,56.7,,0.42740846,,,,75,2.1,0,,,92.0%,-8.00%,-8.00%
+West Lindsey,,,The Grasby All Saints Church of England Primary School,120571,2024,1.29802,51.1,56.7,,0.42740846,,,,80,3.6,1.4,,,73.0%,-17.05%,-17.05%
+West Lindsey,,,The Grasby All Saints Church of England Primary School,120571,2018,1.29802,51.1,56.7,,0.42740846,,,,101,3.4,3.8,,,53.0%,-47.00%,-47.00%
+Calderdale,,,The Greetland Academy,136375,2019,0.654854,22.09,68.5,,0,,,,418,2.6,1.6,,,90%,28.57%,28.57%
+Calderdale,,,The Greetland Academy,136375,2017,0.654854,22.09,68.5,,0,,,,417,2.7,3.6,,,97%,24.36%,24.36%
+Calderdale,,,The Greetland Academy,136375,2015,0.654854,22.09,68.5,,0,,,,,,,,,100%,2.04%,2.04%
+Calderdale,,,The Greetland Academy,136375,2014,0.654854,22.09,68.5,,0,,,,420,2.7,0.8,,,98%,0.00%,0.00%
+Calderdale,,,The Greetland Academy,136375,2013,0.654854,22.09,68.5,,0,,,,,,,,,98%,-2.00%,-2.00%
+Calderdale,,,The Greetland Academy,136375,2024,0.654854,22.09,68.5,,0,,,,401,4.2,8.4,,,83%,-4.60%,-4.60%
+Calderdale,,,The Greetland Academy,136375,2016,0.654854,22.09,68.5,,0,5,0,,417,2.5,0.8,,,78%,-22.00%,-22.00%
+Calderdale,,,The Greetland Academy,136375,2018,0.654854,22.09,68.5,,,,,,420,2.8,2.7,,,70%,-27.84%,-27.84%
+West Lindsey,,,The Hackthorn Church of England Primary School,120572,2018,1.244574,35.03,70.7,,12.08773773,,,,61,3.7,5.4,,,88.0%,417.65%,417.65%
+West Lindsey,,,The Hackthorn Church of England Primary School,120572,2014,1.244574,35.03,70.7,,12.08773773,,,,58,3.8,,,,100.0%,16.28%,16.28%
+West Lindsey,,,The Hackthorn Church of England Primary School,120572,2019,1.244574,35.03,70.7,,12.08773773,,,,60,4.1,,,,88.0%,0.00%,0.00%
+West Lindsey,,,The Hackthorn Church of England Primary School,120572,2016,1.244574,35.03,70.7,,12.08773773,,,,57,4.5,13.5,,,57.0%,-5.00%,-5.00%
+West Lindsey,,,The Hackthorn Church of England Primary School,120572,2013,1.244574,35.03,70.7,,12.08773773,,,,58,5.2,8.8,,,86.0%,-14.00%,-14.00%
+West Lindsey,,,The Hackthorn Church of England Primary School,120572,2024,1.244574,35.03,70.7,,12.08773773,,,,56,4.5,11.8,,,75.0%,-15.73%,-15.73%
+West Lindsey,,,The Hackthorn Church of England Primary School,120572,2015,1.244574,35.03,70.7,,12.08773773,,,,61,4.9,,,,60.0%,-40.00%,-40.00%
+West Lindsey,,,The Hackthorn Church of England Primary School,120572,2017,1.244574,35.03,70.7,,12.08773773,,,,60,4.5,10.5,,,17.0%,-70.18%,-70.18%
+Calderdale,,,The Halifax Academy,140326,2024,,,,,,,,,1449,10,34.1,,,66%,26.92%,26.92%
+West Lindsey,,,The Market Rasen Church of England Primary School,120577,2015,6.558138,57.65,52.5,,0.012122482,,,,293,3,1.6,,,93.0%,43.08%,43.08%
+West Lindsey,,,The Market Rasen Church of England Primary School,120577,2024,6.558138,57.65,52.5,,0.012122482,4,0,,308,4.9,12.4,,,63.0%,16.67%,16.67%
+West Lindsey,,,The Market Rasen Church of England Primary School,120577,2018,6.558138,57.65,52.5,,0.012122482,,,,292,3.3,4.9,,,68.0%,9.68%,9.68%
+West Lindsey,,,The Market Rasen Church of England Primary School,120577,2013,6.558138,57.65,52.5,,0.012122482,,,,281,5,2.9,,,88.0%,-3.30%,-3.30%
+West Lindsey,,,The Market Rasen Church of England Primary School,120577,2017,6.558138,57.65,52.5,,0.012122482,,,,305,3.6,5.2,,,62.0%,-6.06%,-6.06%
+West Lindsey,,,The Market Rasen Church of England Primary School,120577,2019,6.558138,57.65,52.5,,0.012122482,,,,300,3.4,8.3,,,56.0%,-17.65%,-17.65%
+West Lindsey,,,The Market Rasen Church of England Primary School,120577,2014,6.558138,57.65,52.5,,0.012122482,,,,274,3.3,1.6,,,65.0%,-26.14%,-26.14%
+West Lindsey,,,The Market Rasen Church of England Primary School,120577,2016,6.558138,57.65,52.5,,0.012122482,,,,296,3.7,6.8,,,66.0%,-29.03%,-29.03%
+West Lindsey,,,The Middle Rasen Primary School,120463,2019,3.105958,31.6,50.1,,33.0601491,,,,97,4.3,16.3,,,65.0%,225.00%,225.00%
+West Lindsey,,,The Middle Rasen Primary School,120463,2013,3.105958,31.6,50.1,,33.0601491,,,,98,4,0,,,100.0%,33.33%,33.33%
+West Lindsey,,,The Middle Rasen Primary School,120463,2024,3.105958,31.6,50.1,,33.0601491,4,1.97,,135,5,12.4,,,68.0%,17.24%,17.24%
+West Lindsey,,,The Middle Rasen Primary School,120463,2015,3.105958,31.6,50.1,,33.0601491,,,,103,4,,,,81.0%,2.53%,2.53%
+West Lindsey,,,The Middle Rasen Primary School,120463,2017,3.105958,31.6,50.1,,33.0601491,,,,96,4,9,,,50.0%,-12.28%,-12.28%
+West Lindsey,,,The Middle Rasen Primary School,120463,2014,3.105958,31.6,50.1,,33.0601491,,,,96,3.4,0,,,79.0%,-21.00%,-21.00%
+West Lindsey,,,The Middle Rasen Primary School,120463,2016,3.105958,31.6,50.1,,33.0601491,,,,102,4.2,9.6,,,57.0%,-29.63%,-29.63%
+West Lindsey,,,The Middle Rasen Primary School,120463,2018,3.105958,31.6,50.1,,33.0601491,,,,104,3.1,3.3,,,20.0%,-60.00%,-60.00%
+West Lindsey,,,The Nettleham Church of England Voluntary Aided Junior School,120626,2018,5.58143,56.69,60.1,,0,,,,238,3,2.5,,,66.0%,13.79%,13.79%
+West Lindsey,,,The Nettleham Church of England Voluntary Aided Junior School,120626,2014,5.58143,56.69,60.1,,0,,,,241,3.5,,,,84.0%,1.20%,1.20%
+West Lindsey,,,The Nettleham Church of England Voluntary Aided Junior School,120626,2013,5.58143,56.69,60.1,,0,,,,231,4.5,2.9,,,83.0%,0.00%,0.00%
+West Lindsey,,,The Nettleham Church of England Voluntary Aided Junior School,120626,2015,5.58143,56.69,60.1,,0,,,,236,3.1,1.2,,,81.0%,-3.57%,-3.57%
+West Lindsey,,,The Nettleham Church of England Voluntary Aided Junior School,120626,2024,5.58143,56.69,60.1,,0,,,,227,5.3,12.5,,,54.0%,-3.57%,-3.57%
+West Lindsey,,,The Nettleham Church of England Voluntary Aided Junior School,120626,2019,5.58143,56.69,60.1,,0,,,,244,3.4,5.7,,,63.0%,-4.55%,-4.55%
+West Lindsey,,,The Nettleham Church of England Voluntary Aided Junior School,120626,2017,5.58143,56.69,60.1,,0,,,,239,3.1,3.3,,,58.0%,-4.92%,-4.92%
+West Lindsey,,,The Nettleham Church of England Voluntary Aided Junior School,120626,2016,5.58143,56.69,60.1,,0,,,,240,3.4,5.3,,,61.0%,-24.69%,-24.69%
+West Lindsey,,,"The North-County Primary School, Gainsborough",120448,2013,5.58143,,,,,,,,154,7.2,3.6,,,83.0%,33.87%,33.87%
+West Lindsey,,,The Saxilby Church of England Primary School,120583,2014,8.841411,83.84,59.8,,1.521392228,,,,281,3.4,1.9,,,95.0%,43.94%,43.94%
+West Lindsey,,,The Saxilby Church of England Primary School,120583,2017,8.841411,83.84,59.8,,1.521392228,,,,314,3.6,5.8,,,78.0%,34.48%,34.48%
+West Lindsey,,,The Saxilby Church of England Primary School,120583,2019,8.841411,83.84,59.8,,1.521392228,,,,325,3.7,9.9,,,69.0%,1.47%,1.47%
+West Lindsey,,,The Saxilby Church of England Primary School,120583,2015,8.841411,83.84,59.8,,1.521392228,,,,291,3.4,1.6,,,85.0%,-10.53%,-10.53%
+West Lindsey,,,The Saxilby Church of England Primary School,120583,2018,8.841411,83.84,59.8,,1.521392228,,,,329,4,9.4,,,68.0%,-12.82%,-12.82%
+West Lindsey,,,The Saxilby Church of England Primary School,120583,2013,8.841411,83.84,59.8,,1.521392228,,,,291,5,4.4,,,66.0%,-27.47%,-27.47%
+West Lindsey,,,The Saxilby Church of England Primary School,120583,2016,8.841411,83.84,59.8,,1.521392228,,,,319,3.3,4.3,,,58.0%,-31.76%,-31.76%
+West Lindsey,,,The Saxilby Church of England Primary School,120583,2024,8.841411,83.84,59.8,,1.521392228,8,1.65,,378,4.8,10.5,,,47.0%,-34.72%,-34.72%
+West Lindsey,,,"The White's Wood Lane Community Junior School, Gainsborough",120489,2013,8.841411,,,,,,,,160,4.8,3,,,93.0%,10.71%,10.71%
+Calderdale,,,"Todmorden CofE J, I & N School",107556,2017,0.485686,8.1,68.4,,0,,,,235,3.7,10.7,,,65%,25.00%,25.00%
+Calderdale,,,"Todmorden CofE J, I & N School",107556,2019,0.485686,8.1,68.4,,0,,,,266,2.6,1.7,,,84%,21.74%,21.74%
+Calderdale,,,"Todmorden CofE J, I & N School",107556,2018,0.485686,8.1,68.4,,0,,,,264,3.1,4.5,,,69%,6.15%,6.15%
+Calderdale,,,"Todmorden CofE J, I & N School",107556,2015,0.485686,8.1,68.4,,0,,,,233,3.9,1.8,,,85%,4.94%,4.94%
+Calderdale,,,"Todmorden CofE J, I & N School",107556,2014,0.485686,8.1,68.4,,0,,,,183,4.4,3.8,,,81%,0.00%,0.00%
+Calderdale,,,"Todmorden CofE J, I & N School",107556,2024,0.485686,8.1,68.4,,0,,,,249,3.9,2.3,,,63%,-12.50%,-12.50%
+Calderdale,,,"Todmorden CofE J, I & N School",107556,2016,0.485686,8.1,68.4,,0,5,35.75,,249,3.4,6.5,,,52%,-38.82%,-38.82%
+Calderdale,,,Todmorden CofE Junior and Infant School,107556,2013,0.485686,8.1,68.4,,0,,,,179,5.2,5.8,,,81%,9.46%,9.46%
+Calderdale,,,Triangle CofE VC Primary School,107540,2018,0.444774,11.36,64.9,,0,,,,187,3.4,4.8,,,73%,19.67%,19.67%
+Calderdale,,,Triangle CofE VC Primary School,107540,2015,0.444774,11.36,64.9,,0,,,,,,,,,100%,9.89%,9.89%
+Calderdale,,,Triangle CofE VC Primary School,107540,2013,0.444774,11.36,64.9,,0,,,,,,,,,95%,9.20%,9.20%
+Calderdale,,,Triangle CofE VC Primary School,107540,2019,0.444774,11.36,64.9,,0,,,,200,2.5,2.3,,,78%,6.85%,6.85%
+Calderdale,,,Triangle CofE VC Primary School,107540,2014,0.444774,11.36,64.9,,0,,,,,,,,,91%,-4.21%,-4.21%
+Calderdale,,,Triangle CofE VC Primary School,107540,2017,0.444774,11.36,64.9,,0,,,,189,3,2.4,,,61%,-4.69%,-4.69%
+Calderdale,,,Triangle CofE VC Primary School,107540,2024,0.444774,11.36,64.9,,0,,,,188,3.6,6.6,,,55%,-8.33%,-8.33%
+Calderdale,,,Triangle CofE VC Primary School,107540,2016,0.444774,11.36,64.9,,0,5,0,,188,3,3.7,,,64%,-36.00%,-36.00%
+Calderdale,,,Trinity Academy Akroydon,143651,2024,0.65633,19.2,81,,1.084400944,,,,254,6.1,17.6,,,51%,0.00%,0.00%
+Calderdale,,,Trinity Academy St Chad's,146959,2024,0.907871,13.73,60.5,,1.227663626,,,,144,4,7.6,,,73%,-12.05%,-12.05%
+Calderdale,,,Trinity Academy St Peter's,148143,2024,0.544827,15.39,86.2,,0.182297683,,,,103,5.7,18.9,,,50%,6.38%,6.38%
+West Lindsey,,,Waddingham Primary School,120485,2018,22.27238,75.01,57.8,,2.823915813,,,,83,2.7,,,,79.0%,58.00%,58.00%
+West Lindsey,,,Waddingham Primary School,120485,2019,22.27238,75.01,57.8,,2.823915813,,,,76,2.7,0,,,91.0%,15.19%,15.19%
+West Lindsey,,,Waddingham Primary School,120485,2013,22.27238,75.01,57.8,,2.823915813,,,,71,4.4,0,,,86.0%,1.18%,1.18%
+West Lindsey,,,Waddingham Primary School,120485,2017,22.27238,75.01,57.8,,2.823915813,,,,77,3.7,7.8,,,50.0%,-25.37%,-25.37%
+West Lindsey,,,Waddingham Primary School,120485,2016,22.27238,75.01,57.8,,2.823915813,,,,78,3.3,5.2,,,67.0%,-33.00%,-33.00%
+West Lindsey,,,Waddingham Primary School,120485,2024,22.27238,75.01,57.8,,2.823915813,8,0.72,,86,4.8,7.6,,,19.0%,-55.81%,-55.81%
+West Lindsey,,,Waddingham Primary School,120485,2014,22.27238,75.01,57.8,,2.823915813,,,,71,3.7,0,,,,-100.00%,-100.00%
+Calderdale,,,Wainstalls School,140107,2017,1.340436,36.9,54.5,,4.970683047,,,,171,3.3,3.3,,,95%,82.69%,82.69%
+Calderdale,,,Wainstalls School,140107,2019,1.340436,36.9,54.5,,4.970683047,,,,196,3.3,3.5,,,92%,13.58%,13.58%
+Calderdale,,,Wainstalls School,107493,2013,1.340436,,,,4.970683047,,,,139,5.1,3.3,,,88%,11.39%,11.39%
+Calderdale,,,Wainstalls School,140107,2015,1.340436,36.9,54.5,,4.970683047,,,,146,3.8,0,,,94%,9.30%,9.30%
+Calderdale,,,Wainstalls School,140107,2024,1.340436,36.9,54.5,,4.970683047,,,,201,3.5,4.4,,,74%,-9.76%,-9.76%
+Calderdale,,,Wainstalls School,140107,2018,1.340436,36.9,54.5,,4.970683047,,,,185,3.9,4.9,,,81%,-14.74%,-14.74%
+Calderdale,,,Wainstalls School,140107,2016,1.340436,36.9,54.5,,4.970683047,5,0,,159,2.8,2.2,,,52%,-44.68%,-44.68%
+Calderdale,,,Walsden St Peter's CE (VC) Primary School,135862,2017,2.385039,,,,0.014669516,,,,173,3.2,4.7,,,71%,144.83%,144.83%
+Calderdale,,,Walsden St Peter's CE (VC) Primary School,135862,2015,2.385039,,,,0.014669516,,,,164,3.1,0,,,91%,22.97%,22.97%
+Calderdale,,,Walsden St Peter's CE (VC) Primary School,135862,2024,2.385039,,,,0.014669516,,,,173,4.7,11.6,,,65%,20.37%,20.37%
+Calderdale,,,Walsden St Peter's CE (VC) Primary School,135862,2019,2.385039,,,,0.014669516,,,,174,3,4,,,68%,13.33%,13.33%
+Calderdale,,,Walsden St Peter's CE (VC) Primary School,135862,2013,2.385039,,,,0.014669516,,,,153,3.9,2.3,,,81%,2.53%,2.53%
+Calderdale,,,Walsden St Peter's CE (VC) Primary School,135862,2014,2.385039,,,,0.014669516,,,,157,3.1,0,,,74%,-8.64%,-8.64%
+Calderdale,,,Walsden St Peter's CE (VC) Primary School,135862,2018,2.385039,,,,0.014669516,,,,173,3.5,4,,,60%,-15.49%,-15.49%
+Calderdale,,,Walsden St Peter's CE (VC) Primary School,135862,2016,2.385039,,,,0.014669516,,,,170,3.5,6.3,,,29%,-68.13%,-68.13%
+Calderdale,,,Warley Road Primary Academy,146677,2024,1.06476,,,,6.751553666,,,,539,7.1,21.7,,,63%,-5.97%,-5.97%
+Calderdale,,,Warley Road Primary School,107494,2018,1.06476,23.84,80.6,,6.751553666,,,,631,4.2,8.5,,,57%,21.28%,21.28%
+Calderdale,,,Warley Road Primary School,107494,2019,1.06476,23.84,80.6,,6.751553666,,,,640,4.8,11,,,65%,14.04%,14.04%
+Calderdale,,,Warley Road Primary School,107494,2014,1.06476,23.84,80.6,,6.751553666,,,,558,3.4,0.8,,,73%,12.31%,12.31%
+Calderdale,,,Warley Road Primary School,107494,2015,1.06476,23.84,80.6,,6.751553666,,,,569,4.1,2.2,,,77%,5.48%,5.48%
+Calderdale,,,Warley Road Primary School,107494,2017,1.06476,23.84,80.6,,6.751553666,,,,637,4.1,8.7,,,47%,0.00%,0.00%
+Calderdale,,,Warley Road Primary School,107494,2013,1.06476,23.84,80.6,,6.751553666,,,,541,4.5,2.8,,,65%,-13.33%,-13.33%
+Calderdale,,,Warley Road Primary School,107494,2016,1.06476,23.84,80.6,,6.751553666,,,,658,3.8,8.7,,,47%,-38.96%,-38.96%
+Calderdale,,,Warley Town School,107495,2017,2.358327,16.48,78.3,,1.871171344,,,,138,4.2,8.3,,,68%,19.30%,19.30%
+Calderdale,,,Warley Town School,107495,2019,2.358327,16.48,78.3,,1.871171344,,,,143,3.6,7.3,,,75%,10.29%,10.29%
+Calderdale,,,Warley Town School,107495,2013,2.358327,16.48,78.3,,1.871171344,,,,108,4.9,4.2,,,93%,6.90%,6.90%
+Calderdale,,,Warley Town School,107495,2015,2.358327,16.48,78.3,,1.871171344,,,,128,3.4,0,,,100%,6.38%,6.38%
+Calderdale,,,Warley Town School,107495,2014,2.358327,16.48,78.3,,1.871171344,,,,109,2.6,0,,,94%,1.08%,1.08%
+Calderdale,,,Warley Town School,107495,2018,2.358327,16.48,78.3,,1.871171344,,,,141,3.5,2.5,,,68%,0.00%,0.00%
+Calderdale,,,Warley Town School,107495,2024,2.358327,16.48,78.3,,1.871171344,,,,132,4.9,14.2,,,58%,-3.33%,-3.33%
+Calderdale,,,Warley Town School,107495,2016,2.358327,16.48,78.3,,1.871171344,,,,132,3.6,4.4,,,57%,-43.00%,-43.00%
+West Lindsey,,,Welton St Mary's Church of England Primary Academy,139187,2018,18.59008,33.23,70.8,,0.138911192,,,,354,2.8,3.7,,,63.0%,26.00%,26.00%
+West Lindsey,,,Welton St Mary's Church of England Primary Academy,139187,2019,18.59008,33.23,70.8,,0.138911192,,,,346,3.2,3.2,,,75.0%,19.05%,19.05%
+West Lindsey,,,Welton St Mary's Church of England Primary Academy,139187,2024,18.59008,33.23,70.8,,0.138911192,,,,381,4.1,8,,,75.0%,4.17%,4.17%
+West Lindsey,,,Welton St Mary's Church of England Primary Academy,139187,2015,18.59008,33.23,70.8,,0.138911192,,,,364,2.6,0,,,82.0%,-9.89%,-9.89%
+West Lindsey,,,Welton St Mary's Church of England Primary Academy,139187,2017,18.59008,33.23,70.8,,0.138911192,,,,357,3.1,4,,,50.0%,-20.63%,-20.63%
+West Lindsey,,,Welton St Mary's Church of England Primary Academy,139187,2016,18.59008,33.23,70.8,,0.138911192,,,,371,3.1,3.9,,,63.0%,-23.17%,-23.17%
+West Lindsey,,,Welton St Mary's Church of England Primary Academy,139187,2013,18.59008,33.23,70.8,,0.138911192,,,,376,,,,,,-100.00%,-100.00%
+Calderdale,,,West Vale Academy,145571,2024,3.176357,11.25,49.6,,4.799313912,,,,98,5.4,18,,,75%,29.31%,29.31%
+Calderdale,,,West Vale Primary School,107573,2017,3.176357,,,,4.799313912,,,,173,4.2,10.1,,,46%,130.00%,130.00%
+Calderdale,,,West Vale Primary School,107573,2013,3.176357,,,,4.799313912,,,,175,4.6,3.2,,,68%,21.43%,21.43%
+Calderdale,,,West Vale Primary School,107573,2014,3.176357,,,,4.799313912,,,,182,4.2,2.5,,,80%,17.65%,17.65%
+Calderdale,,,West Vale Primary School,107573,2015,3.176357,,,,4.799313912,,,,179,4.4,3.1,,,81%,1.25%,1.25%
+Calderdale,,,West Vale Primary School,107573,2018,3.176357,,,,4.799313912,,,,172,4.7,14.5,,,32%,-30.43%,-30.43%
+Calderdale,,,West Vale Primary School,107573,2016,3.176357,,,,4.799313912,,,,180,4.4,10.8,,,20%,-75.31%,-75.31%
+Calderdale,,,Whitehill Community Academy,136547,2013,,18.39,81.6,,,,,,491,3.5,1,,,79%,11.27%,11.27%
+Calderdale,,,Whitehill Community Academy,136547,2015,,18.39,81.6,,,,,,,,,,,86%,10.26%,10.26%
+Calderdale,,,Whitehill Community Academy,136547,2019,,18.39,81.6,,,,,,689,3.3,5.5,,,60%,7.14%,7.14%
+Calderdale,,,Whitehill Community Academy,136547,2014,,18.39,81.6,,,,,,502,3,1,,,78%,-1.27%,-1.27%
+Calderdale,,,Whitehill Community Academy,136547,2018,,18.39,81.6,,,,,,686,3.4,5.1,,,56%,-8.20%,-8.20%
+Calderdale,,,Whitehill Community Academy,136547,2024,,18.39,81.6,,,,,,671,5.8,15.4,,,56%,-8.20%,-8.20%
+Calderdale,,,Whitehill Community Academy,136547,2017,,18.39,81.6,,,,,,665,3.4,4.8,,,61%,-8.96%,-8.96%
+Calderdale,,,Whitehill Community Academy,136547,2016,,18.39,81.6,,,,,,619,3.3,5.4,,,67%,-22.09%,-22.09%
+West Lindsey,,,White's Wood Academy,139361,2019,13.85026,11.61,84.4,,12.76794906,,,,216,4.8,15.4,,,52.0%,26.83%,26.83%
+West Lindsey,,,White's Wood Academy,139361,2017,13.85026,11.61,84.4,,12.76794906,,,,218,4.8,15.5,,,50.0%,21.95%,21.95%
+West Lindsey,,,White's Wood Academy,139361,2018,13.85026,11.61,84.4,,12.76794906,,,,221,4.7,15.9,,,41.0%,-18.00%,-18.00%
+West Lindsey,,,White's Wood Academy,139361,2015,13.85026,11.61,84.4,,12.76794906,,,,200,4.2,3.8,,,72.0%,-19.10%,-19.10%
+West Lindsey,,,White's Wood Academy,139361,2024,13.85026,11.61,84.4,,12.76794906,,,,206,5.5,14.9,,,36.0%,-29.41%,-29.41%
+West Lindsey,,,White's Wood Academy,139361,2016,13.85026,11.61,84.4,,12.76794906,,,,208,4.4,12.2,,,41.0%,-43.06%,-43.06%
+West Lindsey,,,Willoughton Primary School,120487,2018,18.00527,43.96,64.4,,1.324866648,,,,57,4.1,8.2,,,50.0%,194.12%,194.12%
+West Lindsey,,,Willoughton Primary School,120487,2024,18.00527,43.96,64.4,,1.324866648,,,,49,4.2,10.6,,,54.0%,8.00%,8.00%
+West Lindsey,,,Willoughton Primary School,120487,2019,18.00527,43.96,64.4,,1.324866648,,,,60,5.1,8.2,,,40.0%,-20.00%,-20.00%
+West Lindsey,,,Willoughton Primary School,120487,2016,18.00527,43.96,64.4,,1.324866648,,,,51,4.1,7.8,,,43.0%,-51.69%,-51.69%
+West Lindsey,,,Willoughton Primary School,120487,2017,18.00527,43.96,64.4,,1.324866648,,,,57,3.2,,,,17.0%,-60.47%,-60.47%
+West Lindsey,,,Willoughton Primary School,120487,2013,18.00527,43.96,64.4,,1.324866648,,,,49,4.3,,,,,-100.00%,-100.00%
+Calderdale,,,Withinfields Primary School,107502,2015,13.89866,24.7,77.9,,0.583341055,,,,342,4.5,1.9,,,80%,60.00%,60.00%
+Calderdale,,,Withinfields Primary School,107502,2019,13.89866,24.7,77.9,,0.583341055,,,,378,4,8.6,,,50%,19.05%,19.05%
+Calderdale,,,Withinfields Primary School,107502,2013,13.89866,24.7,77.9,,0.583341055,,,,323,5.2,3.1,,,82%,15.49%,15.49%
+Calderdale,,,Withinfields Primary School,107502,2017,13.89866,24.7,77.9,,0.583341055,,,,377,4.7,9.6,,,47%,14.63%,14.63%
+Calderdale,,,Withinfields Primary School,107502,2024,13.89866,24.7,77.9,,0.583341055,,,,331,5.9,16.3,,,70%,1.45%,1.45%
+Calderdale,,,Withinfields Primary School,107502,2018,13.89866,24.7,77.9,,0.583341055,,,,383,4.3,9.3,,,42%,-10.64%,-10.64%
+Calderdale,,,Withinfields Primary School,107502,2014,13.89866,24.7,77.9,,0.583341055,,,,317,4,1.3,,,50%,-39.02%,-39.02%
+Calderdale,,,Withinfields Primary School,107502,2016,13.89866,24.7,77.9,,0.583341055,,,,358,4.5,8.4,,,41%,-48.75%,-48.75%
+Calderdale,,,Woodhouse Primary School,107528,2017,8.856501,16.58,86,,2.600911836,,,,418,2.8,2.2,,,79%,11.27%,11.27%
+Calderdale,,,Woodhouse Primary School,107528,2014,8.856501,16.58,86,,2.600911836,,,,414,2.3,0,,,93%,5.68%,5.68%
+Calderdale,,,Woodhouse Primary School,107528,2024,8.856501,16.58,86,,2.600911836,,,,420,4,7.5,,,77%,4.05%,4.05%
+Calderdale,,,Woodhouse Primary School,107528,2018,8.856501,16.58,86,,2.600911836,,,,418,2.9,2.2,,,80%,1.27%,1.27%
+Calderdale,,,Woodhouse Primary School,107528,2013,8.856501,16.58,86,,2.600911836,,,,,,,,,88%,0.00%,0.00%
+Calderdale,,,Woodhouse Primary School,107528,2015,8.856501,16.58,86,,2.600911836,,,,,,,,,93%,0.00%,0.00%
+Calderdale,,,Woodhouse Primary School,107528,2019,8.856501,16.58,86,,2.600911836,,,,417,2.4,1.7,,,80%,0.00%,0.00%
+Calderdale,,,Woodhouse Primary School,107528,2016,8.856501,16.58,86,,2.600911836,5,9.74,,421,2.5,1.4,,,71%,-23.66%,-23.66%
+Calderdale,Elland,4,,,2017,,,,,,,,,,,,,,54.11%,42.81%,42.81%
+Calderdale,Ovenden,4,,,2017,,,,,,,,,,,,,,43.90%,40.17%,40.17%
+Calderdale,Warley,4,,,2017,,,,,,,,,,,,,,44.74%,38.77%,38.77%
+Calderdale,Town,2,,,2018,,,,,,,,,,,,,,52.26%,30.91%,30.91%
+Calderdale,Rastrick,5,,,2017,,,,,,,,,,,,,,60.10%,28.06%,28.06%
+Calderdale,Sowerby Bridge,3,,,2017,,,,,,,,,,,,,,57.42%,25.48%,25.48%
+Calderdale,Calder,7,,,2017,,,,,,,,,,,,,,65.58%,25.06%,25.06%
+Calderdale,Luddendenfoot,8,,,2017,,,,,,,,,,,,,,67.82%,24.62%,24.62%
+Calderdale,Warley,4,,,2018,,,,,,,,,,,,,,55.27%,23.54%,23.54%
+Calderdale,Todmorden,6,,,2017,,,,,,,,,,,,,,56.01%,22.96%,22.96%
+Calderdale,Hipperholme and Lightcliffe,3,,,2018,,,,,,,,,,,,,,73.42%,21.46%,21.46%
+Calderdale,Sowerby Bridge,3,,,2019,,,,,,,,,,,,,,71.73%,21.15%,21.15%
+Calderdale,Greetland and Stainland,5,,,2017,,,,,,,,,,,,,,73.24%,19.60%,19.60%
+Calderdale,Ryburn,7,,,2017,,,,,,,,,,,,,,69.30%,19.05%,19.05%
+Calderdale,Brighouse,4,,,2017,,,,,,,,,,,,,,63.59%,19.04%,19.04%
+Calderdale,Park,4,,,2017,,,,,,,,,,,,,,43.55%,14.70%,14.70%
+Calderdale,Northowram and Shelf,6,,,2017,,,,,,,,,,,,,,60.87%,14.20%,14.20%
+Calderdale,Todmorden,6,,,2019,,,,,,,,,,,,,,64.76%,12.80%,12.80%
+Calderdale,Rastrick,5,,,2018,,,,,,,,,,,,,,67.76%,12.75%,12.75%
+Calderdale,Park,4,,,2018,,,,,,,,,,,,,,49.05%,12.63%,12.63%
+Calderdale,Brighouse,4,,,2023,,,,,,,,,,,,,,67.00%,11.82%,11.82%
+Calderdale,Skircoat,6,,,2017,,,,,,,,,,,,,,60.62%,11.52%,11.52%
+Calderdale,Illingworth and Mixenden,4,,,2018,,,,,,,,,,,,,,60.41%,11.46%,11.46%
+Calderdale,Greetland and Stainland,5,,,2023,,,,,,,,,,,,,,71.62%,11.35%,11.35%
+Calderdale,Park,4,,,2019,,,,,,,,,,,,,,54.10%,10.30%,10.30%
+Calderdale,Skircoat,6,,,2018,,,,,,,,,,,,,,66.65%,9.95%,9.95%
+Calderdale,Sowerby Bridge,3,,,2023,,,,,,,,,,,,,,61.12%,9.32%,9.32%
+Calderdale,Luddendenfoot,8,,,2023,,,,,,,,,,,,,,61.39%,7.27%,7.27%
+Calderdale,Brighouse,4,,,2019,,,,,,,,,,,,,,70.42%,6.47%,6.47%
+Calderdale,Calder,7,,,2019,,,,,,,,,,,,,,66.47%,4.46%,4.46%
+Calderdale,Brighouse,4,,,2018,,,,,,,,,,,,,,66.14%,4.01%,4.01%
+Calderdale,Town,2,,,2019,,,,,,,,,,,,,,54.26%,3.83%,3.83%
+Calderdale,Elland,4,,,2019,,,,,,,,,,,,,,56.57%,3.48%,3.48%
+Calderdale,Greetland and Stainland,5,,,2019,,,,,,,,,,,,,,68.94%,3.16%,3.16%
+Calderdale,Sowerby Bridge,3,,,2018,,,,,,,,,,,,,,59.21%,3.12%,3.12%
+Calderdale,Northowram and Shelf,6,,,2019,,,,,,,,,,,,,,61.61%,3.11%,3.11%
+Calderdale,Hipperholme and Lightcliffe,3,,,2023,,,,,,,,,,,,,,57.85%,2.92%,2.92%
+Calderdale,Todmorden,6,,,2018,,,,,,,,,,,,,,57.41%,2.50%,2.50%
+Calderdale,Skircoat,6,,,2019,,,,,,,,,,,,,,68.13%,2.22%,2.22%
+Calderdale,Rastrick,5,,,2023,,,,,,,,,,,,,,57.79%,1.80%,1.80%
+Calderdale,Illingworth and Mixenden,4,,,2017,,,,,,,,,,,,,,54.20%,1.75%,1.75%
+Calderdale,Park,4,,,2023,,,,,,,,,,,,,,61.80%,1.56%,1.56%
+Calderdale,Illingworth and Mixenden,4,,,2019,,,,,,,,,,,,,,61.10%,1.14%,1.14%
+Calderdale,Elland,4,,,2018,,,,,,,,,,,,,,54.67%,1.03%,1.03%
+Calderdale,Ryburn,7,,,2018,,,,,,,,,,,,,,68.64%,-0.95%,-0.95%
+Calderdale,Elland,4,,,2023,,,,,,,,,,,,,,55.98%,-1.03%,-1.03%
+Calderdale,Ryburn,7,,,2019,,,,,,,,,,,,,,67.74%,-1.31%,-1.31%
+Calderdale,Calder,7,,,2023,,,,,,,,,,,,,,60.74%,-1.75%,-1.75%
+Calderdale,Northowram and Shelf,6,,,2018,,,,,,,,,,,,,,59.75%,-1.84%,-1.84%
+Calderdale,Hipperholme and Lightcliffe,3,,,2019,,,,,,,,,,,,,,72.02%,-1.91%,-1.91%
+Calderdale,Luddendenfoot,8,,,2018,,,,,,,,,,,,,,66.47%,-1.99%,-1.99%
+Calderdale,Warley,4,,,2019,,,,,,,,,,,,,,54.04%,-2.23%,-2.23%
+Calderdale,Hipperholme and Lightcliffe,3,,,2017,,,,,,,,,,,,,,60.45%,-2.48%,-2.48%
+Calderdale,Ovenden,4,,,2018,,,,,,,,,,,,,,42.80%,-2.51%,-2.51%
+Calderdale,Town,2,,,2023,,,,,,,,,,,,,,56.43%,-2.79%,-2.79%
+Calderdale,Calder,7,,,2018,,,,,,,,,,,,,,63.63%,-2.97%,-2.97%
+Calderdale,Rastrick,5,,,2019,,,,,,,,,,,,,,65.31%,-3.62%,-3.62%
+Calderdale,Ryburn,7,,,2023,,,,,,,,,,,,,,61.17%,-3.62%,-3.62%
+Calderdale,Skircoat,6,,,2023,,,,,,,,,,,,,,56.25%,-4.04%,-4.04%
+Calderdale,Luddendenfoot,8,,,2019,,,,,,,,,,,,,,63.78%,-4.05%,-4.05%
+Calderdale,Todmorden,6,,,2023,,,,,,,,,,,,,,56.77%,-5.74%,-5.74%
+Calderdale,Ovenden,4,,,2019,,,,,,,,,,,,,,40.25%,-5.96%,-5.96%
+Calderdale,Northowram and Shelf,6,,,2023,,,,,,,,,,,,,,49.79%,-6.02%,-6.02%
+Calderdale,Town,2,,,2017,,,,,,,,,,,,,,39.92%,-7.42%,-7.42%
+Calderdale,Illingworth and Mixenden,4,,,2023,,,,,,,,,,,,,,53.18%,-7.71%,-7.71%
+Calderdale,Greetland and Stainland,5,,,2018,,,,,,,,,,,,,,66.83%,-8.75%,-8.75%
+Calderdale,Warley,4,,,2023,,,,,,,,,,,,,,47.97%,-10.27%,-10.27%
+Calderdale,Ovenden,4,,,2023,,,,,,,,,,,,,,45.15%,-16.33%,-16.33%
+Calderdale,Brighouse,4,,,2016,,,,,,,,,,,,,,53.42%,,
+Calderdale,Calder,7,,,2016,,,,,,,,,,,,,,52.44%,,
+Calderdale,Elland,4,,,2016,,,,,,,,,,,,,,37.89%,,
+Calderdale,Greetland and Stainland,5,,,2016,,,,,,,,,,,,,,61.24%,,
+Calderdale,Hipperholme and Lightcliffe,3,,,2016,,,,,,,,,,,,,,61.99%,,
+Calderdale,Illingworth and Mixenden,4,,,2016,,,,,,,,,,,,,,53.27%,,
+Calderdale,Luddendenfoot,8,,,2016,,,,,,,,,,,,,,54.42%,,
+Calderdale,Northowram and Shelf,6,,,2016,,,,,,,,,,,,,,53.30%,,
+Calderdale,Ovenden,4,,,2016,,,,,,,,,,,,,,31.32%,,
+Calderdale,Park,4,,,2016,,,,,,,,,,,,,,37.97%,,
+Calderdale,Rastrick,5,,,2016,,,,,,,,,,,,,,46.93%,,
+Calderdale,Ryburn,7,,,2016,,,,,,,,,,,,,,58.21%,,
+Calderdale,Skircoat,6,,,2016,,,,,,,,,,,,,,54.36%,,
+Calderdale,Sowerby Bridge,3,,,2016,,,,,,,,,,,,,,45.76%,,
+Calderdale,Todmorden,6,,,2016,,,,,,,,,,,,,,45.55%,,
+Calderdale,Town,2,,,2016,,,,,,,,,,,,,,43.12%,,
+Calderdale,Warley,4,,,2016,,,,,,,,,,,,,,32.24%,,
